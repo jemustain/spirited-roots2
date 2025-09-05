@@ -1,10 +1,11 @@
 @import "tailwindcss";
 
 :root {
-  --background: #fefdfb; /* Cream background for warmth */
-  --foreground: #374237; /* Dark sage for text */
+  --background: #fdfcf9; /* Warmer cream background */
+  --foreground: #3d4a3a; /* Deeper sage for text */
   --accent: #6b8068; /* Main sage green */
-  --gold: #ffc107; /* Gold accent */
+  --gold: #f4b429; /* Warmer gold accent */
+  --terracotta: #d26340; /* New terracotta accent */
 }
 
 @theme inline {
@@ -16,8 +17,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #2f372f; /* Dark sage background */
-    --foreground: #f6f7f6; /* Light sage for text */
+    --background: #2f3a2d; /* Dark sage background */
+    --foreground: #f8f9f8; /* Light sage for text */
   }
 }
 
@@ -104,33 +105,62 @@ body {
 }
 
 .sage-gradient {
-  background: linear-gradient(135deg, #6b8068 0%, #a4b5a4 100%);
+  background: linear-gradient(135deg, #6b8068 0%, #8fa68f 50%, #b4c4b4 100%);
 }
 
-.gold-accent {
-  color: var(--gold);
+.forest-gradient {
+  background: linear-gradient(135deg, #5a7f5a 0%, #7a9d7a 100%);
+}
+
+.warm-gradient {
+  background: linear-gradient(135deg, #f4b429 0%, #df8666 100%);
+}
+
+.nature-gradient {
+  background: linear-gradient(135deg, #5a7f5a 0%, #6b8068 50%, #f4b429 100%);
 }
 
 .btn-sage {
-  background-color: #546651;
+  background-color: #5a6e57;
   color: white;
   padding: 0.75rem 1.5rem;
   border-radius: 0.5rem;
-  transition: background-color 0.2s;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(90, 110, 87, 0.1);
 }
 
 .btn-sage:hover {
-  background-color: #435142;
+  background-color: #4a5a47;
+  box-shadow: 0 4px 8px rgba(90, 110, 87, 0.2);
+  transform: translateY(-1px);
 }
 
 .btn-gold {
-  background-color: #ffc107;
+  background-color: #f4b429;
   color: white;
   padding: 0.75rem 1.5rem;
   border-radius: 0.5rem;
-  transition: background-color 0.2s;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(244, 180, 41, 0.1);
 }
 
 .btn-gold:hover {
-  background-color: #e6a900;
+  background-color: #e89611;
+  box-shadow: 0 4px 8px rgba(244, 180, 41, 0.2);
+  transform: translateY(-1px);
+}
+
+.btn-terracotta {
+  background-color: #d26340;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(210, 99, 64, 0.1);
+}
+
+.btn-terracotta:hover {
+  background-color: #c34b2c;
+  box-shadow: 0 4px 8px rgba(210, 99, 64, 0.2);
+  transform: translateY(-1px);
 }

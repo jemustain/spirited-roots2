@@ -1,5 +1,7 @@
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import HeroImage from '@/components/HeroImage';
+import Link from 'next/link';
 
 export const metadata = {
   title: 'About Emily - SpiritedRoots',
@@ -12,8 +14,29 @@ export default function AboutPage() {
     <div className="min-h-screen bg-cream-50">
       <Header />
       
-      {/* Page Title */}
-      <div className="bg-sage-100 py-8">
+      {/* Hero Section */}
+      <section className="relative">
+        <HeroImage 
+          src="/images/heroes/about-hero.jpg"
+          alt="Emily with her son exploring nature - homeschool mom and natural living advocate"
+          className="h-80 md:h-96"
+          overlay={true}
+          overlayColor="forest"
+        />
+        <div className="absolute inset-0 flex items-center justify-center">
+          <div className="text-center text-white px-4 max-w-3xl">
+            <h1 className="text-4xl md:text-5xl font-bold mb-4 drop-shadow-lg">
+              About Emily
+            </h1>
+            <p className="text-xl md:text-2xl drop-shadow-md">
+              Wife, Mom, Nature Enthusiast & Your Guide to Natural Family Living
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Page Title - Removed since we have hero */}
+      <div className="hidden bg-sage-100 py-8">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-sage-900 mb-4">
             About Emily
