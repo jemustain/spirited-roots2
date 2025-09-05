@@ -1,7 +1,13 @@
 
 # SpiritedRoots Affiliate Blog
 
-This project is a modern affiliate marketing blog for homeschooling moms focused on natural living, eco-friendly kids' clothing, healthy recipes, and self-care products.
+Hey there! I'm Emily, a homeschool mom, software engineer, and nature lover helping other moms discover joyful, natural ways to thrive with their families. 🌿
+
+This is my affiliate marketing blog focused on natural living for homeschooling families - built with love, code, and the same GitHub CI/CD practices I use in my engineering work!
+
+## About This Project
+
+SpiritedRoots is where I share honest reviews of eco-friendly kids' clothing, healthy recipes for busy homeschool days, and self-care tips that actually work for real moms. As a software engineer who values both technology and tech-life balance, I've built this site to be fast, SEO-optimized, and perfect for sharing the natural products that make family life more vibrant.
 
 ## Tech Stack
 - Next.js (App Router)

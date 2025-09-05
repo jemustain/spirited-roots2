@@ -3,6 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
+import { calculateReadingTime } from './reading-time';
 
 const postsDirectory = path.join(process.cwd(), 'content/blog');
 
@@ -15,6 +16,7 @@ export interface BlogPost {
   tags: string[];
   featured?: boolean;
   content: string;
+  readingTime: number;
   seo: {
     title: string;
     description: string;
@@ -32,6 +34,9 @@ export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
     const processedContent = await remark().use(html).process(content);
     const contentHtml = processedContent.toString();
 
+    // Calculate reading time
+    const readingTime = calculateReadingTime(content);
+
     return {
       slug,
       title: data.title,
@@ -41,6 +46,7 @@ export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
       tags: data.tags || [],
       featured: data.featured || false,
       content: contentHtml,
+      readingTime,
       seo: data.seo || {
         title: data.title,
         description: data.excerpt,
@@ -66,7 +72,10 @@ export function getAllPosts(): BlogPost[] {
         const slug = fileName.replace(/\.md$/, '');
         const fullPath = path.join(postsDirectory, fileName);
         const fileContents = fs.readFileSync(fullPath, 'utf8');
-        const { data } = matter(fileContents);
+        const { data, content } = matter(fileContents);
+
+        // Calculate reading time for listing pages too
+        const readingTime = calculateReadingTime(content);
 
         return {
           slug,
@@ -77,6 +86,7 @@ export function getAllPosts(): BlogPost[] {
           tags: data.tags || [],
           featured: data.featured || false,
           content: '', // Don't load full content for listing
+          readingTime,
           seo: data.seo || {
             title: data.title,
             description: data.excerpt,
