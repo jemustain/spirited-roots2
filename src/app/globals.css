@@ -6,6 +6,19 @@
   --accent: #6b8068; /* Main sage green */
   --gold: #f4b429; /* Warmer gold accent */
   --terracotta: #d26340; /* New terracotta accent */
+  
+  /* Enhanced contrast ratios for light mode */
+  --text-primary: #1a201a; /* Very dark sage for maximum contrast */
+  --text-secondary: #2f3a2d; /* Dark sage for secondary text */
+  --text-muted: #5a6e57; /* Medium sage for muted text */
+  --link-color: #3d4a3a; /* Darker sage for links - improved contrast */
+  --link-hover: #2f3a2d; /* Even darker for hover */
+  
+  /* Background variations for light mode */
+  --bg-primary: #fdfcf9;
+  --bg-secondary: #f8f9f8;
+  --bg-accent: #e6ede6;
+  --border-color: #d1dcd1;
 }
 
 @theme inline {
@@ -17,38 +30,52 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #2f3a2d; /* Dark sage background */
+    --background: #1a201a; /* Very dark sage background */
     --foreground: #f8f9f8; /* Light sage for text */
+    
+    /* Enhanced contrast ratios for dark mode */
+    --text-primary: #f8f9f8; /* Light sage for maximum contrast */
+    --text-secondary: #e6ede6; /* Slightly darker for secondary text */
+    --text-muted: #b4c4b4; /* Medium sage for muted text */
+    --link-color: #8fa68f; /* Lighter sage for links */
+    --link-hover: #b4c4b4; /* Even lighter for hover */
+    
+    /* Background variations for dark mode */
+    --bg-primary: #1a201a;
+    --bg-secondary: #2f3a2d;
+    --bg-accent: #3d4a3a;
+    --border-color: #4a5a47;
   }
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  background: var(--bg-primary);
+  color: var(--text-primary);
   font-family: var(--font-geist-sans), system-ui, sans-serif;
   line-height: 1.6;
 }
 
-/* Custom styles for blog content */
+/* Custom styles for blog content with dark mode support */
 .prose {
-  @apply max-w-none;
+  max-width: none;
+  color: var(--text-primary);
 }
 
 .prose h1 {
-  color: #2f372f;
+  color: var(--text-primary);
   font-size: 2.25rem;
   margin-bottom: 1rem;
 }
 
 .prose h2 {
-  color: #435142;
+  color: var(--text-primary);
   font-size: 1.875rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
 .prose h3 {
-  color: #546651;
+  color: var(--text-secondary);
   font-size: 1.5rem;
   margin-top: 1.5rem;
   margin-bottom: 0.75rem;
@@ -57,15 +84,16 @@ body {
 .prose p {
   margin-bottom: 1.25rem;
   line-height: 1.75;
+  color: var(--text-primary);
 }
 
 .prose a {
-  color: #6b8068;
+  color: var(--link-color);
   text-decoration: underline;
 }
 
 .prose a:hover {
-  color: #546651;
+  color: var(--link-hover);
 }
 
 .prose ul, .prose ol {
@@ -75,18 +103,19 @@ body {
 
 .prose li {
   margin-bottom: 0.5rem;
+  color: var(--text-primary);
 }
 
 .prose blockquote {
-  border-left: 4px solid #ffc107;
+  border-left: 4px solid #f4b429;
   padding-left: 1rem;
   margin: 1.5rem 0;
   font-style: italic;
-  color: #435142;
+  color: var(--text-secondary);
 }
 
 .prose strong {
-  color: #2f372f;
+  color: var(--text-primary);
   font-weight: 600;
 }
 
@@ -163,4 +192,58 @@ body {
   background-color: #c34b2c;
   box-shadow: 0 4px 8px rgba(210, 99, 64, 0.2);
   transform: translateY(-1px);
+}
+
+/* Enhanced dark mode awareness for buttons */
+@media (prefers-color-scheme: dark) {
+  .btn-sage {
+    background-color: #6b8068;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+  .btn-sage:hover {
+    background-color: #8fa68f;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  }
+  
+  .btn-gold {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+  .btn-gold:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  }
+  
+  .btn-terracotta {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+  .btn-terracotta:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  }
+}
+
+/* Dark mode utilities */
+.dark-mode-text {
+  color: var(--text-primary);
+}
+
+.dark-mode-text-secondary {
+  color: var(--text-secondary);
+}
+
+.dark-mode-text-muted {
+  color: var(--text-muted);
+}
+
+.dark-mode-bg {
+  background-color: var(--bg-primary);
+}
+
+.dark-mode-bg-secondary {
+  background-color: var(--bg-secondary);
+}
+
+.dark-mode-border {
+  border-color: var(--border-color);
 }

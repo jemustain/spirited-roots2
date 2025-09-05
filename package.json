@@ -4,9 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
+    "build": "npm run check-accessibility && next build --turbopack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "check-accessibility": "node scripts/check-accessibility.js",
+    "test-colors": "npm run check-accessibility"
   },
   "dependencies": {
     "@vercel/speed-insights": "^1.2.0",
