@@ -5,6 +5,7 @@ import { format } from 'date-fns';
 import type { Metadata } from 'next';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -77,6 +78,8 @@ export default async function BlogPost({ params }: Props) {
                 </svg>
                 {post.readingTime} min read
               </span>
+              <span className="text-sage-500">•</span>
+              <AffiliateDisclosure variant="inline" />
             </div>
           </div>
         </div>

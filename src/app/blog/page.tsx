@@ -15,6 +15,7 @@ export default function BlogPage() {
       {/* Hero Section */}
       <section className="relative">
         <HeroImage 
+          src="/images/heroes/blog-hero.jpg"
           alt="Natural living blog posts about homeschooling and eco-friendly family life"
           className="h-64 md:h-80"
           overlay={true}

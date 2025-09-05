@@ -17,6 +17,7 @@ export default function AboutPage() {
       {/* Hero Section */}
       <section className="relative">
         <HeroImage 
+          src="/images/heroes/about-hero.jpg"
           alt="Emily with her son exploring nature - homeschool mom and natural living advocate"
           className="h-80 md:h-96"
           overlay={true}

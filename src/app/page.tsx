@@ -15,6 +15,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative">
         <HeroImage 
+          src="/images/heroes/homepage-hero.jpg"
           alt="Natural family living with homeschool mom and child in nature"
           className="h-96 md:h-[500px]"
           overlay={true}
