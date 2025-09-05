@@ -96,7 +96,7 @@ module.exports = {
         sans: ['var(--font-geist-sans)', 'ui-sans-serif', 'system-ui'],
         mono: ['var(--font-geist-mono)', 'ui-monospace', 'SFMono-Regular'],
       },
-      typography: (theme) => ({
+      typography: () => ({
         DEFAULT: {
           css: {
             '--tw-prose-body': 'var(--text-primary)',
@@ -174,6 +174,7 @@ module.exports = {
     },
   },
   plugins: [
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
     require('@tailwindcss/typography'),
   ],
 }

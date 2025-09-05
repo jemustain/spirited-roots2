@@ -48,26 +48,26 @@ export default function Home() {
         
         {/* Feature Cards */}
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
-          <div className="bg-white rounded-xl shadow-xl p-8 border-t-4 border-sage-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
+          <div className="card-bg-alt rounded-xl shadow-xl p-8 border-t-4 border-sage-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
             <div className="text-terracotta-500 text-4xl mb-4">🌱</div>
-            <h3 className="text-xl font-semibold text-sage-900 mb-3">Natural Products</h3>
-            <p className="text-sage-700">
+            <h3 className="text-xl font-semibold text-primary-responsive mb-3">Natural Products</h3>
+            <p className="text-secondary-responsive">
               Discover eco-friendly kids&apos; clothing, natural self-care products, and toxin-free household items.
             </p>
           </div>
           
-          <div className="bg-white rounded-xl shadow-xl p-8 border-t-4 border-gold-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
+          <div className="card-bg-alt rounded-xl shadow-xl p-8 border-t-4 border-gold-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
             <div className="text-forest-600 text-4xl mb-4">🥗</div>
-            <h3 className="text-xl font-semibold text-sage-900 mb-3">Healthy Recipes</h3>
-            <p className="text-sage-700">
+            <h3 className="text-xl font-semibold text-primary-responsive mb-3">Healthy Recipes</h3>
+            <p className="text-secondary-responsive">
               Nourishing, family-friendly recipes perfect for homeschool picnics and busy weekdays.
             </p>
           </div>
           
-          <div className="bg-white rounded-xl shadow-xl p-8 border-t-4 border-terracotta-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
+          <div className="card-bg-alt rounded-xl shadow-xl p-8 border-t-4 border-terracotta-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
             <div className="text-gold-500 text-4xl mb-4">📚</div>
-            <h3 className="text-xl font-semibold text-sage-900 mb-3">Homeschool Tips</h3>
-            <p className="text-sage-700">
+            <h3 className="text-xl font-semibold text-primary-responsive mb-3">Homeschool Tips</h3>
+            <p className="text-secondary-responsive">
               Nature-based learning activities and screen-free ideas for raising resilient children.
             </p>
           </div>
@@ -76,17 +76,17 @@ export default function Home() {
         {/* Featured Blog Posts */}
         {featuredPosts.length > 0 && (
           <section className="mb-16">
-            <h2 className="text-3xl font-bold text-sage-900 text-center mb-8">
+            <h2 className="text-3xl font-bold text-primary-responsive text-center mb-8">
               ✨ Featured Posts
             </h2>
             <div className="grid md:grid-cols-2 gap-8">
               {featuredPosts.slice(0, 2).map((post) => (
                 <article
                   key={post.slug}
-                  className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow"
+                  className="card-bg-alt rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow"
                 >
                   <div className="p-6">
-                    <div className="flex items-center text-sage-600 text-sm mb-3 gap-3">
+                    <div className="flex items-center text-muted-responsive text-sm mb-3 gap-3">
                       <span className="flex items-center">
                         <svg className="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clipRule="evenodd" />
@@ -109,19 +109,19 @@ export default function Home() {
                       </span>
                     </div>
                     
-                    <h3 className="text-xl font-semibold text-sage-900 mb-3 line-clamp-2">
+                    <h3 className="text-xl font-semibold text-primary-responsive mb-3 line-clamp-2">
                       <Link href={`/blog/${post.slug}`} className="hover:text-sage-700 transition-colors">
                         {post.title}
                       </Link>
                     </h3>
                     
-                    <p className="text-sage-700 mb-4 line-clamp-3">
+                    <p className="text-secondary-responsive mb-4 line-clamp-3">
                       {post.excerpt}
                     </p>
                     
                     <Link
                       href={`/blog/${post.slug}`}
-                      className="text-sage-600 font-semibold hover:text-sage-800 transition-colors"
+                      className="text-muted-responsive font-semibold hover:text-sage-800 transition-colors"
                     >
                       Read More →
                     </Link>

@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 interface HeroImageProps {
   src?: string;
   alt: string;
@@ -42,11 +44,13 @@ export default function HeroImage({
 
   return (
     <div className={`relative overflow-hidden ${className}`}>
-      <img 
+      <Image 
         src={src} 
         alt={alt}
         className="w-full h-full object-cover"
-        loading="lazy"
+        fill
+        sizes="100vw"
+        priority
       />
       {overlay && (
         <div className={`absolute inset-0 ${overlayClasses[overlayColor]}`}></div>
