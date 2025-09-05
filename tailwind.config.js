@@ -5,6 +5,7 @@ module.exports = {
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  darkMode: 'media', // Enable automatic dark mode based on system preference
   theme: {
     extend: {
       colors: {
@@ -95,35 +96,74 @@ module.exports = {
         sans: ['var(--font-geist-sans)', 'ui-sans-serif', 'system-ui'],
         mono: ['var(--font-geist-mono)', 'ui-monospace', 'SFMono-Regular'],
       },
-      typography: {
+      typography: (theme) => ({
         DEFAULT: {
           css: {
-            color: '#374237', // Dark sage for body text
+            '--tw-prose-body': 'var(--text-primary)',
+            '--tw-prose-headings': 'var(--text-primary)',
+            '--tw-prose-lead': 'var(--text-secondary)',
+            '--tw-prose-links': 'var(--link-color)',
+            '--tw-prose-bold': 'var(--text-primary)',
+            '--tw-prose-counters': 'var(--text-muted)',
+            '--tw-prose-bullets': 'var(--text-muted)',
+            '--tw-prose-hr': 'var(--border-color)',
+            '--tw-prose-quotes': 'var(--text-secondary)',
+            '--tw-prose-quote-borders': '#f4b429',
+            '--tw-prose-captions': 'var(--text-muted)',
+            '--tw-prose-code': 'var(--text-primary)',
+            '--tw-prose-pre-code': 'var(--text-primary)',
+            '--tw-prose-pre-bg': 'var(--bg-accent)',
+            '--tw-prose-th-borders': 'var(--border-color)',
+            '--tw-prose-td-borders': 'var(--border-color)',
+            
+            color: 'var(--tw-prose-body)',
+            maxWidth: 'none',
+            lineHeight: '1.75',
+            
             h1: {
-              color: '#2f372f', // Darkest sage for headings
+              color: 'var(--tw-prose-headings)',
+              fontWeight: '700',
             },
             h2: {
-              color: '#2f372f',
+              color: 'var(--tw-prose-headings)',
+              fontWeight: '600',
             },
             h3: {
-              color: '#435142',
+              color: 'var(--tw-prose-headings)',
+              fontWeight: '600',
             },
             h4: {
-              color: '#435142',
+              color: 'var(--tw-prose-headings)',
+              fontWeight: '600',
             },
             a: {
-              color: '#6b8068', // Main sage for links
+              color: 'var(--tw-prose-links)',
+              textDecoration: 'underline',
               '&:hover': {
-                color: '#546651', // Darker sage on hover
+                color: 'var(--link-hover)',
               },
             },
+            strong: {
+              color: 'var(--tw-prose-bold)',
+              fontWeight: '600',
+            },
             blockquote: {
-              borderLeftColor: '#ffc107', // Gold accent
-              color: '#435142',
+              fontStyle: 'italic',
+              color: 'var(--tw-prose-quotes)',
+              borderLeftColor: 'var(--tw-prose-quote-borders)',
+            },
+            code: {
+              color: 'var(--tw-prose-code)',
+            },
+            'pre code': {
+              color: 'var(--tw-prose-pre-code)',
+            },
+            pre: {
+              backgroundColor: 'var(--tw-prose-pre-bg)',
             },
           },
         },
-      },
+      }),
       spacing: {
         '18': '4.5rem',
         '88': '22rem',
