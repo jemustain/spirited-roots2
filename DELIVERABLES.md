@@ -11,17 +11,17 @@
 
 ### 🎨 Branding & Design Refinements
 - [ ] **Choose final site name** (alternatives to "SpiritedRoots")
-- [ ] **Refine color scheme** - enhance sage green/gold palette
+- [x] **Refine color scheme** - enhanced sage green/gold palette with terracotta and forest accents
 - [ ] **Design site title/logo** - create visual identity
-- [ ] **Add hero images** - homepage and page headers
+- [x] **Add hero images** - CSS gradient placeholders implemented, ready for real photos
 - [ ] **Source blog post images** - stock photos or custom photography
 - [ ] **Create favicon** - brand recognition
 
 ### 📝 Content Enhancements  
-- [ ] **Add "time to read" metric** - calculate and display on blog posts
-- [ ] **Link author name to About page** - improve internal linking
+- [x] **Add "time to read" metric** - calculate and display on blog posts
+- [x] **Link author name to About page** - improve internal linking
 - [ ] **Visual content strategy** - image placement for each blog post
-- [ ] **Create 2-3 more blog posts** - build content library
+- [ ] **Create 2-3 more blog posts** - build content library (see BLOG-IDEAS.md for 30 post concepts)
 - [ ] **SEO optimization review** - meta descriptions, keywords
 
 ### 🔗 Social Media Setup
@@ -46,6 +46,16 @@
 - [ ] **Thrive Market partnership** - health products
 - [ ] **Affiliate link management system** - tracking and disclosure
 - [ ] **Legal pages** - privacy policy, terms, affiliate disclosure
+
+### 🔗 Affiliate Link Integration Strategy
+- [ ] **Content Integration Plan** - Natural product mentions within blog posts
+- [ ] **Comparison Posts** - Create "Best of" lists with affiliate options
+- [ ] **Product Review Framework** - Standardized review format with affiliate links
+- [ ] **Link Management System** - Organize and track affiliate links by program
+- [ ] **Disclosure Templates** - FTC-compliant affiliate disclosures for each post
+- [ ] **Call-to-Action Optimization** - Strategic placement of affiliate links
+- [ ] **Seasonal Affiliate Calendar** - Plan product promotions around key seasons
+- [ ] **Email Capture for Affiliates** - Lead magnets tied to affiliate products
 
 ### 🎯 Content Strategy
 - [ ] **Editorial calendar** - 1-2 posts per week
@@ -74,11 +84,11 @@
 - [ ] **Guest posting strategy** - backlink building
 - [ ] **Podcast appearances** - thought leadership
 
-## 📱 Technical Debt & Improvements
+## � Technical Debt & Improvements
 
 ### 🔧 Code Quality
-- [ ] **Remove Products navigation** - not using product pages
-- [ ] **Mobile menu implementation** - hamburger menu functionality
+- [x] **Remove Products navigation** - not using product pages
+- [x] **Mobile menu implementation** - hamburger menu functionality with state management
 - [ ] **Error handling** - 404 pages, broken link management
 - [ ] **Accessibility audit** - WCAG compliance
 - [ ] **Performance monitoring** - ongoing optimization

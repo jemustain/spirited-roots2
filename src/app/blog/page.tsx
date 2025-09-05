@@ -3,6 +3,7 @@ import { getAllPosts } from '@/lib/blog';
 import { format } from 'date-fns';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import HeroImage from '@/components/HeroImage';
 
 export default function BlogPage() {
   const posts = getAllPosts();
@@ -11,8 +12,28 @@ export default function BlogPage() {
     <div className="min-h-screen bg-cream-50">
       <Header />
       
-      {/* Page Title */}
-      <div className="bg-sage-100 py-8">
+      {/* Hero Section */}
+      <section className="relative">
+        <HeroImage 
+          alt="Natural living blog posts about homeschooling and eco-friendly family life"
+          className="h-64 md:h-80"
+          overlay={true}
+          overlayColor="sage"
+        />
+        <div className="absolute inset-0 flex items-center justify-center">
+          <div className="text-center text-white px-4 max-w-3xl">
+            <h1 className="text-4xl md:text-5xl font-bold mb-4 drop-shadow-lg">
+              Our Family Stories
+            </h1>
+            <p className="text-lg md:text-xl drop-shadow-md">
+              Discover natural living tips, product reviews, and homeschool adventures
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Page Title - Hidden since we have hero */}
+      <div className="hidden bg-sage-100 py-8">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-sage-900 mb-4">
             🌿 Blog

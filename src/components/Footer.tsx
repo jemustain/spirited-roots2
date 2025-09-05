@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="bg-sage-900 text-sage-100 py-8 mt-16">
+    <footer className="bg-forest-900 text-cream-100 py-8 mt-16">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <p className="mb-4">Follow @SpiritedRoots for daily nature-inspired tips</p>
         <div className="flex justify-center space-x-6">
@@ -29,7 +29,7 @@ export default function Footer() {
             Pinterest
           </a>
         </div>
-        <p className="mt-6 text-sage-300 text-sm">
+        <p className="mt-6 text-cream-300 text-sm">
           © 2025 SpiritedRoots. Growing joyfully together.
         </p>
       </div>
