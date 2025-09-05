@@ -44,7 +44,7 @@ SpiritedRoots is a niche affiliate marketing review website built with Next.js, 
 - Path to motherhood included pregnancy loss at 5 months when partner passed away
 - Experienced three miscarriages that taught resilience and appreciation for each moment
 - Raised son as single mom initially, now married to supportive husband
-- Embraced homeschooling to immerse son in the world around him
+- Adopted homeschooling to immerse son in the world around him
 - Tech background provides unique edge in using tools like AI and automation
 - Inspired by Taoist farmer philosophy of seeing opportunity in every situation
 
@@ -83,8 +83,8 @@ SpiritedRoots is a niche affiliate marketing review website built with Next.js, 
 **Vocabulary:**
 - **Positive/Nature-Inspired**: joyful, glow, bloom, thrive, immerse, nurture, vibrant, grounded, spirited, legacy, roots, wild, shine
 - **Mom-Relatable**: busy days, little explorers, family wins, cozy routines, hands-on fun
-- **Uplifting/Inclusive**: finding opportunity in everyday, growing together joyfully, embracing nature's rhythm
-- **Avoidances**: No triggering words, keep 8th-grade reading level
+- **Uplifting/Inclusive**: finding opportunity in everyday, growing together joyfully, adopting nature's rhythm
+- **Avoidances**: Never use "embrace" (overused in marketing), no triggering words, keep 8th-grade reading level
 
 **Example Voice**: "Hey there, fellow homeschool moms! Picture this: my 3-year-old and I wandering through the woods, discovering leaves and laughter. That's the spirited roots of our days—wild adventures grounded in love."
 
