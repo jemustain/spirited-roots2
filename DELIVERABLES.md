@@ -1,8 +1,32 @@
 # SpiritedRoots - Next Deliverables & Project Roadmap
 
-## 🚀 Pre-Launch Tasks (Priority 1)
+## 🚀 Pre-Launch Tasks (Prior## 🔧 Technical Debt & Improvements
 
-### ✅ Core Site Foundation
+### 🔧 Code Quality & Testing
+- [x] **Remove Products navigation** - not using product pages
+- [x] **Mobile menu implementation** - hamburger menu functionality with state management
+- [x] **Color accessibility compliance** - WCAG AA standards with automated testing
+- [x] **Dark mode support** - automatic theme switching based on system preference
+- [ ] **Pre-commit hooks setup** - run accessibility tests before code check-in
+- [ ] **GitHub Actions CI/CD** - automated testing on pull requests
+- [ ] **Error handling** - 404 pages, broken link management
+- [ ] **Cross-browser testing** - Chrome, Firefox, Safari, Edge compatibility
+- [ ] **Performance monitoring** - Core Web Vitals and Lighthouse integration
+- [ ] **Content validation** - spell check, link verification automation
+
+### 🧪 Quality Assurance Automation
+- [x] **Color contrast testing** - `npm run check-accessibility` validates WCAG standards
+- [ ] **Automated testing pipeline** - run tests on every commit
+- [ ] **Visual regression testing** - catch design changes automatically
+- [ ] **SEO validation** - automated meta tag and structure checks
+- [ ] **Mobile responsiveness testing** - automated device compatibility
+
+### 🏗️ Infrastructure & Deployment
+- [ ] **Production deployment** - Vercel/Netlify setup with automated testing
+- [ ] **Domain purchase** - custom domain registration
+- [ ] **SSL certificate** - security implementation
+- [ ] **Backup strategy** - content protection
+- [ ] **CDN setup** - global content delivery Core Site Foundation
 - [x] Next.js project setup with TypeScript & Tailwind
 - [x] Basic sage green/gold theme implementation
 - [x] Markdown blog system with frontmatter
