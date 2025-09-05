@@ -247,3 +247,53 @@ body {
 .dark-mode-border {
   border-color: var(--border-color);
 }
+
+/* Card backgrounds that adapt to dark mode */
+.card-bg {
+  background-color: var(--bg-secondary);
+}
+
+.card-bg-alt {
+  background-color: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  .card-bg-alt {
+    background-color: var(--bg-accent);
+  }
+}
+
+/* Responsive text colors for dark mode */
+.text-primary-responsive {
+  color: var(--text-primary);
+}
+
+.text-secondary-responsive {
+  color: var(--text-secondary);
+}
+
+.text-muted-responsive {
+  color: var(--text-muted);
+}
+
+/* Content background - main content cards */
+.content-bg {
+  background-color: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  .content-bg {
+    background-color: var(--bg-secondary);
+  }
+}
+
+/* Section background - lighter sections within content */
+.section-bg {
+  background-color: #f8f9f8;
+}
+
+@media (prefers-color-scheme: dark) {
+  .section-bg {
+    background-color: var(--bg-accent);
+  }
+}

@@ -87,7 +87,7 @@ export default async function BlogPost({ params }: Props) {
 
       {/* Article Content */}
       <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="bg-white rounded-lg shadow-lg p-8 lg:p-12">
+        <div className="content-bg rounded-lg shadow-lg p-8 lg:p-12">
           {post.featured && (
             <div className="text-center mb-8">
               <span className="inline-block bg-gold-500 text-white px-4 py-2 text-sm font-semibold rounded-full">
@@ -101,7 +101,7 @@ export default async function BlogPost({ params }: Props) {
             {post.tags.map((tag) => (
               <span
                 key={tag}
-                className="bg-sage-100 text-sage-700 px-3 py-1 text-sm rounded-full"
+                className="section-bg text-secondary-responsive px-3 py-1 text-sm rounded-full"
               >
                 {tag}
               </span>
@@ -110,19 +110,19 @@ export default async function BlogPost({ params }: Props) {
 
           {/* Post Content */}
           <div 
-            className="prose prose-lg max-w-none text-sage-800 leading-relaxed"
+            className="prose prose-lg max-w-none text-primary-responsive leading-relaxed"
             dangerouslySetInnerHTML={{ __html: post.content }}
           />
 
           {/* Author Bio */}
-          <div className="mt-12 p-6 bg-sage-50 rounded-lg border-l-4 border-gold-500">
+          <div className="mt-12 p-6 section-bg rounded-lg border-l-4 border-gold-500">
             <div className="flex items-start">
               <div className="text-4xl mr-4">🌿</div>
               <div>
-                <h3 className="text-xl font-semibold text-sage-900 mb-2">
+                <h3 className="text-xl font-semibold text-primary-responsive mb-2">
                   About {post.author}
                 </h3>
-                <p className="text-sage-700">
+                <p className="text-secondary-responsive">
                   A homeschooling mom, software engineer, and nature enthusiast passionate about 
                   natural living and helping families create joyful, grounded lifestyles rooted in wellness.
                 </p>
@@ -131,11 +131,11 @@ export default async function BlogPost({ params }: Props) {
           </div>
 
           {/* Call to Action */}
-          <div className="mt-12 text-center p-8 bg-cream-100 rounded-lg">
-            <h3 className="text-2xl font-bold text-sage-900 mb-4">
+          <div className="mt-12 text-center p-8 section-bg rounded-lg">
+            <h3 className="text-2xl font-bold text-primary-responsive mb-4">
               Join the SpiritedRoots Community
             </h3>
-            <p className="text-sage-700 mb-6 max-w-2xl mx-auto">
+            <p className="text-secondary-responsive mb-6 max-w-2xl mx-auto">
               Get weekly tips, product reviews, and nature-inspired recipes delivered to your inbox.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

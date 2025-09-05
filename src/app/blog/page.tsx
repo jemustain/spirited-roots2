@@ -56,7 +56,7 @@ export default function BlogPage() {
             {posts.map((post) => (
               <article
                 key={post.slug}
-                className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow"
+                className="content-bg rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow"
               >
                 <div className="p-8">
                   {post.featured && (
@@ -65,13 +65,13 @@ export default function BlogPage() {
                     </span>
                   )}
                   
-                  <h2 className="text-2xl md:text-3xl font-bold text-sage-900 mb-4 hover:text-sage-700 transition-colors">
+                  <h2 className="text-2xl md:text-3xl font-bold text-primary-responsive mb-4 hover:text-sage-700 transition-colors">
                     <Link href={`/blog/${post.slug}`}>
                       {post.title}
                     </Link>
                   </h2>
                   
-                  <div className="flex flex-wrap items-center text-sage-600 text-sm mb-4 gap-3">
+                  <div className="flex flex-wrap items-center text-muted-responsive text-sm mb-4 gap-3">
                     <Link href="/about" className="flex items-center hover:text-sage-800 transition-colors">
                       <svg className="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
@@ -94,7 +94,7 @@ export default function BlogPage() {
                     </span>
                   </div>
                   
-                  <p className="text-sage-700 text-lg leading-relaxed mb-6">
+                  <p className="text-secondary-responsive text-lg leading-relaxed mb-6">
                     {post.excerpt}
                   </p>
                   
@@ -102,7 +102,7 @@ export default function BlogPage() {
                     {post.tags.map((tag) => (
                       <span
                         key={tag}
-                        className="bg-sage-100 text-sage-700 px-3 py-1 text-sm rounded-full"
+                        className="section-bg text-secondary-responsive px-3 py-1 text-sm rounded-full"
                       >
                         {tag}
                       </span>
