@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   if (!post) {
     return {
-      title: 'Post Not Found - SpiritedRoots',
+      title: 'Post Not Found - Violet Mama',
     };
   }
 
@@ -48,37 +48,37 @@ export default async function BlogPost({ params }: Props) {
       <Header />
       
       {/* Page Title */}
-      <div className="bg-sage-100 py-8">
+      <div className="bg-whisper-100 py-8">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <Link href="/blog" className="text-sage-700 hover:text-sage-900 mb-4 inline-block transition-colors">
+          <Link href="/blog" className="text-plum-700 hover:text-plum-900 mb-4 inline-block transition-colors">
             ← Back to Blog
           </Link>
           <div className="text-center">
-            <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-sage-900 mb-4">
+            <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-plum-900 mb-4">
               {post.title}
             </h1>
-            <div className="flex flex-wrap justify-center items-center text-sage-700 text-sm gap-3">
-              <Link href="/about" className="flex items-center hover:text-sage-900 transition-colors">
+            <div className="flex flex-wrap justify-center items-center text-plum-700 text-sm gap-3">
+              <Link href="/about" className="flex items-center hover:text-plum-900 transition-colors">
                 <svg className="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
                 </svg>
                 {post.author}
               </Link>
-              <span className="text-sage-500">•</span>
+              <span className="text-plum-500">•</span>
               <span className="flex items-center">
                 <svg className="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clipRule="evenodd" />
                 </svg>
-                {format(new Date(post.date), 'MMMM d, yyyy')}
+                {format(new Date(post.date + 'T12:00:00'), 'MMMM d, yyyy')}
               </span>
-              <span className="text-sage-500">•</span>
+              <span className="text-plum-500">•</span>
               <span className="flex items-center">
                 <svg className="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
                 </svg>
                 {post.readingTime} min read
               </span>
-              <span className="text-sage-500">•</span>
+              <span className="text-plum-500">•</span>
               <AffiliateDisclosure variant="inline" />
             </div>
           </div>
@@ -133,7 +133,7 @@ export default async function BlogPost({ params }: Props) {
           {/* Call to Action */}
           <div className="mt-12 text-center p-8 section-bg rounded-lg">
             <h3 className="text-2xl font-bold text-primary-responsive mb-4">
-              Join the SpiritedRoots Community
+              Join the Violet Mama Community
             </h3>
             <p className="text-secondary-responsive mb-6 max-w-2xl mx-auto">
               Get weekly tips, product reviews, and nature-inspired recipes delivered to your inbox.

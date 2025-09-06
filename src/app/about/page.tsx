@@ -59,7 +59,7 @@ export default function AboutPage() {
                   Hello, Beautiful Moms!
                 </h2>
                 <p className="text-secondary-responsive text-lg leading-relaxed mb-4">
-                  I&apos;m Violet, and I&apos;m so glad you&apos;ve found your way to SpiritedRoots! 
+                  I&apos;m Violet, and I&apos;m so glad you&apos;ve found your way to Violet Mama! 
                   I&apos;m a wife, mom to an incredible 3-year-old son, and a software engineer who believes 
                   that family life can be both beautifully grounded and wonderfully adventurous.
                 </p>
@@ -145,7 +145,7 @@ export default function AboutPage() {
           {/* What You'll Find Here */}
           <section className="mb-12">
             <h2 className="text-2xl font-bold text-primary-responsive mb-6">
-              ✨ What You&apos;ll Find at SpiritedRoots
+              ✨ What You&apos;ll Find at Violet Mama
             </h2>
             <p className="text-secondary-responsive text-lg leading-relaxed mb-6">
               This space is my love letter to fellow homeschooling moms who want to create 
@@ -185,16 +185,24 @@ export default function AboutPage() {
               that celebrates both the wild adventures and quiet moments of family life. 
               I&apos;d love to hear from you!
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="#" className="btn-lavender">
+            <div className="flex flex-col sm:flex-row gap-4 justify-center mb-6">
+              <a href="https://instagram.com/thevioletmama" className="btn-lavender" target="_blank" rel="noopener noreferrer">
                 Follow on Instagram
               </a>
-              <a href="#" className="btn-marigold">
+              <a href="https://www.facebook.com/TheVioletMama" className="btn-marigold" target="_blank" rel="noopener noreferrer">
                 Connect on Facebook
               </a>
             </div>
+            <div className="text-center">
+              <a href="https://linktr.ee/violetmama" className="inline-flex items-center px-4 py-2 bg-plum-500 hover:bg-plum-600 text-white rounded-lg transition-colors text-sm" target="_blank" rel="noopener noreferrer">
+                <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+                </svg>
+                All My Links
+              </a>
+            </div>
             <p className="text-muted-responsive mt-6 text-sm">
-              Find me @VioletMama on Instagram, Facebook, X, and Pinterest for daily natural living inspiration!
+              Find me @TheVioletMama on Instagram, Facebook, X, YouTube, TikTok, and Pinterest for daily natural living inspiration!
             </p>
           </section>
 

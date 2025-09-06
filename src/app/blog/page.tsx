@@ -25,7 +25,7 @@ export default function BlogPage() {
           alt="Natural living blog posts about homeschooling and eco-friendly family life"
           className="h-64 md:h-80"
           overlay={true}
-          overlayColor="sage"
+          overlayColor="violet"
         />
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center text-white px-4 max-w-3xl">
@@ -89,7 +89,7 @@ export default function BlogPage() {
                       <svg className="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clipRule="evenodd" />
                       </svg>
-                      {format(new Date(post.date), 'MMMM d, yyyy')}
+                      {format(new Date(post.date + 'T12:00:00'), 'MMMM d, yyyy')}
                     </span>
                     <span>•</span>
                     <span className="flex items-center">
