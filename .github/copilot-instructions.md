@@ -1,9 +1,9 @@
 <!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, vis- Include lavender and purple aesthetic referencest https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
 
-# SpiritedRoots - Affiliate Marketing Review Site
+# Violet Mama - Affiliate Marketing Review Site
 
 ## Project Overview ✅ COMPLETED
-SpiritedRoots is a niche affiliate marketing review website built with Next.js, designed as a scalable side hustle focused on natural living for homeschooling moms. The site serves as a content-driven platform sharing honest, practical reviews and resources in the wellness, parenting, and eco-friendly niches.
+Violet Mama is a niche affiliate marketing review website built with Next.js, designed as a scalable side hustle focused on natural living and mindful motherhood. The site serves as a content-driven platform sharing honest, practical reviews and resources in the wellness, parenting, and eco-friendly niches.
 
 **Tech Stack:** Next.js with TypeScript, Tailwind CSS, App Router, Markdown-based blog system
 **Features:** SEO optimization, affiliate link management, responsive design with purple/lavender theme
@@ -14,7 +14,7 @@ SpiritedRoots is a niche affiliate marketing review website built with Next.js, 
 - **Monetization**: Affiliate commissions from Amazon Associates, ShareASale, Thrive Market, She Thinx
 - **Content Format**: Long-form blog posts (1,500-3,000 words) with reviews, recipes, and guides
 - **Growth Strategy**: Start with 5-10 posts, aim for $500/month within 6 months
-- **Social Integration**: @SpiritedRoots on X, Instagram, Facebook
+- **Social Integration**: @VioletMama on X, Instagram, Facebook
 
 ## Project Themes & Focus ✅ COMPLETED
 **Core Themes:**
@@ -147,4 +147,4 @@ When creating new blog posts:
 
 ---
 
-*This serves as the comprehensive blueprint for the SpiritedRoots affiliate marketing review site, ensuring consistency across all content creation and development work.*
+*This serves as the comprehensive blueprint for the Violet Mama affiliate marketing review site, ensuring consistency across all content creation and development work.*

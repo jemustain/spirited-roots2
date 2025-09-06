@@ -5,7 +5,7 @@ interface HeroImageProps {
   alt: string;
   className?: string;
   overlay?: boolean;
-  overlayColor?: 'sage' | 'forest' | 'warm' | 'nature';
+  overlayColor?: 'sage' | 'forest' | 'warm' | 'nature' | 'lavender' | 'purple' | 'violet';
 }
 
 export default function HeroImage({ 
@@ -13,13 +13,16 @@ export default function HeroImage({
   alt, 
   className = "", 
   overlay = false,
-  overlayColor = 'sage' 
+  overlayColor = 'lavender' 
 }: HeroImageProps) {
   const overlayClasses = {
     sage: 'bg-gradient-to-r from-sage-800/70 to-sage-600/70',
     forest: 'bg-gradient-to-r from-forest-800/70 to-forest-600/70',
     warm: 'bg-gradient-to-r from-terracotta-800/70 to-gold-600/70',
-    nature: 'bg-gradient-to-r from-forest-800/70 via-sage-700/70 to-gold-600/70'
+    nature: 'bg-gradient-to-r from-forest-800/70 via-sage-700/70 to-gold-600/70',
+    lavender: 'bg-gradient-to-r from-lavender-800/70 to-lavender-600/70',
+    purple: 'bg-gradient-to-r from-plum-800/70 to-plum-600/70',
+    violet: 'bg-gradient-to-r from-lavender-800/70 via-plum-700/70 to-marigold-600/70'
   };
 
   // If no src provided, create a beautiful CSS gradient placeholder
