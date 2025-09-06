@@ -9,14 +9,14 @@ export default function Home() {
   const featuredPosts = getFeaturedPosts();
 
   return (
-    <div className="min-h-screen bg-cream-50">
+    <div className="min-h-screen bg-whisper-50">
       <Header />
 
       {/* Hero Section */}
       <section className="relative">
         <HeroImage 
           src="/images/heroes/homepage-hero.jpg"
-          alt="Natural family living with homeschool mom and child in nature"
+          alt="Violet Mama - Natural family living with mom and child in nature"
           className="h-96 md:h-[500px]"
           overlay={true}
           overlayColor="nature"
@@ -24,18 +24,18 @@ export default function Home() {
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center text-white px-4 max-w-4xl">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 drop-shadow-lg">
-              Welcome to Our Joyful Journey
+              Welcome to Violet Mama
             </h1>
             <p className="text-xl md:text-2xl mb-8 drop-shadow-md max-w-2xl mx-auto leading-relaxed">
-              Discover natural living, eco-friendly products, and nourishing recipes 
-              that bring joy and wellness to homeschooling families
+              Natural living, mindful motherhood, and authentic product reviews 
+              for families who want to thrive naturally
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/blog" className="btn-sage text-lg px-8 py-3">
+              <Link href="/blog" className="btn-lavender text-lg px-8 py-3">
                 Explore Our Stories
               </Link>
-              <Link href="/about" className="btn-terracotta text-lg px-8 py-3">
-                Meet Emily
+              <Link href="/about" className="btn-marigold text-lg px-8 py-3">
+                Meet Violet
               </Link>
             </div>
           </div>
@@ -48,24 +48,24 @@ export default function Home() {
         
         {/* Feature Cards */}
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
-          <div className="card-bg-alt rounded-xl shadow-xl p-8 border-t-4 border-sage-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
-            <div className="text-terracotta-500 text-4xl mb-4">🌱</div>
+          <div className="card-bg-alt rounded-xl shadow-xl p-8 border-t-4 border-lavender-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
+            <div className="text-coral-500 text-4xl mb-4">🌱</div>
             <h3 className="text-xl font-semibold text-primary-responsive mb-3">Natural Products</h3>
             <p className="text-secondary-responsive">
               Discover eco-friendly kids&apos; clothing, natural self-care products, and toxin-free household items.
             </p>
           </div>
           
-          <div className="card-bg-alt rounded-xl shadow-xl p-8 border-t-4 border-gold-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
-            <div className="text-forest-600 text-4xl mb-4">🥗</div>
+          <div className="card-bg-alt rounded-xl shadow-xl p-8 border-t-4 border-marigold-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
+            <div className="text-plum-600 text-4xl mb-4">🥗</div>
             <h3 className="text-xl font-semibold text-primary-responsive mb-3">Healthy Recipes</h3>
             <p className="text-secondary-responsive">
               Nourishing, family-friendly recipes perfect for homeschool picnics and busy weekdays.
             </p>
           </div>
           
-          <div className="card-bg-alt rounded-xl shadow-xl p-8 border-t-4 border-terracotta-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
-            <div className="text-gold-500 text-4xl mb-4">📚</div>
+          <div className="card-bg-alt rounded-xl shadow-xl p-8 border-t-4 border-coral-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
+            <div className="text-marigold-500 text-4xl mb-4">📚</div>
             <h3 className="text-xl font-semibold text-primary-responsive mb-3">Homeschool Tips</h3>
             <p className="text-secondary-responsive">
               Nature-based learning activities and screen-free ideas for raising resilient children.
@@ -131,7 +131,7 @@ export default function Home() {
             </div>
             
             <div className="text-center mt-8">
-              <Link href="/blog" className="btn-sage">
+              <Link href="/blog" className="btn-lavender">
                 View All Posts
               </Link>
             </div>

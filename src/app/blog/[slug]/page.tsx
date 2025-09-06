@@ -44,7 +44,7 @@ export default async function BlogPost({ params }: Props) {
   }
 
   return (
-    <div className="min-h-screen bg-cream-50">
+    <div className="min-h-screen bg-whisper-50">
       <Header />
       
       {/* Page Title */}
@@ -90,7 +90,7 @@ export default async function BlogPost({ params }: Props) {
         <div className="content-bg rounded-lg shadow-lg p-8 lg:p-12">
           {post.featured && (
             <div className="text-center mb-8">
-              <span className="inline-block bg-gold-500 text-white px-4 py-2 text-sm font-semibold rounded-full">
+              <span className="inline-block bg-marigold-500 text-white px-4 py-2 text-sm font-semibold rounded-full">
                 ✨ Featured Post
               </span>
             </div>
@@ -115,7 +115,7 @@ export default async function BlogPost({ params }: Props) {
           />
 
           {/* Author Bio */}
-          <div className="mt-12 p-6 section-bg rounded-lg border-l-4 border-gold-500">
+          <div className="mt-12 p-6 section-bg rounded-lg border-l-4 border-marigold-500">
             <div className="flex items-start">
               <div className="text-4xl mr-4">🌿</div>
               <div>
@@ -139,10 +139,10 @@ export default async function BlogPost({ params }: Props) {
               Get weekly tips, product reviews, and nature-inspired recipes delivered to your inbox.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <button className="btn-sage">
+              <button className="btn-lavender">
                 Subscribe to Newsletter
               </button>
-              <Link href="/blog" className="btn-gold">
+              <Link href="/blog" className="btn-marigold">
                 Read More Posts
               </Link>
             </div>

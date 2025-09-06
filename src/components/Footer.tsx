@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer className="bg-forest-900 text-cream-100 py-8 mt-16">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <p className="mb-4">Follow @SpiritedRoots for daily nature-inspired tips</p>
+        <p className="mb-4">Follow @VioletMama for daily natural living inspiration</p>
         <div className="flex justify-center space-x-6">
           <a href="#" className="hover:text-gold-400 transition-colors flex items-center" title="Instagram">
             <svg className="w-5 h-5 mr-1" fill="currentColor" viewBox="0 0 24 24">
@@ -30,7 +30,7 @@ export default function Footer() {
           </a>
         </div>
         <p className="mt-6 text-cream-300 text-sm">
-          © 2025 SpiritedRoots. Growing joyfully together.
+          © 2025 Violet Mama. Natural living, mindful motherhood.
         </p>
       </div>
     </footer>

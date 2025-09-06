@@ -1,4 +1,4 @@
-<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
+<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, vis- Include lavender and purple aesthetic referencest https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
 
 # SpiritedRoots - Affiliate Marketing Review Site
 
@@ -6,7 +6,7 @@
 SpiritedRoots is a niche affiliate marketing review website built with Next.js, designed as a scalable side hustle focused on natural living for homeschooling moms. The site serves as a content-driven platform sharing honest, practical reviews and resources in the wellness, parenting, and eco-friendly niches.
 
 **Tech Stack:** Next.js with TypeScript, Tailwind CSS, App Router, Markdown-based blog system
-**Features:** SEO optimization, affiliate link management, responsive design with sage green/gold theme
+**Features:** SEO optimization, affiliate link management, responsive design with purple/lavender theme
 **Target Audience:** Homeschooling mothers (ages 25-45) interested in natural/healthy living
 
 ## Core Project Concept ✅ COMPLETED
@@ -37,7 +37,7 @@ SpiritedRoots is a niche affiliate marketing review website built with Next.js, 
 - Wife to a wonderful husband (after a journey through single motherhood)
 - Software engineer with passion for family and nature
 - Homeschooling advocate focused on outdoor exploration and natural living
-- Home aesthetic: sage green tones, natural fabrics, cozy family spaces
+- Home aesthetic: lavender and purple tones, natural fabrics, cozy family spaces
 
 **Background Story:**
 - Always drawn to nature's rhythm, finding joy in simple, grounded living
@@ -48,7 +48,7 @@ SpiritedRoots is a niche affiliate marketing review website built with Next.js, 
 - Tech background provides unique edge in using tools like AI and automation
 - Inspired by Taoist farmer philosophy of seeing opportunity in every situation
 
-**Site Positioning:** "I'm Emily, a homeschool mom, software engineer, and nature lover helping other moms discover joyful, natural ways to thrive with their families."
+**Site Positioning:** "I'm Violet, a homeschool mom, software engineer, and nature lover helping other moms discover joyful, natural ways to thrive with their families."
 
 **Sensitive Topic Guidelines:**
 - When referencing personal journey, focus on growth and resilience rather than loss
@@ -106,21 +106,21 @@ When creating new blog posts:
 ## Technical Implementation ✅ COMPLETED
 - Markdown-based blog system in `/content/blog/`
 - Automatic static generation for performance
-- Responsive design with custom sage green/gold theme
+- Responsive design with custom purple/lavender theme
 - SEO optimization with meta tags and structured data
 - Git version control for all content and code changes
 
 ## Development Workflow ✅ COMPLETED
 - Add new posts as `.md` files with frontmatter
 - Use consistent navigation across all pages
-- Maintain sage green/gold branding throughout
+- Maintain purple/lavender branding throughout
 - Focus on user experience and fast loading times
 - Build for affiliate marketing success and community engagement
 
 ## Next Deliverables & Launch Prep 🔄 IN PROGRESS
 **Pre-Launch Priority Tasks:**
 - [ ] Choose final site name (alternatives to "SpiritedRoots")
-- [ ] Refine color scheme - enhance sage green/gold palette  
+- [ ] Refine color scheme - enhance purple/lavender palette  
 - [ ] Design site title/logo - create visual identity
 - [ ] Add "time to read" metric to blog posts
 - [ ] Link author name to About page in blog posts

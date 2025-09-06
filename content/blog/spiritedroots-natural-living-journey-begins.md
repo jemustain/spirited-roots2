@@ -3,7 +3,7 @@ title: "SpiritedRoots: Natural Living for Homeschool Moms – A Joyful Journey B
 slug: "spiritedroots-natural-living-journey-begins"
 date: "2025-09-04"
 excerpt: "Welcome to SpiritedRoots, your new home for natural living for homeschool moms! Join me as we explore eco-friendly products, healthy recipes, and joyful family living rooted in nature."
-author: "Emily"
+author: "Violet"
 tags: ["natural living", "homeschool moms", "introduction", "eco-friendly", "healthy recipes"]
 featured: true
 seo:
@@ -12,7 +12,7 @@ seo:
   keywords: "natural living for homeschool moms, eco-friendly kids clothing, healthy homeschool recipes, nature-based learning"
 ---
 
-Welcome to SpiritedRoots, your new home for **natural living for homeschool moms**! I'm so glad you're here. My name is Emily—a homeschooling mom, software engineer, and nature enthusiast who believes that family life can be both grounded and adventurous. Whether I'm coding with a mug of herbal tea or chasing my 3-year-old son, Leo, through the woods behind our home, I'm always searching for ways to nurture our family's well-being.
+Welcome to SpiritedRoots, your new home for **natural living for homeschool moms**! I'm so glad you're here. My name is Violet—a homeschooling mom, software engineer, and nature enthusiast who believes that family life can be both grounded and adventurous. Whether I'm coding with a mug of herbal tea or chasing my 3-year-old son, Leo, through the woods behind our home, I'm always searching for ways to nurture our family's well-being.
 
 Just last week, Leo and I spent a golden afternoon exploring a sun-dappled trail. He squealed with delight as he discovered a patch of wild mint, his little hands brushing the fragrant leaves. Moments like these—simple, joyful, and rooted in nature—are what inspire me to create a life that's both spirited and stable. That's the heart behind SpiritedRoots: helping moms like you find natural, family-friendly products and recipes that support a joyful, grounded lifestyle.
 
@@ -23,7 +23,13 @@ Just last week, Leo and I spent a golden afternoon exploring a sun-dappled trail
 
 The name **SpiritedRoots** is a reflection of the life I strive to cultivate for my family—and for you. "Spirited" captures the boundless energy of our children, like Leo's wild adventures in the backyard, his laughter echoing through the trees. "Roots" speaks to the stability and values that anchor us: family, health, and a deep connection to the earth.
 
-As a mom who balances the fast-paced world of software engineering with the slow, intentional rhythms of homeschooling, I often draw inspiration from Taoist philosophy. Taoism teaches us to see every challenge as an opportunity for growth. When the day feels chaotic—maybe the code won't compile, or the toddler won't nap—I try to pause, breathe, and look for the lesson or the hidden joy. Sometimes, that means turning a rainy day into a cozy indoor picnic, or transforming a tech hiccup into a teachable moment for my son.
+As a mom who works in tech, I know how overwhelming it can feel to balance career, homeschooling, and trying to create a healthy home environment. That's where SpiritedRoots comes in. This blog is my space to share what I've learned about **natural living for homeschool families**—from DIY cleaning products that are safe for curious toddlers, to quick energy-boosting snacks that don't require complicated prep while you're teaching math.
+
+Through trial and error (and yes, plenty of spilled baking soda), I've discovered that natural living doesn't have to be perfect or Pinterest-worthy. It's about finding simple, sustainable solutions that work for real families. Here, you'll find practical tips, honest reviews, and stories from our own journey toward a more intentional, nature-connected lifestyle.
+
+I'm not a doctor or nutritionist—just a mom sharing what works for our family. I believe in the power of small changes, like swapping out one cleaning product at a time or growing herbs on the windowsill while your kids practice handwriting. Together, we can create homes that feel both peaceful and full of learning adventures.
+
+Welcome to our community, where **spirited living meets natural wisdom**. I can't wait to connect with you and learn from your own experiences. Let's root ourselves in what matters most: our families, our health, and our connection to the natural world around us.
 
 SpiritedRoots is about embracing both the wild and the grounded, the energetic and the calm. It's about finding beauty in the mess, and opportunity in every moment. Here, you'll discover practical tips and honest reviews to help you create a home that's as vibrant and resilient as a forest in spring.
 

@@ -1,24 +1,24 @@
 @import "tailwindcss";
 
 :root {
-  --background: #fdfcf9; /* Warmer cream background */
-  --foreground: #3d4a3a; /* Deeper sage for text */
-  --accent: #6b8068; /* Main sage green */
-  --gold: #f4b429; /* Warmer gold accent */
-  --terracotta: #d26340; /* New terracotta accent */
+  --background: #fdfcfd; /* Soft whisper background */
+  --foreground: #48355f; /* Deep amethyst for text */
+  --accent: #9574bb; /* Main lavender accent */
+  --coral: #ea7186; /* Coral accent */
+  --marigold: #f2c76e; /* Marigold accent */
   
   /* Enhanced contrast ratios for light mode */
-  --text-primary: #1a201a; /* Very dark sage for maximum contrast */
-  --text-secondary: #2f3a2d; /* Dark sage for secondary text */
-  --text-muted: #5a6e57; /* Medium sage for muted text */
-  --link-color: #3d4a3a; /* Darker sage for links - improved contrast */
-  --link-hover: #2f3a2d; /* Even darker for hover */
+  --text-primary: #2a1d39; /* Very dark amethyst for maximum contrast */
+  --text-secondary: #48355f; /* Deep amethyst for secondary text */
+  --text-muted: #7a5ba5; /* Medium purple for muted text */
+  --link-color: #563f72; /* Dark purple for links - improved contrast */
+  --link-hover: #48355f; /* Even darker for hover */
   
   /* Background variations for light mode */
-  --bg-primary: #fdfcf9;
-  --bg-secondary: #f8f9f8;
-  --bg-accent: #e6ede6;
-  --border-color: #d1dcd1;
+  --bg-primary: #fdfcfd;
+  --bg-secondary: #faf8f9;
+  --bg-accent: #f4f1f8;
+  --border-color: #ebe8f7;
 }
 
 @theme inline {
@@ -30,21 +30,21 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #1a201a; /* Very dark sage background */
-    --foreground: #f8f9f8; /* Light sage for text */
+    --background: #2a1d39; /* Very dark amethyst background */
+    --foreground: #faf8f9; /* Light whisper for text */
     
     /* Enhanced contrast ratios for dark mode */
-    --text-primary: #f8f9f8; /* Light sage for maximum contrast */
-    --text-secondary: #e6ede6; /* Slightly darker for secondary text */
-    --text-muted: #b4c4b4; /* Medium sage for muted text */
-    --link-color: #8fa68f; /* Lighter sage for links */
-    --link-hover: #b4c4b4; /* Even lighter for hover */
+    --text-primary: #faf8f9; /* Light whisper for maximum contrast */
+    --text-secondary: #f4f1f8; /* Slightly darker for secondary text */
+    --text-muted: #d9d4f1; /* Light lavender for muted text */
+    --link-color: #bd9dea; /* Lighter lavender for links */
+    --link-hover: #d9d4f1; /* Even lighter for hover */
     
     /* Background variations for dark mode */
-    --bg-primary: #1a201a;
-    --bg-secondary: #2f3a2d;
-    --bg-accent: #3d4a3a;
-    --border-color: #4a5a47;
+    --bg-primary: #2a1d39;
+    --bg-secondary: #48355f;
+    --bg-accent: #563f72;
+    --border-color: #67498a;
   }
 }
 
@@ -146,79 +146,79 @@ body {
 }
 
 .nature-gradient {
-  background: linear-gradient(135deg, #5a7f5a 0%, #6b8068 50%, #f4b429 100%);
+  background: linear-gradient(135deg, #9574bb 0%, #bd9dea 50%, #f2c76e 100%);
 }
 
-.btn-sage {
-  background-color: #5a6e57;
+.btn-lavender {
+  background-color: #9574bb;
   color: white;
   padding: 0.75rem 1.5rem;
   border-radius: 0.5rem;
   transition: all 0.3s ease;
-  box-shadow: 0 2px 4px rgba(90, 110, 87, 0.1);
+  box-shadow: 0 2px 4px rgba(149, 116, 187, 0.1);
 }
 
-.btn-sage:hover {
-  background-color: #4a5a47;
-  box-shadow: 0 4px 8px rgba(90, 110, 87, 0.2);
+.btn-lavender:hover {
+  background-color: #7a5ba5;
+  box-shadow: 0 4px 8px rgba(149, 116, 187, 0.2);
   transform: translateY(-1px);
 }
 
-.btn-gold {
-  background-color: #f4b429;
+.btn-coral {
+  background-color: #ea7186;
   color: white;
   padding: 0.75rem 1.5rem;
   border-radius: 0.5rem;
   transition: all 0.3s ease;
-  box-shadow: 0 2px 4px rgba(244, 180, 41, 0.1);
+  box-shadow: 0 2px 4px rgba(234, 113, 134, 0.1);
 }
 
-.btn-gold:hover {
-  background-color: #e89611;
-  box-shadow: 0 4px 8px rgba(244, 180, 41, 0.2);
+.btn-coral:hover {
+  background-color: #d85570;
+  box-shadow: 0 4px 8px rgba(234, 113, 134, 0.2);
   transform: translateY(-1px);
 }
 
-.btn-terracotta {
-  background-color: #d26340;
+.btn-marigold {
+  background-color: #f2c76e;
   color: white;
   padding: 0.75rem 1.5rem;
   border-radius: 0.5rem;
   transition: all 0.3s ease;
-  box-shadow: 0 2px 4px rgba(210, 99, 64, 0.1);
+  box-shadow: 0 2px 4px rgba(242, 199, 110, 0.1);
 }
 
-.btn-terracotta:hover {
-  background-color: #c34b2c;
-  box-shadow: 0 4px 8px rgba(210, 99, 64, 0.2);
+.btn-marigold:hover {
+  background-color: #eab34a;
+  box-shadow: 0 4px 8px rgba(242, 199, 110, 0.2);
   transform: translateY(-1px);
 }
 
 /* Enhanced dark mode awareness for buttons */
 @media (prefers-color-scheme: dark) {
-  .btn-sage {
-    background-color: #6b8068;
+  .btn-lavender {
+    background-color: #bd9dea;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
   }
   
-  .btn-sage:hover {
-    background-color: #8fa68f;
+  .btn-lavender:hover {
+    background-color: #d9d4f1;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
   }
   
-  .btn-gold {
+  .btn-coral {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
   }
   
-  .btn-gold:hover {
+  .btn-coral:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
   }
   
-  .btn-terracotta {
+  .btn-marigold {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
   }
   
-  .btn-terracotta:hover {
+  .btn-marigold:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
   }
 }

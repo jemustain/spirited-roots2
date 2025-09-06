@@ -1,13 +1,13 @@
 
-# SpiritedRoots Affiliate Blog
+# Violet Mama Affiliate Blog
 
-Hey there! I'm Emily, a homeschool mom, software engineer, and nature lover helping other moms discover joyful, natural ways to thrive with their families. 🌿
+Hey there! I'm Violet, a mom, software engineer, and nature lover helping other families discover joyful, natural ways to thrive together. 💜
 
-This is my affiliate marketing blog focused on natural living for homeschooling families - built with love, code, and the same GitHub CI/CD practices I use in my engineering work!
+This is my affiliate marketing blog focused on natural living and mindful motherhood - built with love, code, and the same GitHub CI/CD practices I use in my engineering work!
 
 ## About This Project
 
-SpiritedRoots is where I share honest reviews of eco-friendly kids' clothing, healthy recipes for busy homeschool days, and self-care tips that actually work for real moms. As a software engineer who values both technology and tech-life balance, I've built this site to be fast, SEO-optimized, and perfect for sharing the natural products that make family life more vibrant.
+Violet Mama is where I share honest reviews of eco-friendly family products, healthy recipes for busy days, and mindful motherhood tips that actually work for real families. As a software engineer who values both technology and work-life balance, I've built this site to be fast, SEO-optimized, and perfect for sharing the natural products that make family life more vibrant.
 
 ## Tech Stack
 - Next.js (App Router)
@@ -20,7 +20,7 @@ SpiritedRoots is where I share honest reviews of eco-friendly kids' clothing, he
 - ✅ SEO optimization
 - ✅ Markdown-based blog system
 - ✅ Automatic static generation for blog posts
-- ✅ Responsive design with sage green/gold theme
+- ✅ Responsive design with purple/lavender theme
 - ✅ Featured posts on homepage
 - ✅ Blog listing and individual post pages
 
@@ -48,7 +48,7 @@ SpiritedRoots is where I share honest reviews of eco-friendly kids' clothing, he
    slug: "url-friendly-slug"
    date: "2025-09-04"
    excerpt: "Brief description for previews"
-   author: "Emily"
+   author: "Violet"
    tags: ["tag1", "tag2"]
    featured: true  # Shows on homepage
    seo:
@@ -73,7 +73,7 @@ SpiritedRoots is where I share honest reviews of eco-friendly kids' clothing, he
 - Code blocks
 
 ## Customization
-- Update colors in `tailwind.config.js` for sage green/gold theme
+- Update colors in `tailwind.config.js` for purple/lavender theme
 - Modify blog templates in `src/app/blog/`
 - Add new pages in `src/app/`
 - Configure SEO metadata in individual post frontmatter

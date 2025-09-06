@@ -5,11 +5,17 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import HeroImage from '@/components/HeroImage';
 
+export const metadata = {
+  title: 'Blog - Violet Mama',
+  description: 'Read Violet\'s latest posts on natural living, mindful motherhood, eco-friendly products, and family wellness tips.',
+  keywords: 'natural living blog, mindful motherhood, eco-friendly family, parenting tips, healthy lifestyle',
+};
+
 export default function BlogPage() {
   const posts = getAllPosts();
 
   return (
-    <div className="min-h-screen bg-cream-50">
+    <div className="min-h-screen bg-whisper-50">
       <Header />
       
       {/* Hero Section */}
@@ -60,7 +66,7 @@ export default function BlogPage() {
               >
                 <div className="p-8">
                   {post.featured && (
-                    <span className="inline-block bg-gold-500 text-white px-3 py-1 text-sm font-semibold rounded-full mb-4">
+                    <span className="inline-block bg-marigold-500 text-white px-3 py-1 text-sm font-semibold rounded-full mb-4">
                       ✨ Featured
                     </span>
                   )}
@@ -111,7 +117,7 @@ export default function BlogPage() {
                   
                   <Link
                     href={`/blog/${post.slug}`}
-                    className="btn-sage inline-block"
+                    className="btn-lavender inline-block"
                   >
                     Read More →
                   </Link>

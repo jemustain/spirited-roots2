@@ -3,7 +3,7 @@ title: "Easy No-Bake Energy Balls: Perfect Homeschool Snacks"
 slug: "no-bake-energy-balls-homeschool-snacks"
 date: "2025-09-02"
 excerpt: "These nutritious, kid-approved energy balls take just 15 minutes to make and provide sustained energy for busy homeschool days. Plus, they're naturally sweetened and packed with wholesome ingredients!"
-author: "Emily"
+author: "Violet"
 tags: ["healthy recipes", "homeschool snacks", "no-bake", "kid-friendly", "natural ingredients"]
 featured: false
 seo:
