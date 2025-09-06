@@ -19,7 +19,7 @@ export default function Header() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center mb-4">
           <Link href="/" className="text-2xl font-bold hover:text-cream-100 transition-colors" onClick={closeMenu}>
-            🌿 SpiritedRoots
+            💜 Violet Mama
           </Link>
           
           {/* Desktop Navigation */}
@@ -84,7 +84,7 @@ export default function Header() {
         
         <div className="text-center">
           <p className="text-cream-100 text-lg">
-            Natural Living for Homeschool Moms
+            Natural Living & Mindful Motherhood
           </p>
         </div>
       </div>

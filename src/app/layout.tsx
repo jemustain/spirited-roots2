@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SpiritedRoots - Natural Living for Homeschool Moms",
-  description: "Discover natural living tips, eco-friendly product reviews, and homeschool resources for moms who want to create joyful, healthy family lives.",
+  title: "Violet Mama - Natural Living & Mindful Motherhood",
+  description: "Join Violet for natural living tips, eco-friendly product reviews, and mindful motherhood resources for creating joyful, healthy family lives.",
 };
 
 export default function RootLayout({

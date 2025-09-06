@@ -3,21 +3,21 @@ import Footer from '@/components/Footer';
 import HeroImage from '@/components/HeroImage';
 
 export const metadata = {
-  title: 'About Emily - SpiritedRoots',
-  description: 'Meet Emily, a homeschool mom, software engineer, and nature enthusiast sharing natural living tips and product reviews for families.',
-  keywords: 'about Emily, homeschool mom, natural living, family wellness, nature-based parenting',
+  title: 'About Violet - Violet Mama',
+  description: 'Meet Violet, a mom, software engineer, and nature enthusiast sharing natural living tips and mindful motherhood wisdom for families.',
+  keywords: 'about Violet, natural living mama, family wellness, nature-based parenting, mindful motherhood',
 };
 
 export default function AboutPage() {
   return (
-    <div className="min-h-screen bg-cream-50">
+    <div className="min-h-screen bg-whisper-50">
       <Header />
       
       {/* Hero Section */}
       <section className="relative">
         <HeroImage 
           src="/images/heroes/about-hero.jpg"
-          alt="Emily with her son exploring nature - homeschool mom and natural living advocate"
+          alt="Violet with her son exploring nature - homeschool mom and natural living advocate"
           className="h-80 md:h-96"
           overlay={true}
           overlayColor="forest"
@@ -25,7 +25,7 @@ export default function AboutPage() {
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center text-white px-4 max-w-3xl">
             <h1 className="text-4xl md:text-5xl font-bold mb-4 drop-shadow-lg">
-              About Emily
+              About Violet
             </h1>
             <p className="text-xl md:text-2xl drop-shadow-md">
               Wife, Mom, Nature Enthusiast & Your Guide to Natural Family Living
@@ -59,7 +59,7 @@ export default function AboutPage() {
                   Hello, Beautiful Moms!
                 </h2>
                 <p className="text-secondary-responsive text-lg leading-relaxed mb-4">
-                  I&apos;m Emily, and I&apos;m so glad you&apos;ve found your way to SpiritedRoots! 
+                  I&apos;m Violet, and I&apos;m so glad you&apos;ve found your way to SpiritedRoots! 
                   I&apos;m a wife, mom to an incredible 3-year-old son, and a software engineer who believes 
                   that family life can be both beautifully grounded and wonderfully adventurous.
                 </p>
@@ -92,7 +92,7 @@ export default function AboutPage() {
             </p>
             <p className="text-secondary-responsive text-lg leading-relaxed">
               Now, as a wife to my wonderful husband and mom to my spirited little boy, 
-              I&apos;ve found such joy in creating a home filled with sage green tones, natural fabrics, 
+              I&apos;ve found such joy in creating a home filled with lavender and purple tones, natural fabrics, 
               and the kind of cozy warmth that makes everyday moments feel special.
             </p>
           </section>
@@ -153,23 +153,23 @@ export default function AboutPage() {
             </p>
             <ul className="space-y-3 text-secondary-responsive">
               <li className="flex items-start">
-                <span className="text-gold-500 mr-3">•</span>
+                <span className="text-marigold-500 mr-3">•</span>
                 <span>Honest reviews of natural products that actually work for busy families</span>
               </li>
               <li className="flex items-start">
-                <span className="text-gold-500 mr-3">•</span>
+                <span className="text-marigold-500 mr-3">•</span>
                 <span>Simple, nourishing recipes perfect for homeschool days and nature picnics</span>
               </li>
               <li className="flex items-start">
-                <span className="text-gold-500 mr-3">•</span>
+                <span className="text-marigold-500 mr-3">•</span>
                 <span>Nature-based learning activities that spark curiosity and joy</span>
               </li>
               <li className="flex items-start">
-                <span className="text-gold-500 mr-3">•</span>
+                <span className="text-marigold-500 mr-3">•</span>
                 <span>Self-care tips for moms who want to thrive, not just survive</span>
               </li>
               <li className="flex items-start">
-                <span className="text-gold-500 mr-3">•</span>
+                <span className="text-marigold-500 mr-3">•</span>
                 <span>A supportive community where we celebrate the beauty of everyday moments</span>
               </li>
             </ul>
@@ -186,15 +186,15 @@ export default function AboutPage() {
               I&apos;d love to hear from you!
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="#" className="btn-sage">
+              <a href="#" className="btn-lavender">
                 Follow on Instagram
               </a>
-              <a href="#" className="btn-gold">
+              <a href="#" className="btn-marigold">
                 Connect on Facebook
               </a>
             </div>
             <p className="text-muted-responsive mt-6 text-sm">
-              Find me @SpiritedRoots on Instagram, Facebook, X, and Pinterest for daily nature-inspired tips!
+              Find me @VioletMama on Instagram, Facebook, X, and Pinterest for daily natural living inspiration!
             </p>
           </section>
 
