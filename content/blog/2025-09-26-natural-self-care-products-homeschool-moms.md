@@ -1,11 +1,13 @@
 ---
 title: "5 Natural Self-Care Products Every Homeschool Mom Needs"
-slug: "2025-09-03-natural-self-care-products-homeschool-moms"
-date: "2025-09-03"
+slug: "2025-09-26-natural-self-care-products-homeschool-moms"
+date: "2025-09-26"
 excerpt: "Discover gentle, effective self-care products that fit into your busy homeschool schedule. From calming herbal teas to nourishing skincare, these natural picks will help you feel refreshed and centered."
 author: "Violet"
 tags: ["self-care", "natural products", "homeschool moms", "wellness"]
 featured: false
+heroImage: "/images/blog/2025-09-26-natural-self-care-products-homeschool-moms/natural-self-care-hero.jpg"
+heroImageAlt: "Natural skincare products and wellness items beautifully arranged on a clean surface"
 seo:
   title: "5 Natural Self-Care Products for Homeschool Moms - Violet Mama"
   description: "Discover the best natural self-care products for busy homeschool moms. Reviews of herbal teas, skincare, and wellness products that support your wellbeing."

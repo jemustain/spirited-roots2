@@ -1,11 +1,13 @@
 ---
 title: "Violet Mama: Natural Living & Mindful Motherhood – A Joyful Journey Begins"
-slug: "2025-09-04-violet-mama-natural-living-journey-begins"
-date: "2025-09-04"
+slug: "2025-09-10-violet-mama-natural-living-journey-begins"
+date: "2025-09-10"
 excerpt: "Welcome to Violet Mama, your new home for natural living and mindful motherhood! Join me as we explore eco-friendly products, healthy recipes, and joyful family living rooted in nature."
 author: "Violet"
 tags: ["natural living", "homeschool moms", "introduction", "eco-friendly", "healthy recipes"]
 featured: true
+heroImage: "placeholder"
+heroImageAlt: "Welcome to Violet Mama - Natural Living and Mindful Motherhood"
 seo:
   title: "Natural Living & Mindful Motherhood - Violet Mama Blog"
   description: "Discover natural living tips, eco-friendly kids' clothing reviews, healthy homeschool recipes, and nature-based activities for homeschooling families."

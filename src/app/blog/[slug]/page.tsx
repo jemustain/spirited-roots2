@@ -6,6 +6,8 @@ import type { Metadata } from 'next';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
+import BlogImage from '@/components/BlogImage';
+import PlaceholderImage from '@/components/PlaceholderImage';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -83,6 +85,22 @@ export default async function BlogPost({ params }: Props) {
             </div>
           </div>
         </div>
+      </div>
+
+      {/* Hero Image */}
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-8">
+        {post.heroImage && post.heroImage !== 'placeholder' ? (
+          <BlogImage
+            src={post.heroImage}
+            alt={post.heroImageAlt || post.title}
+            priority={true}
+          />
+        ) : (
+          <PlaceholderImage 
+            text={post.title.length > 30 ? "Violet Mama" : post.title}
+            className="w-full h-auto rounded-lg shadow-lg"
+          />
+        )}
       </div>
 
       {/* Article Content */}

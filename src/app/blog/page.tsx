@@ -4,6 +4,8 @@ import { format } from 'date-fns';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import HeroImage from '@/components/HeroImage';
+import BlogImage from '@/components/BlogImage';
+import PlaceholderImage from '@/components/PlaceholderImage';
 
 export const metadata = {
   title: 'Blog - Violet Mama',
@@ -52,72 +54,89 @@ export default function BlogPage() {
       </div>
 
       {/* Blog Posts */}
-      <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {posts.length === 0 ? (
           <div className="text-center py-16">
             <p className="text-sage-600 text-lg">No blog posts found.</p>
           </div>
         ) : (
-          <div className="space-y-8">
+          <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
             {posts.map((post) => (
               <article
                 key={post.slug}
                 className="content-bg rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow"
               >
-                <div className="p-8">
+                {/* Image Section */}
+                <div className="aspect-[4/3] overflow-hidden">
+                  {post.heroImage && post.heroImage !== 'placeholder' ? (
+                    <BlogImage
+                      src={post.heroImage}
+                      alt={post.heroImageAlt || post.title}
+                      className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                      sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                    />
+                  ) : (
+                    <PlaceholderImage 
+                      width={400}
+                      height={300}
+                      text="Violet Mama"
+                      className="w-full h-full object-cover"
+                    />
+                  )}
+                </div>
+                
+                <div className="p-6">
                   {post.featured && (
-                    <span className="inline-block bg-marigold-500 text-white px-3 py-1 text-sm font-semibold rounded-full mb-4">
+                    <span className="inline-block bg-marigold-500 text-white px-2 py-1 text-xs font-semibold rounded-full mb-3">
                       ✨ Featured
                     </span>
                   )}
                   
-                  <h2 className="text-2xl md:text-3xl font-bold text-primary-responsive mb-4 hover:text-sage-700 transition-colors">
+                  <h2 className="text-lg font-bold text-primary-responsive mb-2 hover:text-sage-700 transition-colors line-clamp-2">
                     <Link href={`/blog/${post.slug}`}>
                       {post.title}
                     </Link>
                   </h2>
                   
-                  <div className="flex flex-wrap items-center text-muted-responsive text-sm mb-4 gap-3">
-                    <Link href="/about" className="flex items-center hover:text-sage-800 transition-colors">
-                      <svg className="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
-                        <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
-                      </svg>
-                      {post.author}
-                    </Link>
-                    <span>•</span>
+                  <div className="flex flex-wrap items-center text-muted-responsive text-xs mb-3 gap-2">
                     <span className="flex items-center">
-                      <svg className="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
+                      <svg className="w-3 h-3 mr-1" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clipRule="evenodd" />
                       </svg>
-                      {format(new Date(post.date + 'T12:00:00'), 'MMMM d, yyyy')}
+                      {format(new Date(post.date + 'T12:00:00'), 'MMM d, yyyy')}
                     </span>
                     <span>•</span>
                     <span className="flex items-center">
-                      <svg className="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
+                      <svg className="w-3 h-3 mr-1" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
                       </svg>
-                      {post.readingTime} min read
+                      {post.readingTime} min
                     </span>
                   </div>
                   
-                  <p className="text-secondary-responsive text-lg leading-relaxed mb-6">
+                  <p className="text-secondary-responsive text-sm leading-relaxed mb-4 line-clamp-3">
                     {post.excerpt}
                   </p>
                   
-                  <div className="flex flex-wrap gap-2 mb-6">
-                    {post.tags.map((tag) => (
+                  <div className="flex flex-wrap gap-1 mb-4">
+                    {post.tags.slice(0, 2).map((tag) => (
                       <span
                         key={tag}
-                        className="section-bg text-secondary-responsive px-3 py-1 text-sm rounded-full"
+                        className="section-bg text-secondary-responsive px-2 py-1 text-xs rounded-full"
                       >
                         {tag}
                       </span>
                     ))}
+                    {post.tags.length > 2 && (
+                      <span className="section-bg text-secondary-responsive px-2 py-1 text-xs rounded-full">
+                        +{post.tags.length - 2}
+                      </span>
+                    )}
                   </div>
                   
                   <Link
                     href={`/blog/${post.slug}`}
-                    className="btn-lavender inline-block"
+                    className="text-sm btn-lavender inline-block w-full text-center"
                   >
                     Read More →
                   </Link>
