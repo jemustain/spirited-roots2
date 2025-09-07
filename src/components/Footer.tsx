@@ -40,13 +40,21 @@ export default function Footer() {
             </svg>
             TikTok
           </a>
-        </div>
-        <div className="text-center">
-          <a href="https://linktr.ee/violetmama" className="inline-flex items-center px-4 py-2 bg-lavender-500 hover:bg-lavender-600 text-white rounded-lg transition-colors text-sm" target="_blank" rel="noopener noreferrer">
-            <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 24 24">
-              <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+          <a href="https://linktr.ee/violetmama" className="hover:text-gold-400 transition-colors flex items-center" title="Linktree" target="_blank" rel="noopener noreferrer">
+            <svg className="w-5 h-5 mr-1" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M12 2L8 6h2v4H8l4 4 4-4h-2V6h2l-4-4zM6 16v2h12v-2H6zm0 4v2h12v-2H6z"/>
             </svg>
-            All Links - linktr.ee/violetmama
+            Linktree
+          </a>
+        </div>
+        <div className="text-center mt-4">
+        </div>
+        <div className="mt-4 flex justify-center space-x-6 text-sm">
+          <a href="/privacy" className="text-cream-300 hover:text-gold-400 transition-colors">
+            Privacy Policy
+          </a>
+          <a href="/disclosure" className="text-cream-300 hover:text-gold-400 transition-colors">
+            Affiliate Disclosure
           </a>
         </div>
         <p className="mt-6 text-cream-300 text-sm">
