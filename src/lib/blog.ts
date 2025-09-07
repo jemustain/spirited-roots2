@@ -15,6 +15,8 @@ export interface BlogPost {
   author: string;
   tags: string[];
   featured?: boolean;
+  heroImage?: string;
+  heroImageAlt?: string;
   content: string;
   readingTime: number;
   seo: {
@@ -45,6 +47,8 @@ export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
       author: data.author,
       tags: data.tags || [],
       featured: data.featured || false,
+      heroImage: data.heroImage,
+      heroImageAlt: data.heroImageAlt,
       content: contentHtml,
       readingTime,
       seo: data.seo || {
@@ -85,6 +89,8 @@ export function getAllPosts(): BlogPost[] {
           author: data.author,
           tags: data.tags || [],
           featured: data.featured || false,
+          heroImage: data.heroImage,
+          heroImageAlt: data.heroImageAlt,
           content: '', // Don't load full content for listing
           readingTime,
           seo: data.seo || {
