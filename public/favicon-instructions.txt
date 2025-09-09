@@ -1,0 +1,7 @@
+<!-- This would normally be a binary ICO file, but I'll create an HTML file that can be converted -->
+<!-- To create favicon.ico, you can:
+1. Use an online converter like favicon.io or realfavicongenerator.net
+2. Upload the favicon.svg file I created
+3. Download the generated favicon.ico and place it in the public folder
+
+For now, the SVG favicon will work in modern browsers -->

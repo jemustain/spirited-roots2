@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -18,8 +19,15 @@ export default function Header() {
     <header className="nature-gradient text-white py-6 shadow-lg">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center mb-4">
-          <Link href="/" className="text-2xl font-bold hover:text-cream-100 transition-colors" onClick={closeMenu}>
-            💜 Violet Mama
+          <Link href="/" className="flex items-center hover:opacity-80 transition-opacity" onClick={closeMenu}>
+            {/* Violet Mama Logo - now includes full text */}
+            <Image
+              src="/images/violet-mama-logo.png"
+              alt="Violet Mama Logo"
+              width={200}
+              height={80}
+              className="object-contain"
+            />
           </Link>
           
           {/* Desktop Navigation */}
@@ -81,12 +89,6 @@ export default function Header() {
             </div>
           </nav>
         )}
-        
-        <div className="text-center">
-          <p className="text-cream-100 text-lg">
-            Natural Living & Mindful Motherhood
-          </p>
-        </div>
       </div>
     </header>
   );
