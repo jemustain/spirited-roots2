@@ -58,7 +58,7 @@ export default function Footer() {
           </a>
         </div>
         <p className="mt-6 text-cream-300 text-sm">
-          © 2025 Violet Mama. Natural living, mindful motherhood.
+          © {new Date().getFullYear()} Violet Mama. Natural living, mindful motherhood.
         </p>
       </div>
     </footer>
