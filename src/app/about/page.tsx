@@ -28,23 +28,11 @@ export default function AboutPage() {
               About Violet
             </h1>
             <p className="text-xl md:text-2xl drop-shadow-md">
-              Wife, Mom, Nature Enthusiast & Your Guide to Natural Family Living
+              Mom, Nature Enthusiast & Your Guide to Natural Family Living
             </p>
           </div>
         </div>
       </section>
-
-      {/* Page Title - Removed since we have hero */}
-      <div className="hidden bg-sage-100 py-8">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-sage-900 mb-4">
-            About Emily
-          </h1>
-          <p className="text-xl text-sage-700">
-            Wife, Mom, Nature Enthusiast & Your Guide to Natural Family Living
-          </p>
-        </div>
-      </div>
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -56,18 +44,17 @@ export default function AboutPage() {
               <div className="text-4xl mr-4">🌿</div>
               <div>
                 <h2 className="text-2xl font-bold text-primary-responsive mb-4">
-                  Hello, Beautiful Moms!
+                  Hey There!
                 </h2>
                 <p className="text-secondary-responsive text-lg leading-relaxed mb-4">
-                  I&apos;m Violet, and I&apos;m so glad you&apos;ve found your way to Violet Mama! 
-                  I&apos;m a wife, mom to an incredible 3-year-old son, and a software engineer who believes 
-                  that family life can be both beautifully grounded and wonderfully adventurous.
+                  I&apos;m Violet — a mom to one amazing little one, a software engineer by trade, 
+                  and a crunchy mama by choice. Welcome to my corner of the internet.
                 </p>
                 <p className="text-secondary-responsive text-lg leading-relaxed">
-                  My days are filled with the joyful chaos of homeschooling, forest walks with my little explorer, 
-                  and discovering natural products that make our family life more vibrant and healthy. 
-                  Whether I&apos;m coding with a mug of herbal tea or chasing my son through our backyard garden, 
-                  I&apos;m always searching for ways to nurture our family&apos;s well-being.
+                  My days look like homeschool lessons that turn into backyard adventures, 
+                  herbal tea while I sneak in some coding, and way too much research into 
+                  whatever natural product rabbit hole I&apos;ve fallen into this week. 
+                  It&apos;s chaotic and wonderful and I wouldn&apos;t trade it.
                 </p>
               </div>
             </div>
@@ -76,31 +63,25 @@ export default function AboutPage() {
           {/* My Journey */}
           <section className="mb-12">
             <h2 className="text-2xl font-bold text-primary-responsive mb-6">
-              🌱 My Journey to Natural Living
+              🌱 How I Got Here
             </h2>
             <p className="text-secondary-responsive text-lg leading-relaxed mb-4">
-              My path to motherhood and natural living has been beautifully winding, with moments of both 
-              deep joy and profound growth. When I was five months pregnant with my son, his father passed away, 
-              and I found myself preparing to raise this precious little one as a single mom. 
-              It was during this tender time that I truly discovered the healing power of nature, community, and intentional living.
-            </p>
-            <p className="text-secondary-responsive text-lg leading-relaxed mb-4">
-              My journey has included three pregnancy losses that taught me to treasure each moment and 
-              find opportunity for growth even in life&apos;s most challenging seasons. These experiences, 
-              while difficult, led me to embrace the Taoist wisdom that every moment—joyful or challenging—offers 
-              a chance to bloom where we&apos;re planted.
+              My path to motherhood wasn&apos;t straightforward. But becoming a mom changed everything 
+              for me — it cracked me open in the best way and pushed me toward a life that actually 
+              feels intentional. Nature, community, slowing down — that&apos;s where the real stuff is.
             </p>
             <p className="text-secondary-responsive text-lg leading-relaxed">
-              Now, as a wife to my wonderful husband and mom to my spirited little boy, 
-              I&apos;ve found such joy in creating a home filled with lavender and purple tones, natural fabrics, 
-              and the kind of cozy warmth that makes everyday moments feel special.
+              We&apos;re snowbirds — splitting time between Washington and Arizona depending on the season. 
+              I&apos;ve built a life around raising my son with curiosity, fresh air, and a home full of 
+              lavender and purple tones (because obviously). 
+              It&apos;s not perfect, but it&apos;s ours.
             </p>
           </section>
 
           {/* My Approach */}
           <section className="mb-12">
             <h2 className="text-2xl font-bold text-primary-responsive mb-6">
-              💚 My Approach to Family & Wellness
+              💚 What We&apos;re About
             </h2>
             <div className="grid md:grid-cols-2 gap-8">
               <div>
@@ -108,8 +89,8 @@ export default function AboutPage() {
                   🌲 Nature-First Living
                 </h3>
                 <p className="text-secondary-responsive leading-relaxed">
-                  We keep screens minimal and adventures maximal! Our days are filled with forest walks, 
-                  backyard explorations, and hands-on learning that sparks my son&apos;s natural curiosity.
+                  Screens stay minimal, adventures stay maximal. Forest walks, mud puddles, 
+                  and hands-on learning that follows my son&apos;s curiosity wherever it goes.
                 </p>
               </div>
               <div>
@@ -117,8 +98,8 @@ export default function AboutPage() {
                   🌿 Gentle Products
                 </h3>
                 <p className="text-secondary-responsive leading-relaxed">
-                  I&apos;m passionate about eco-friendly kids&apos; clothing, natural self-care products, 
-                  and wholesome foods that nourish our bodies and support our values.
+                  I&apos;m picky about what we put on and in our bodies — eco-friendly clothing, 
+                  natural self-care, wholesome food. If I recommend it, we actually use it.
                 </p>
               </div>
               <div>
@@ -126,17 +107,17 @@ export default function AboutPage() {
                   📚 Homeschool Heart
                 </h3>
                 <p className="text-secondary-responsive leading-relaxed">
-                  Our homeschool approach focuses on following my son&apos;s interests, 
-                  learning through play, and building confidence through real-world experiences.
+                  Our homeschool is interest-led, play-based, and built around real-world experiences. 
+                  Some days are Pinterest-worthy. Most are not. Both are fine.
                 </p>
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-secondary-responsive mb-3">
-                  ⚡ Tech-Life Balance
+                  ⚡ Tech Meets Crunchy
                 </h3>
                 <p className="text-secondary-responsive leading-relaxed">
-                  As a software engineer, I use technology thoughtfully—like building this blog 
-                  with Git and CI/CD—to support our low-screen family lifestyle.
+                  I come from a software engineering background, which means I built this blog 
+                  with Git and CI/CD — then went outside barefoot with my kid. Balance.
                 </p>
               </div>
             </div>
@@ -145,11 +126,11 @@ export default function AboutPage() {
           {/* What You'll Find Here */}
           <section className="mb-12">
             <h2 className="text-2xl font-bold text-primary-responsive mb-6">
-              ✨ What You&apos;ll Find at Violet Mama
+              ✨ What You&apos;ll Find Here
             </h2>
             <p className="text-secondary-responsive text-lg leading-relaxed mb-6">
-              This space is my love letter to fellow homeschooling moms who want to create 
-              joyful, natural lifestyles for their families. Here, you&apos;ll discover:
+              This is a space for moms who want to live more naturally without the gatekeeping. 
+              Real talk, real recommendations, real life.
             </p>
             <ul className="space-y-3 text-secondary-responsive">
               <li className="flex items-start">
@@ -158,7 +139,7 @@ export default function AboutPage() {
               </li>
               <li className="flex items-start">
                 <span className="text-marigold-500 mr-3">•</span>
-                <span>Simple, nourishing recipes perfect for homeschool days and nature picnics</span>
+                <span>Simple, nourishing recipes for homeschool days and on-the-go life</span>
               </li>
               <li className="flex items-start">
                 <span className="text-marigold-500 mr-3">•</span>
@@ -166,11 +147,11 @@ export default function AboutPage() {
               </li>
               <li className="flex items-start">
                 <span className="text-marigold-500 mr-3">•</span>
-                <span>Self-care tips for moms who want to thrive, not just survive</span>
+                <span>Self-care for moms who want to thrive, not just survive</span>
               </li>
               <li className="flex items-start">
                 <span className="text-marigold-500 mr-3">•</span>
-                <span>A supportive community where we celebrate the beauty of everyday moments</span>
+                <span>A community that gets it — the messy, beautiful, real version of motherhood</span>
               </li>
             </ul>
           </section>
@@ -178,12 +159,11 @@ export default function AboutPage() {
           {/* Connect Section */}
           <section className="section-bg rounded-lg p-8 text-center">
             <h2 className="text-2xl font-bold text-primary-responsive mb-4">
-              Let&apos;s Grow Together! 🌸
+              Let&apos;s Connect 🌸
             </h2>
             <p className="text-secondary-responsive text-lg leading-relaxed mb-6 max-w-2xl mx-auto">
-              I believe that every mom deserves to feel supported, inspired, and connected to a community 
-              that celebrates both the wild adventures and quiet moments of family life. 
-              I&apos;d love to hear from you!
+              I&apos;d love to hear from you — whether you&apos;re deep into the crunchy life 
+              or just getting started. Come say hi.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-6">
               <a href="https://instagram.com/thevioletmama" className="btn-lavender" target="_blank" rel="noopener noreferrer">
@@ -202,7 +182,7 @@ export default function AboutPage() {
               </a>
             </div>
             <p className="text-muted-responsive mt-6 text-sm">
-              Find me @TheVioletMama on Instagram, Facebook, X, YouTube, TikTok, and Pinterest for daily natural living inspiration!
+              Find me @TheVioletMama on Instagram, Facebook, X, YouTube, TikTok, and Pinterest
             </p>
           </section>
 
