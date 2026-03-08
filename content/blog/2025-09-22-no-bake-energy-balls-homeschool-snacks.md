@@ -5,7 +5,7 @@ date: "2025-09-22"
 excerpt: "These nutritious, kid-approved energy balls take just 15 minutes to make and provide sustained energy for busy afternoons. Plus, they're naturally sweetened and packed with wholesome ingredients!"
 author: "Violet"
 tags: ["healthy recipes", "afternoon snacks", "no-bake", "kid-friendly", "natural ingredients"]
-featured: false
+featured: true
 heroImage: "/images/blog/2025-09-22-no-bake-energy-balls-homeschool-snacks/energy-balls-hero.jpg"
 heroImageAlt: "Delicious homemade energy balls arranged in a rustic wooden bowl, perfect healthy afternoon snack"
 seo:

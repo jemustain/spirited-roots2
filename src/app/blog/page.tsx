@@ -31,10 +31,10 @@ export default function BlogPage() {
         />
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center text-white px-4 max-w-3xl">
-            <h1 className="text-4xl md:text-5xl font-bold mb-4 drop-shadow-lg">
+            <h1 className="text-4xl md:text-5xl font-bold mb-4 hero-text-shadow">
               Our Family Stories
             </h1>
-            <p className="text-lg md:text-xl drop-shadow-md">
+            <p className="text-lg md:text-xl hero-text-shadow">
               Discover natural living tips, product reviews, and homeschool adventures
             </p>
           </div>
@@ -64,10 +64,10 @@ export default function BlogPage() {
             {posts.map((post) => (
               <article
                 key={post.slug}
-                className="content-bg rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow"
+                className="blog-card content-bg rounded-2xl shadow-lg overflow-hidden"
               >
                 {/* Image Section */}
-                <div className="aspect-[4/3] overflow-hidden">
+                <div className="card-image aspect-[4/3] overflow-hidden">
                   {post.heroImage && post.heroImage !== 'placeholder' ? (
                     <BlogImage
                       src={post.heroImage}
