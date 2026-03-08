@@ -1,7 +1,7 @@
 ---
 title: "5 Self-Care Products I Actually Use (Not Just Hoard)"
 slug: "2025-09-26-natural-self-care-products-homeschool-moms"
-date: "2025-09-26"
+date: "2026-03-05"
 excerpt: "Realistic self-care for moms who have maybe 10 minutes. These are the natural products that actually made it into my routine instead of collecting dust under the sink."
 author: "Violet"
 tags: ["self-care", "natural products", "homeschool moms", "wellness"]

@@ -1,7 +1,7 @@
 ---
 title: "Homemade Snacks My Toddler Likes Better Than Store-Bought"
 slug: "2025-10-04-homemade-store-bought-favorites-kids-prefer"
-date: "2025-10-04"
+date: "2026-03-07"
 excerpt: "I started making homemade versions of Leo's favorite snacks mostly to save money. Turns out he actually prefers some of them. Here are the recipes that stuck."
 author: "Violet"
 tags: ["homemade snacks", "healthy alternatives", "DIY food", "kid-friendly recipes", "budget cooking"]

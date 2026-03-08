@@ -1,7 +1,7 @@
 ---
 title: "Non-Toxic Cleaning Products That Actually Work"
 slug: "2025-09-18-non-toxic-cleaning-products-that-work"
-date: "2025-09-18"
+date: "2026-03-03"
 excerpt: "I switched to non-toxic cleaners and most of them were terrible. Here are the ones that actually clean, plus a few DIY recipes that are worth the effort."
 author: "Violet"
 tags: ["non-toxic cleaning", "natural products", "eco-friendly", "product reviews", "healthy home"]

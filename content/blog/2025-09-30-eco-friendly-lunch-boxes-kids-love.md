@@ -1,7 +1,7 @@
 ---
 title: "Eco-Friendly Lunch Boxes That Survived My Toddler"
 slug: "2025-09-30-eco-friendly-lunch-boxes-kids-love"
-date: "2025-09-30"
+date: "2026-03-06"
 excerpt: "I've bought way too many lunch containers trying to find ones that don't leak, don't break, and that my kid will actually use. Here's what made the cut."
 author: "Violet"
 tags: ["eco-friendly", "lunch boxes", "kids products", "sustainable living", "product reviews"]

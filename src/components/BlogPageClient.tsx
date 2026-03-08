@@ -160,12 +160,12 @@ export default function BlogPageClient({ posts }: { posts: Post[] }) {
                   </p>
                   <div className="flex flex-wrap gap-1 mb-4">
                     {post.tags.slice(0, 2).map((tag) => (
-                      <span key={tag} className="section-bg text-secondary-responsive px-2 py-1 text-xs rounded-full">
+                      <span key={tag} className="text-gray-400 dark:text-gray-500 text-xs">
                         {tag}
                       </span>
                     ))}
                     {post.tags.length > 2 && (
-                      <span className="section-bg text-secondary-responsive px-2 py-1 text-xs rounded-full">
+                      <span className="text-gray-400 dark:text-gray-500 text-xs">
                         +{post.tags.length - 2}
                       </span>
                     )}
