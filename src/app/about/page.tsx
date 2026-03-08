@@ -165,12 +165,24 @@ export default function AboutPage() {
               I&apos;d love to hear from you — whether you&apos;re deep into the crunchy life 
               or just getting started. Come say hi.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center mb-6">
+            <div className="flex flex-wrap gap-3 justify-center mb-6">
               <a href="https://instagram.com/thevioletmama" className="btn-lavender" target="_blank" rel="noopener noreferrer">
-                Follow on Instagram
+                Instagram
               </a>
               <a href="https://www.facebook.com/TheVioletMama" className="btn-marigold" target="_blank" rel="noopener noreferrer">
-                Connect on Facebook
+                Facebook
+              </a>
+              <a href="https://x.com/thevioletmama" className="inline-flex items-center px-4 py-2 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm" target="_blank" rel="noopener noreferrer">
+                X / Twitter
+              </a>
+              <a href="https://pinterest.com/thevioletmama" className="inline-flex items-center px-4 py-2 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm" target="_blank" rel="noopener noreferrer">
+                Pinterest
+              </a>
+              <a href="https://youtube.com/@thevioletmama" className="inline-flex items-center px-4 py-2 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm" target="_blank" rel="noopener noreferrer">
+                YouTube
+              </a>
+              <a href="https://tiktok.com/@thevioletmama" className="inline-flex items-center px-4 py-2 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm" target="_blank" rel="noopener noreferrer">
+                TikTok
               </a>
             </div>
             <div className="text-center">

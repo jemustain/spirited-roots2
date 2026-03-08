@@ -8,6 +8,8 @@ import Footer from '@/components/Footer';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 import BlogImage from '@/components/BlogImage';
 import PlaceholderImage from '@/components/PlaceholderImage';
+import Breadcrumbs from '@/components/Breadcrumbs';
+import RelatedPosts from '@/components/RelatedPosts';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -67,6 +69,8 @@ export default async function BlogPost({ params }: Props) {
     },
   };
 
+  const allPosts = getAllPosts();
+
   return (
     <div className="min-h-screen bg-whisper-50">
       <script
@@ -78,9 +82,13 @@ export default async function BlogPost({ params }: Props) {
       {/* Page Title */}
       <div className="bg-whisper-100 py-8">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <Link href="/blog" className="text-plum-700 hover:text-plum-900 mb-4 inline-block transition-colors">
-            ← Back to Blog
-          </Link>
+          {/* Breadcrumbs */}
+          <Breadcrumbs items={[
+            { label: 'Home', href: '/' },
+            { label: 'Blog', href: '/blog' },
+            { label: post.title },
+          ]} />
+
           <div className="text-center">
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-plum-900 mb-4">
               {post.title}
@@ -173,6 +181,13 @@ export default async function BlogPost({ params }: Props) {
               </div>
             </div>
           </div>
+
+          {/* Related Posts */}
+          <RelatedPosts
+            currentSlug={post.slug}
+            currentTags={post.tags}
+            allPosts={allPosts}
+          />
 
           {/* Call to Action */}
           <div className="mt-12 text-center p-8 section-bg rounded-lg">
