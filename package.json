@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "check-accessibility": "node scripts/check-accessibility.js",
-    "test-colors": "npm run check-accessibility"
+    "test-colors": "npm run check-accessibility",
+    "postbuild": "node scripts/generate-sitemap.mjs"
   },
   "dependencies": {
     "@vercel/speed-insights": "^1.2.0",
