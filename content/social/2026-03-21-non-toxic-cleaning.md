@@ -17,3 +17,11 @@ Real talk: switching to non-toxic cleaning products was harder than I expected. 
 The non-toxic cleaning switch isn't as easy as the internet makes it sound. Half the products I tried were basically expensive water. But the ones that work? Game changers. New honest review on the blog — link in bio 🍋
 
 #nontoxiccleaning #cleanlivingmom #ecofriendlycleaning #naturalcleaning #crunchymama #greencleaning #diycleaning
+
+## Video Script (~40 seconds)
+**Hook:** "I threw out half my cleaning products."
+
+> I threw out half my cleaning products — not because some influencer told me to, but because I have a toddler who licks the floor. *[Deadpan look]* So I switched to non-toxic options and honestly? They work just as well. Some even better. My three staples now: *[hold up each one]* this, this, and this. Total game changer was realizing I don't need 12 different sprays. I wrote up everything — what I use, what I ditched, and what's not worth the hype — on the blog.
+
+**How to film:** Kitchen or bathroom. Hold up 2-3 products. Maybe a quick wipe-down shot.
+**Post to:** TikTok → Reels → YouTube Shorts → Pinterest

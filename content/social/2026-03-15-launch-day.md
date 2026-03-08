@@ -20,3 +20,11 @@ Something new! I've been wanting to share the natural living stuff I've figured 
 New chapter 💜 I started a blog about natural living, homeschooling, and all the stuff I wish someone had just told me straight. No influencer energy — just honest recommendations from a crunchy mama who also happens to be a software engineer. Link in bio → violetmama.com
 
 #naturalliving #crunchymama #homeschoolmom #naturalparenting #ecofriendlyliving #momlife #violetmama
+
+## Video Script (~30 seconds)
+**Hook:** "I built a blog while my toddler napped."
+
+> I built a blog while my toddler napped — and honestly? It's been years in the making. I'm a software engineer, solo mom, and I've been wanting a space to share all the natural living stuff that actually works for us. Not the Pinterest-perfect version. The real one. So… welcome to Violet Mama. New posts every few days on eco-friendly swaps, homeschool wins, and surviving toddlerhood without losing it. Link in bio 💜
+
+**How to film:** Talking head, couch or desk. Or walking outside with toddler in background. Natural lighting, keep it casual.
+**Post to:** TikTok → Reels → YouTube Shorts

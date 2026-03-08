@@ -17,3 +17,11 @@ Our #1 homeschool snack takes 15 minutes, requires zero baking, and my toddler t
 15 minutes. No oven. Toddler thinks they're cookies. Energy balls are the only "meal prep" I actually do consistently. Base recipe + our 4 favorite variations on the blog — link in bio 🍪
 
 #healthysnacks #toddlersnacks #energyballs #nobakerecipe #homeschoolsnacks #crunchymama #realfood
+
+## Video Script (~35 seconds)
+**Hook:** *[Show finished energy balls]* "Three ingredients. No oven. Toddler approved."
+
+> *[Show the balls on a plate]* Three ingredients, no oven, and my kid is obsessed. These energy balls take five minutes — *[timelapse of mixing]* oats, peanut butter, honey. That's it. Roll them up. *[Show rolling]* I keep a batch in the fridge all week. They're our go-to snack for park trips, homeschool fuel, and honestly… my 3pm survival snack. Full recipe's on the blog.
+
+**How to film:** Recipe timelapse format. Prop phone to the side, overhead if possible. Show toddler eating one at the end.
+**Post to:** TikTok → Reels → YouTube Shorts → Pinterest (Pinterest LOVES recipe content)

@@ -17,3 +17,11 @@ New on the blog — I tested a handful of organic cotton kids' clothing brands a
 Let's talk organic cotton kids' clothes. I tried several brands to find ones that were actually soft AND durable. Because what's the point of paying more if it falls apart in a month? New review on the blog — link in bio 🌿
 
 #organicclothing #kidsfashion #ecokids #sustainablefashion #crunchymama #naturalparenting #toddlerlife
+
+## Video Script (~40 seconds)
+**Hook:** "Wait — do you know what's in your kid's pajamas?"
+
+> Do you know what's in your kid's pajamas? Because I didn't, and then I looked it up and… yeah. Conventional cotton is one of the most pesticide-heavy crops, and kids' clothes often have flame retardants and formaldehyde finishes. *[Hold up an organic cotton outfit]* We switched to organic cotton for the stuff that touches his skin the most — PJs, underwear, basics. It doesn't have to be everything. Start with what matters most. I broke down my favorite brands and what's actually worth the price on the blog.
+
+**How to film:** Show a few pieces of clothing, maybe the tag/label. Toddler wearing one = bonus. Natural light.
+**Post to:** TikTok → Reels → YouTube Shorts → Pinterest

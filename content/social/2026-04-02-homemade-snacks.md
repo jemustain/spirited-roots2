@@ -17,3 +17,11 @@ My toddler actually likes the homemade version of some of his snacks better than
 Plot twist: my kid likes homemade crackers better than Goldfish. Not all of my experiments worked, but the ones that did are now on permanent rotation. Recipes on the blog — link in bio 🧑‍🍳
 
 #homemadesnacks #toddlerfood #healthykids #realfoodkids #crunchymama #homeschoollife #toddlerapproved
+
+## Video Script (~45 seconds)
+**Hook:** "I made the store-bought version at home and… let's compare."
+
+> I made the homemade version of *[hold up store snack]* this — and let's compare. *[Show both side by side]* Store-bought: 23 ingredients including three I can't pronounce. Homemade: 5 ingredients, took me 10 minutes. *[Taste test or show toddler choosing]* The wild part? He picked the homemade one. I'm not saying never buy snacks — I'm a tired mom, I get it. But when you CAN make it, it's worth it. More comparisons on the blog.
+
+**How to film:** Side-by-side shots. Show the ingredient labels. "Vs" content gets tons of engagement.
+**Post to:** TikTok → Reels → YouTube Shorts → Pinterest
