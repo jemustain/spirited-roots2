@@ -7,6 +7,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 import BlogImage from '@/components/BlogImage';
+import ReadingProgressBar from '@/components/ReadingProgressBar';
 import PlaceholderImage from '@/components/PlaceholderImage';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import RelatedPosts from '@/components/RelatedPosts';
@@ -77,6 +78,7 @@ export default async function BlogPost({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      <ReadingProgressBar />
       <Header />
       
       {/* Page Title */}
