@@ -45,8 +45,34 @@ export default async function BlogPost({ params }: Props) {
     notFound();
   }
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.title,
+    author: { '@type': 'Person', name: post.author },
+    datePublished: post.date,
+    dateModified: post.date,
+    description: post.seo.description || post.excerpt,
+    image: post.heroImage && post.heroImage !== 'placeholder'
+      ? `https://www.violetmama.com${post.heroImage}`
+      : 'https://www.violetmama.com/favicon.png',
+    publisher: {
+      '@type': 'Organization',
+      name: 'Violet Mama',
+      url: 'https://www.violetmama.com',
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `https://www.violetmama.com/blog/${slug}`,
+    },
+  };
+
   return (
     <div className="min-h-screen bg-whisper-50">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Header />
       
       {/* Page Title */}
