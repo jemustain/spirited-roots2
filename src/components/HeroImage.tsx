@@ -19,13 +19,12 @@ export default function HeroImage({
     sage: 'bg-gradient-to-r from-sage-800/70 to-sage-600/70',
     forest: 'bg-gradient-to-r from-forest-800/70 to-forest-600/70',
     warm: 'bg-gradient-to-r from-terracotta-800/70 to-gold-600/70',
-    nature: 'bg-gradient-to-r from-forest-800/70 via-sage-700/70 to-gold-600/70',
-    lavender: 'bg-gradient-to-r from-lavender-800/70 to-lavender-600/70',
-    purple: 'bg-gradient-to-r from-plum-800/70 to-plum-600/70',
-    violet: 'bg-gradient-to-r from-lavender-800/70 via-plum-700/70 to-marigold-600/70'
+    nature: 'bg-gradient-to-b from-black/50 via-black/30 to-black/50',
+    lavender: 'bg-gradient-to-b from-black/50 via-lavender-800/40 to-black/50',
+    purple: 'bg-gradient-to-b from-black/50 via-plum-800/40 to-black/50',
+    violet: 'bg-gradient-to-b from-black/50 via-lavender-800/40 to-black/50'
   };
 
-  // If no src provided, create a beautiful CSS gradient placeholder
   if (!src) {
     return (
       <div className={`relative overflow-hidden ${className}`}>
@@ -34,7 +33,6 @@ export default function HeroImage({
           <div className={`absolute inset-0 ${overlayClasses[overlayColor]}`}></div>
         )}
         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/10"></div>
-        {/* Optional pattern overlay for texture */}
         <div 
           className="absolute inset-0 opacity-10"
           style={{

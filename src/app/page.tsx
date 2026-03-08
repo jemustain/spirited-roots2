@@ -23,10 +23,10 @@ export default function Home() {
         />
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center text-white px-4 max-w-4xl">
-            <h1 className="text-4xl md:text-6xl font-bold mb-6 drop-shadow-lg">
+            <h1 className="text-4xl md:text-6xl font-bold mb-6 hero-text-shadow">
               Welcome to Violet Mama
             </h1>
-            <p className="text-xl md:text-2xl mb-8 drop-shadow-md max-w-2xl mx-auto leading-relaxed">
+            <p className="text-xl md:text-2xl mb-8 hero-text-shadow max-w-2xl mx-auto leading-relaxed">
               Natural living, mindful motherhood, and authentic product reviews 
               for families who want to thrive naturally
             </p>
@@ -44,46 +44,57 @@ export default function Home() {
 
       {/* Main Content */}
       <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        {/* Welcome Section - Removed since we have hero */}
         
-        {/* Feature Cards */}
+        {/* Category Cards */}
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
-          <div className="card-bg-alt rounded-xl shadow-xl p-8 border-t-4 border-lavender-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
-            <div className="text-coral-500 text-4xl mb-4">🌱</div>
-            <h3 className="text-xl font-semibold text-primary-responsive mb-3">Natural Products</h3>
-            <p className="text-secondary-responsive">
-              Discover eco-friendly kids&apos; clothing, natural self-care products, and toxin-free household items.
-            </p>
-          </div>
+          <Link href="/blog" className="group relative rounded-2xl overflow-hidden shadow-lg h-64 block">
+            <div className="absolute inset-0 bg-gradient-to-br from-lavender-600 to-plum-700 group-hover:scale-105 transition-transform duration-500"></div>
+            <div className="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors duration-300"></div>
+            <div className="relative h-full flex flex-col justify-end p-8 text-white">
+              <div className="text-5xl mb-3">🌱</div>
+              <h3 className="text-2xl font-bold mb-2">Natural Products</h3>
+              <p className="text-white/85 text-sm leading-relaxed">
+                Discover eco-friendly kids&apos; clothing, natural self-care products, and toxin-free household items.
+              </p>
+            </div>
+          </Link>
           
-          <div className="card-bg-alt rounded-xl shadow-xl p-8 border-t-4 border-marigold-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
-            <div className="text-plum-600 text-4xl mb-4">🥗</div>
-            <h3 className="text-xl font-semibold text-primary-responsive mb-3">Healthy Recipes</h3>
-            <p className="text-secondary-responsive">
-              Nourishing, family-friendly recipes perfect for homeschool picnics and busy weekdays.
-            </p>
-          </div>
+          <Link href="/blog" className="group relative rounded-2xl overflow-hidden shadow-lg h-64 block">
+            <div className="absolute inset-0 bg-gradient-to-br from-marigold-500 to-coral-600 group-hover:scale-105 transition-transform duration-500"></div>
+            <div className="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors duration-300"></div>
+            <div className="relative h-full flex flex-col justify-end p-8 text-white">
+              <div className="text-5xl mb-3">🥗</div>
+              <h3 className="text-2xl font-bold mb-2">Healthy Recipes</h3>
+              <p className="text-white/85 text-sm leading-relaxed">
+                Nourishing, family-friendly recipes perfect for homeschool picnics and busy weekdays.
+              </p>
+            </div>
+          </Link>
           
-          <div className="card-bg-alt rounded-xl shadow-xl p-8 border-t-4 border-coral-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
-            <div className="text-marigold-500 text-4xl mb-4">📚</div>
-            <h3 className="text-xl font-semibold text-primary-responsive mb-3">Homeschool Tips</h3>
-            <p className="text-secondary-responsive">
-              Nature-based learning activities and screen-free ideas for raising resilient children.
-            </p>
-          </div>
+          <Link href="/blog" className="group relative rounded-2xl overflow-hidden shadow-lg h-64 block">
+            <div className="absolute inset-0 bg-gradient-to-br from-coral-500 to-lavender-600 group-hover:scale-105 transition-transform duration-500"></div>
+            <div className="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors duration-300"></div>
+            <div className="relative h-full flex flex-col justify-end p-8 text-white">
+              <div className="text-5xl mb-3">📚</div>
+              <h3 className="text-2xl font-bold mb-2">Homeschool Tips</h3>
+              <p className="text-white/85 text-sm leading-relaxed">
+                Nature-based learning activities and screen-free ideas for raising resilient children.
+              </p>
+            </div>
+          </Link>
         </div>
 
         {/* Featured Blog Posts */}
         {featuredPosts.length > 0 && (
           <section className="mb-16">
-            <h2 className="text-3xl font-bold text-primary-responsive text-center mb-8">
+            <h2 className="text-3xl font-bold text-primary-responsive text-center mb-10">
               ✨ Featured Posts
             </h2>
-            <div className="grid md:grid-cols-2 gap-8">
-              {featuredPosts.slice(0, 2).map((post) => (
+            <div className="grid md:grid-cols-3 gap-8">
+              {featuredPosts.slice(0, 3).map((post) => (
                 <article
                   key={post.slug}
-                  className="card-bg-alt rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow"
+                  className="blog-card card-bg-alt rounded-2xl shadow-lg overflow-hidden"
                 >
                   <div className="p-6">
                     <div className="flex items-center text-muted-responsive text-sm mb-3 gap-3">
@@ -93,13 +104,6 @@ export default function Home() {
                         </svg>
                         {format(new Date(post.date + 'T12:00:00'), 'MMM d, yyyy')}
                       </span>
-                      <span>•</span>
-                      <Link href="/about" className="flex items-center hover:text-sage-800 transition-colors">
-                        <svg className="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
-                          <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
-                        </svg>
-                        {post.author}
-                      </Link>
                       <span>•</span>
                       <span className="flex items-center">
                         <svg className="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
@@ -130,7 +134,7 @@ export default function Home() {
               ))}
             </div>
             
-            <div className="text-center mt-8">
+            <div className="text-center mt-10">
               <Link href="/blog" className="btn-lavender">
                 View All Posts
               </Link>

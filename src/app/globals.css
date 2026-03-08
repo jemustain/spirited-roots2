@@ -24,8 +24,8 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-body);
+  --font-mono: monospace;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -51,7 +51,7 @@
 body {
   background: var(--bg-primary);
   color: var(--text-primary);
-  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  font-family: var(--font-body), system-ui, sans-serif;
   line-height: 1.6;
 }
 
@@ -342,4 +342,37 @@ img {
   display: block;
   overflow-x: auto;
   max-width: 100%;
+}
+
+/* Font pairing: Lora for headings, Nunito Sans for body */
+h1, h2, h3, h4, h5, h6,
+.prose h1, .prose h2, .prose h3 {
+  font-family: var(--font-heading), Georgia, serif;
+}
+
+/* Hero text shadow for readability */
+.hero-text-shadow {
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5), 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+/* Blog card hover effects */
+.blog-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.blog-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
+}
+
+.blog-card .card-image {
+  overflow: hidden;
+}
+
+.blog-card:hover .card-image img {
+  transform: scale(1.08);
+}
+
+.blog-card .card-image img {
+  transition: transform 0.5s ease;
 }

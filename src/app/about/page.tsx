@@ -24,10 +24,10 @@ export default function AboutPage() {
         />
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center text-white px-4 max-w-3xl">
-            <h1 className="text-4xl md:text-5xl font-bold mb-4 drop-shadow-lg">
+            <h1 className="text-4xl md:text-5xl font-bold mb-4 hero-text-shadow">
               About Violet
             </h1>
-            <p className="text-xl md:text-2xl drop-shadow-md">
+            <p className="text-xl md:text-2xl hero-text-shadow">
               Mom, Nature Enthusiast & Your Guide to Natural Family Living
             </p>
           </div>
