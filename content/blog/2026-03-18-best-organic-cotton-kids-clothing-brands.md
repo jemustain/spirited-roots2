@@ -1,12 +1,12 @@
 ---
 title: "Organic Cotton Kids' Clothes That Actually Hold Up"
-slug: "2025-09-14-best-organic-cotton-kids-clothing-brands"
-date: "2026-03-02"
+slug: "2026-03-18-best-organic-cotton-kids-clothing-brands"
+date: "2026-03-18"
 excerpt: "I've tried a handful of organic cotton kids' clothing brands. Here's which ones survived my toddler's chaos and which ones weren't worth the price."
 author: "Violet"
 tags: ["organic clothing", "kids fashion", "sustainable living", "product reviews", "natural fabrics"]
 featured: true
-heroImage: "/images/blog/2025-09-14-best-organic-cotton-kids-clothing-brands/organic-cotton-clothing-hero.jpg"
+heroImage: "/images/blog/2026-03-18-best-organic-cotton-kids-clothing-brands/organic-cotton-clothing-hero.jpg"
 heroImageAlt: "Organic cotton children's clothing in natural lighting"
 seo:
   title: "Best Organic Cotton Kids Clothing Brands - Tested & Reviewed"
