@@ -1,12 +1,12 @@
 ---
 title: "How Nature Teaches My Kid Resilience (Better Than I Can)"
-slug: "2025-10-08-teaching-resilience-through-nature-connection"
-date: "2025-10-08"
+slug: "2026-04-05-teaching-resilience-through-nature-connection"
+date: "2026-04-05"
 excerpt: "The forest has taught Leo more about persistence and problem-solving than any worksheet ever could. Here's how we use outdoor time to build real confidence."
 author: "Violet"
 tags: ["resilience", "nature connection", "outdoor parenting", "child development", "mindful parenting"]
 featured: false
-heroImage: "/images/blog/2025-10-08-teaching-resilience-through-nature-connection/nature-resilience-hero.jpg"
+heroImage: "/images/blog/2026-04-05-teaching-resilience-through-nature-connection/nature-resilience-hero.jpg"
 heroImageAlt: "Child exploring nature confidently during an outdoor adventure"
 seo:
   title: "Teaching Resilience Through Nature Connection - Outdoor Parenting Guide"

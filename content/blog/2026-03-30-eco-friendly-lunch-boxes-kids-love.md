@@ -1,12 +1,12 @@
 ---
 title: "Eco-Friendly Lunch Boxes That Survived My Toddler"
-slug: "2025-09-30-eco-friendly-lunch-boxes-kids-love"
-date: "2025-09-30"
+slug: "2026-03-30-eco-friendly-lunch-boxes-kids-love"
+date: "2026-03-30"
 excerpt: "I've bought way too many lunch containers trying to find ones that don't leak, don't break, and that my kid will actually use. Here's what made the cut."
 author: "Violet"
 tags: ["eco-friendly", "lunch boxes", "kids products", "sustainable living", "product reviews"]
 featured: false
-heroImage: "/images/blog/2025-09-30-eco-friendly-lunch-boxes-kids-love/eco-lunch-boxes-hero.jpg"
+heroImage: "/images/blog/2026-03-30-eco-friendly-lunch-boxes-kids-love/eco-lunch-boxes-hero.jpg"
 heroImageAlt: "Eco-friendly lunch boxes and containers for kids"
 seo:
   title: "Best Eco-Friendly Lunch Boxes & Water Bottles Kids Love - Tested Reviews"
