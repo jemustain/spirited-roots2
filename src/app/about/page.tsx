@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import HeroImage from '@/components/HeroImage';
@@ -40,71 +41,67 @@ export default function AboutPage() {
           
           {/* Introduction */}
           <section className="mb-12">
-            <div className="flex items-start mb-6">
-              <div className="text-4xl mr-4">🌿</div>
-              <div>
-                <h2 className="text-2xl font-bold text-primary-responsive mb-4">
-                  Hey There!
-                </h2>
-                <p className="text-secondary-responsive text-lg leading-relaxed mb-4">
-                  I&apos;m Violet — a mom to one amazing little one, a software engineer by trade, 
-                  and a crunchy mama by choice. Welcome to my corner of the internet.
-                </p>
-                <p className="text-secondary-responsive text-lg leading-relaxed">
-                  My days look like homeschool lessons that turn into backyard adventures, 
-                  herbal tea while I sneak in some coding, and way too much research into 
-                  whatever natural product rabbit hole I&apos;ve fallen into this week. 
-                  It&apos;s chaotic and wonderful and I wouldn&apos;t trade it.
-                </p>
-              </div>
-            </div>
+            <h2 className="text-2xl font-bold text-primary-responsive mb-4">
+              Hey There
+            </h2>
+            <p className="text-secondary-responsive text-lg leading-relaxed mb-4">
+              I'm Violet — a mom to one amazing little one, a software engineer by trade, 
+              and a crunchy mama by choice. Welcome to my corner of the internet.
+            </p>
+            <p className="text-secondary-responsive text-lg leading-relaxed">
+              My days look like homeschool lessons that turn into backyard adventures, 
+              herbal tea while I sneak in some coding, and way too much research into 
+              whatever natural product rabbit hole I've fallen into this week. 
+              It's chaotic and wonderful and I wouldn't trade it.
+            </p>
           </section>
 
           {/* My Journey */}
           <section className="mb-12">
             <h2 className="text-2xl font-bold text-primary-responsive mb-6">
-              🌱 How I Got Here
+              How I Got Here
             </h2>
             <p className="text-secondary-responsive text-lg leading-relaxed mb-4">
-              My path to motherhood wasn&apos;t straightforward. But becoming a mom changed everything 
-              for me — it cracked me open in the best way and pushed me toward a life that actually 
-              feels intentional. Nature, community, slowing down — that&apos;s where the real stuff is.
+              My son's dad died while I was pregnant. I became a mom and learned to grieve at the 
+              same time. Later I met my husband, and we've walked through three miscarriages 
+              together. All of that loss shaped me — it made me intentional about how we live, 
+              what we put in our bodies, how we spend our days. Nothing feels small anymore.
             </p>
             <p className="text-secondary-responsive text-lg leading-relaxed">
-              We&apos;re snowbirds — splitting time between Washington and Arizona depending on the season. 
-              I&apos;ve built a life around raising my son with curiosity, fresh air, and a home full of 
+              We're snowbirds — splitting time between Washington and Arizona depending on the season. 
+              I've built a life around raising my son with curiosity, fresh air, and a home full of 
               lavender and purple tones (because obviously). 
-              It&apos;s not perfect, but it&apos;s ours.
+              It's not perfect, but it's ours.
             </p>
           </section>
 
           {/* My Approach */}
           <section className="mb-12">
             <h2 className="text-2xl font-bold text-primary-responsive mb-6">
-              💚 What We&apos;re About
+              What We're About
             </h2>
             <div className="grid md:grid-cols-2 gap-8">
               <div>
                 <h3 className="text-xl font-semibold text-secondary-responsive mb-3">
-                  🌲 Nature-First Living
+                  Nature-First Living
                 </h3>
                 <p className="text-secondary-responsive leading-relaxed">
                   Screens stay minimal, adventures stay maximal. Forest walks, mud puddles, 
-                  and hands-on learning that follows my son&apos;s curiosity wherever it goes.
+                  and hands-on learning that follows my son's curiosity wherever it goes.
                 </p>
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-secondary-responsive mb-3">
-                  🌿 Gentle Products
+                  Gentle Products
                 </h3>
                 <p className="text-secondary-responsive leading-relaxed">
-                  I&apos;m picky about what we put on and in our bodies — eco-friendly clothing, 
+                  I'm picky about what we put on and in our bodies — eco-friendly clothing, 
                   natural self-care, wholesome food. If I recommend it, we actually use it.
                 </p>
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-secondary-responsive mb-3">
-                  📚 Homeschool Heart
+                  Homeschool Heart
                 </h3>
                 <p className="text-secondary-responsive leading-relaxed">
                   Our homeschool is interest-led, play-based, and built around real-world experiences. 
@@ -113,7 +110,7 @@ export default function AboutPage() {
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-secondary-responsive mb-3">
-                  ⚡ Tech Meets Crunchy
+                  Tech Meets Crunchy
                 </h3>
                 <p className="text-secondary-responsive leading-relaxed">
                   I come from a software engineering background, which means I built this blog 
@@ -126,7 +123,7 @@ export default function AboutPage() {
           {/* What You'll Find Here */}
           <section className="mb-12">
             <h2 className="text-2xl font-bold text-primary-responsive mb-6">
-              ✨ What You&apos;ll Find Here
+              What You'll Find Here
             </h2>
             <p className="text-secondary-responsive text-lg leading-relaxed mb-6">
               This is a space for moms who want to live more naturally without the gatekeeping. 
@@ -159,42 +156,37 @@ export default function AboutPage() {
           {/* Connect Section */}
           <section className="section-bg rounded-lg p-8 text-center">
             <h2 className="text-2xl font-bold text-primary-responsive mb-4">
-              Let&apos;s Connect 🌸
+              Let's Connect
             </h2>
             <p className="text-secondary-responsive text-lg leading-relaxed mb-6 max-w-2xl mx-auto">
-              I&apos;d love to hear from you — whether you&apos;re deep into the crunchy life 
+              I'd love to hear from you — whether you're deep into the crunchy life 
               or just getting started. Come say hi.
             </p>
             <div className="flex flex-wrap gap-3 justify-center mb-6">
-              <a href="https://instagram.com/thevioletmama" className="btn-lavender" target="_blank" rel="noopener noreferrer">
+              <a href="https://instagram.com/thevioletmama" className="inline-flex items-center px-5 py-2.5 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm font-medium" target="_blank" rel="noopener noreferrer">
                 Instagram
               </a>
-              <a href="https://www.facebook.com/TheVioletMama" className="btn-marigold" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.facebook.com/TheVioletMama" className="inline-flex items-center px-5 py-2.5 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm font-medium" target="_blank" rel="noopener noreferrer">
                 Facebook
               </a>
-              <a href="https://x.com/thevioletmama" className="inline-flex items-center px-4 py-2 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm" target="_blank" rel="noopener noreferrer">
-                X / Twitter
+              <a href="https://x.com/thevioletmama" className="inline-flex items-center px-5 py-2.5 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm font-medium" target="_blank" rel="noopener noreferrer">
+                X
               </a>
-              <a href="https://pinterest.com/thevioletmama" className="inline-flex items-center px-4 py-2 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm" target="_blank" rel="noopener noreferrer">
+              <a href="https://pinterest.com/thevioletmama" className="inline-flex items-center px-5 py-2.5 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm font-medium" target="_blank" rel="noopener noreferrer">
                 Pinterest
               </a>
-              <a href="https://youtube.com/@thevioletmama" className="inline-flex items-center px-4 py-2 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm" target="_blank" rel="noopener noreferrer">
+              <a href="https://youtube.com/@thevioletmama" className="inline-flex items-center px-5 py-2.5 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm font-medium" target="_blank" rel="noopener noreferrer">
                 YouTube
               </a>
-              <a href="https://tiktok.com/@thevioletmama" className="inline-flex items-center px-4 py-2 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm" target="_blank" rel="noopener noreferrer">
+              <a href="https://tiktok.com/@thevioletmama" className="inline-flex items-center px-5 py-2.5 bg-plum-600 hover:bg-plum-700 text-white rounded-lg transition-colors text-sm font-medium" target="_blank" rel="noopener noreferrer">
                 TikTok
               </a>
             </div>
-            <div className="text-center">
-              <a href="https://linktr.ee/violetmama" className="inline-flex items-center px-4 py-2 bg-plum-500 hover:bg-plum-600 text-white rounded-lg transition-colors text-sm" target="_blank" rel="noopener noreferrer">
-                <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 24 24">
-                  <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
-                </svg>
-                All My Links
+            <p className="text-muted-responsive text-sm">
+              Or find all my links at{' '}
+              <a href="https://linktr.ee/violetmama" className="text-plum-600 hover:text-plum-700 underline" target="_blank" rel="noopener noreferrer">
+                linktr.ee/violetmama
               </a>
-            </div>
-            <p className="text-muted-responsive mt-6 text-sm">
-              Find me @TheVioletMama on Instagram, Facebook, X, YouTube, TikTok, and Pinterest
             </p>
           </section>
 
