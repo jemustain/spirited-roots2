@@ -62,9 +62,11 @@ export default function AboutPage() {
               How I Got Here
             </h2>
             <p className="text-secondary-responsive text-lg leading-relaxed mb-4">
-              My path to motherhood wasn't straightforward. But becoming a mom changed everything 
-              for me — it cracked me open in the best way and pushed me toward a life that actually 
-              feels intentional. Nature, community, slowing down — that's where the real stuff is.
+              My son's dad died while I was pregnant. I became a mom and learned to grieve at the 
+              same time, which is a thing I wouldn't wish on anyone. Later I met my husband, and 
+              we've walked through three miscarriages together. All of that loss shaped me — it 
+              made me fiercely intentional about how we live, what we put in our bodies, how we 
+              spend our days. Nothing feels small anymore.
             </p>
             <p className="text-secondary-responsive text-lg leading-relaxed">
               We're snowbirds — splitting time between Washington and Arizona depending on the season. 
