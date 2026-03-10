@@ -24,7 +24,7 @@ I started this blog because I kept telling friends the same stuff over and over:
 
 **This is** a place where I share what actually works for our family. Honest product reviews, recipes we make on repeat, homeschool ideas that don't require a Pinterest board and three hours of prep.
 
-**This isn't** a polished lifestyle brand. I'm not going to pretend my house looks like a catalog or that I have it all figured out. Some weeks we do nature hikes and bake sourdough. Other weeks it's screen time and takeout. Both are fine.
+**This isn't** a polished lifestyle brand. I'm not going to pretend my house looks like a catalog or that I have it all figured out. Some weeks we do nature hikes and bake from scratch. Other weeks it's cereal for dinner and pajamas until noon. Both are fine.
 
 I'm not a doctor, nutritionist, or influencer. Just a mom who got tired of buying stuff that didn't work and figured other parents might want to skip the trial and error.
 
