@@ -1,7 +1,7 @@
 ---
 title: "Hey, I'm Violet. Here's What This Blog Is About."
-slug: "violet-mama-natural-living-journey-begins"
-date: "2025-09-10"
+slug: "2026-03-15-violet-mama-natural-living-journey-begins"
+date: "2026-03-15"
 excerpt: "Welcome to Violet Mama — a blog about natural living, homeschooling, and honest product reviews from a mom who also writes code for a living."
 author: "Violet"
 tags: ["natural living", "homeschool moms", "introduction", "eco-friendly"]
