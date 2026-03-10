@@ -44,7 +44,7 @@ You'll see affiliate links on some posts — they help keep this site running at
 
 ## A Little About Us
 
-I write code for a living and homeschool my son. We split our time between the desert and the Pacific Northwest, which means our "nature classroom" changes with the seasons. My kid thinks bugs are fascinating and mud is a food group. I drink too much herbal tea and have opinions about laundry detergent.
+I write code for a living. My husband left his career in education to stay home and give our son the best education possible — so we homeschool as a team. We split our time between the desert and the Pacific Northwest, which means our "nature classroom" changes with the seasons. My kid thinks bugs are fascinating and mud is a food group. I drink too much herbal tea and have opinions about laundry detergent.
 
 That's the vibe. If it sounds like your kind of thing, stick around.
 
