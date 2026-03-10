@@ -47,37 +47,37 @@ export default function Home() {
         
         {/* Category Cards */}
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
-          <Link href="/blog" className="group relative rounded-2xl overflow-hidden shadow-lg h-64 block"
-            style={{ background: 'linear-gradient(to bottom right, #7a5fc7, #6b5fa8)' }}>
-            <div className="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors duration-300"></div>
+          <Link href="/blog" className="group relative rounded-2xl overflow-hidden shadow-lg h-64 block">
+            <div className="absolute inset-0 bg-gradient-to-br from-lavender-600 to-plum-700 group-hover:scale-105 transition-transform duration-500"></div>
+            <div className="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors duration-300"></div>
             <div className="relative h-full flex flex-col justify-end p-8 text-white">
-              <svg className="w-10 h-10 mb-3 opacity-90" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.455 2.456L21.75 6l-1.036.259a3.375 3.375 0 00-2.455 2.456zM16.894 20.567L16.5 21.75l-.394-1.183a2.25 2.25 0 00-1.423-1.423L13.5 18.75l1.183-.394a2.25 2.25 0 001.423-1.423l.394-1.183.394 1.183a2.25 2.25 0 001.423 1.423l1.183.394-1.183.394a2.25 2.25 0 00-1.423 1.423z" /></svg>
+              <div className="text-5xl mb-3">🌱</div>
               <h3 className="text-2xl font-bold mb-2">Natural Products</h3>
-              <p className="text-white/90 text-sm leading-relaxed">
+              <p className="text-white/85 text-sm leading-relaxed">
                 Discover eco-friendly kids&apos; clothing, natural self-care products, and toxin-free household items.
               </p>
             </div>
           </Link>
           
-          <Link href="/blog" className="group relative rounded-2xl overflow-hidden shadow-lg h-64 block"
-            style={{ background: 'linear-gradient(to bottom right, #eab34a, #d85570)' }}>
-            <div className="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors duration-300"></div>
+          <Link href="/blog" className="group relative rounded-2xl overflow-hidden shadow-lg h-64 block">
+            <div className="absolute inset-0 bg-gradient-to-br from-marigold-500 to-coral-600 group-hover:scale-105 transition-transform duration-500"></div>
+            <div className="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors duration-300"></div>
             <div className="relative h-full flex flex-col justify-end p-8 text-white">
-              <svg className="w-10 h-10 mb-3 opacity-90" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M12 8.25v-1.5m0 1.5c-1.355 0-2.697.056-4.024.166C6.845 8.51 6 9.473 6 10.608v2.513m6-4.871c1.355 0 2.697.056 4.024.166C17.155 8.51 18 9.473 18 10.608v2.513M15 8.25v-1.5m-6 1.5v-1.5m12 9.75l-1.5.75a3.354 3.354 0 01-3 0 3.354 3.354 0 00-3 0 3.354 3.354 0 01-3 0 3.354 3.354 0 00-3 0 3.354 3.354 0 01-3 0L3 16.5m15-3.379a48.474 48.474 0 00-6-.371c-2.032 0-4.034.126-6 .371m12 0c.39.049.777.102 1.163.16 1.07.16 1.837 1.094 1.837 2.175v5.169c0 .621-.504 1.125-1.125 1.125H4.125A1.125 1.125 0 013 20.625v-5.17c0-1.08.768-2.014 1.837-2.174A47.78 47.78 0 016 13.12M12.265 3.11a.375.375 0 11-.53 0L12 2.845l.265.265zm-3 0a.375.375 0 11-.53 0L9 2.845l.265.265zm6 0a.375.375 0 11-.53 0L15 2.845l.265.265z" /></svg>
+              <div className="text-5xl mb-3">🥗</div>
               <h3 className="text-2xl font-bold mb-2">Healthy Recipes</h3>
-              <p className="text-white/90 text-sm leading-relaxed">
+              <p className="text-white/85 text-sm leading-relaxed">
                 Nourishing, family-friendly recipes perfect for homeschool picnics and busy weekdays.
               </p>
             </div>
           </Link>
           
-          <Link href="/blog" className="group relative rounded-2xl overflow-hidden shadow-lg h-64 block"
-            style={{ background: 'linear-gradient(to bottom right, #ea7186, #7a5fc7)' }}>
-            <div className="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors duration-300"></div>
+          <Link href="/blog" className="group relative rounded-2xl overflow-hidden shadow-lg h-64 block">
+            <div className="absolute inset-0 bg-gradient-to-br from-coral-500 to-lavender-600 group-hover:scale-105 transition-transform duration-500"></div>
+            <div className="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors duration-300"></div>
             <div className="relative h-full flex flex-col justify-end p-8 text-white">
-              <svg className="w-10 h-10 mb-3 opacity-90" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.438 60.438 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347m-15.482 0a50.57 50.57 0 00-2.658-.813A59.905 59.905 0 0112 3.493a59.902 59.902 0 0110.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.697 50.697 0 0112 13.489a50.702 50.702 0 017.74-3.342M6.75 15a.75.75 0 100-1.5.75.75 0 000 1.5zm0 0v-3.675A55.378 55.378 0 0112 8.443m-7.007 11.55A5.981 5.981 0 006.75 15.75v-1.5" /></svg>
+              <div className="text-5xl mb-3">📚</div>
               <h3 className="text-2xl font-bold mb-2">Homeschool Tips</h3>
-              <p className="text-white/90 text-sm leading-relaxed">
+              <p className="text-white/85 text-sm leading-relaxed">
                 Nature-based learning activities and screen-free ideas for raising resilient children.
               </p>
             </div>
@@ -88,7 +88,7 @@ export default function Home() {
         {featuredPosts.length > 0 && (
           <section className="mb-16">
             <h2 className="text-3xl font-bold text-primary-responsive text-center mb-10">
-              Featured Posts
+              ✨ Featured Posts
             </h2>
             <div className="grid md:grid-cols-3 gap-8">
               {featuredPosts.slice(0, 3).map((post) => (
