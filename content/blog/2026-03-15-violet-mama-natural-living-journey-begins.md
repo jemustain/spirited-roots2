@@ -6,8 +6,8 @@ excerpt: "Welcome to Violet Mama — a blog about natural living, homeschooling,
 author: "Violet"
 tags: ["natural living", "homeschool moms", "introduction", "eco-friendly"]
 featured: true
-heroImage: "placeholder"
-heroImageAlt: "Welcome to Violet Mama"
+heroImage: "/images/blog/2026-03-15-violet-mama-natural-living-journey-begins/welcome-hero.jpg"
+heroImageAlt: "Eucalyptus branches in a glass vase — natural living"
 seo:
   title: "Violet Mama — Natural Living & Mindful Motherhood"
   description: "Natural living tips, eco-friendly product reviews, healthy recipes, and homeschool ideas from a real mom. No sponsorships, no fake enthusiasm."
