@@ -4,7 +4,7 @@ slug: "2026-03-24-no-bake-energy-balls-homeschool-snacks"
 date: "2026-03-24"
 excerpt: "These take 15 minutes, my toddler thinks they're cookies, and they keep us going all afternoon. Here's the base recipe plus our favorite variations."
 author: "Violet"
-tags: ["healthy recipes", "afternoon snacks", "no-bake", "kid-friendly", "natural ingredients"]
+tags: ["recipes", "kids"]
 featured: true
 heroImage: "/images/blog/2026-03-24-no-bake-energy-balls-homeschool-snacks/energy-balls-hero.jpg"
 heroImageAlt: "Homemade energy balls in a rustic wooden bowl"
