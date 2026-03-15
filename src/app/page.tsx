@@ -12,37 +12,15 @@ export default function Home() {
       <Header />
 
       {/* Hero Section — Texture/Pattern (no photo) */}
-      <section className="relative overflow-hidden hero-texture-bg">
-        {/* Inline SVG gold geometric pattern overlay */}
-        <svg
-          className="absolute inset-0 w-full h-full opacity-[0.12] pointer-events-none"
-          xmlns="http://www.w3.org/2000/svg"
-          aria-hidden="true"
-        >
-          <defs>
-            <pattern id="geo-gold" x="0" y="0" width="80" height="92" patternUnits="userSpaceOnUse">
-              {/* Hexagon grid — art deco gold tessellation */}
-              <polygon points="40,2 72,23 72,69 40,90 8,69 8,23" fill="none" stroke="#d4a017" strokeWidth="1.2" />
-              {/* Inner hexagon */}
-              <polygon points="40,16 58,28 58,64 40,76 22,64 22,28" fill="none" stroke="#eab34a" strokeWidth="0.8" />
-              {/* Center diamond accent */}
-              <polygon points="40,34 50,46 40,58 30,46" fill="#d4a017" opacity="0.35" />
-              {/* Corner triangles for tessellation continuity */}
-              <polygon points="0,0 8,23 0,23" fill="none" stroke="#c4922e" strokeWidth="0.6" />
-              <polygon points="80,0 72,23 80,23" fill="none" stroke="#c4922e" strokeWidth="0.6" />
-              <polygon points="0,92 8,69 0,69" fill="none" stroke="#c4922e" strokeWidth="0.6" />
-              <polygon points="80,92 72,69 80,69" fill="none" stroke="#c4922e" strokeWidth="0.6" />
-              {/* Thin art deco radiating lines from center */}
-              <line x1="40" y1="46" x2="40" y2="2" stroke="#eab34a" strokeWidth="0.4" opacity="0.5" />
-              <line x1="40" y1="46" x2="72" y2="23" stroke="#eab34a" strokeWidth="0.4" opacity="0.5" />
-              <line x1="40" y1="46" x2="72" y2="69" stroke="#eab34a" strokeWidth="0.4" opacity="0.5" />
-              <line x1="40" y1="46" x2="40" y2="90" stroke="#eab34a" strokeWidth="0.4" opacity="0.5" />
-              <line x1="40" y1="46" x2="8" y2="69" stroke="#eab34a" strokeWidth="0.4" opacity="0.5" />
-              <line x1="40" y1="46" x2="8" y2="23" stroke="#eab34a" strokeWidth="0.4" opacity="0.5" />
-            </pattern>
-          </defs>
-          <rect width="100%" height="100%" fill="url(#geo-gold)" />
-        </svg>
+      <section className="relative overflow-hidden">
+        {/* Cactus hero image */}
+        <img
+          src="/images/heroes/homepage-hero.jpg"
+          alt="Prickly pear cactus in the Sonoran desert"
+          className="absolute inset-0 w-full h-full object-cover"
+        />
+        {/* Brand palette overlay — tints green cactus toward purple/lavender/marigold */}
+        <div className="absolute inset-0 bg-gradient-to-b from-[#9574bb]/65 via-[#bd9dea]/45 to-[#f2c76e]/50"></div>
 
         <div className="relative flex items-center justify-center py-16 md:py-24">
           <div className="text-center px-4 max-w-3xl">
