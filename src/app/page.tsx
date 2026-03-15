@@ -3,6 +3,7 @@ import { getFeaturedPosts } from '@/lib/blog';
 import { format } from 'date-fns';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import HeroImage from '@/components/HeroImage';
 
 export default function Home() {
   const featuredPosts = getFeaturedPosts();
@@ -11,44 +12,21 @@ export default function Home() {
     <div className="min-h-screen bg-whisper-50">
       <Header />
 
-      {/* Hero Section — Texture/Pattern (no photo) */}
-      <section className="relative overflow-hidden hero-texture-bg">
-        {/* Inline SVG botanical pattern overlay */}
-        <svg
-          className="absolute inset-0 w-full h-full opacity-[0.08] pointer-events-none"
-          xmlns="http://www.w3.org/2000/svg"
-          aria-hidden="true"
-        >
-          <defs>
-            <pattern id="botanical" x="0" y="0" width="120" height="120" patternUnits="userSpaceOnUse">
-              {/* Leaf shapes */}
-              <path d="M60 10 Q70 30 60 50 Q50 30 60 10Z" fill="#8b9e6b" />
-              <path d="M40 25 Q55 38 45 55 Q35 35 40 25Z" fill="#7a5fc7" opacity="0.7" />
-              <path d="M80 25 Q65 38 75 55 Q85 35 80 25Z" fill="#7a5fc7" opacity="0.7" />
-              {/* Berries */}
-              <circle cx="60" cy="55" r="3.5" fill="#eab34a" />
-              <circle cx="30" cy="85" r="2.5" fill="#d4a0d4" />
-              <circle cx="90" cy="85" r="2.5" fill="#d4a0d4" />
-              {/* Sprigs */}
-              <path d="M20 95 Q28 78 24 62" fill="none" stroke="#8b9e6b" strokeWidth="1.5" />
-              <path d="M100 95 Q92 78 96 62" fill="none" stroke="#8b9e6b" strokeWidth="1.5" />
-              <ellipse cx="20" cy="60" rx="5" ry="9" fill="#8b9e6b" transform="rotate(-15 20 60)" />
-              <ellipse cx="100" cy="60" rx="5" ry="9" fill="#8b9e6b" transform="rotate(15 100 60)" />
-              {/* Small flower */}
-              <circle cx="60" cy="95" r="4" fill="#eab34a" opacity="0.5" />
-              <circle cx="55" cy="91" r="2.5" fill="#d4a0d4" opacity="0.4" />
-              <circle cx="65" cy="91" r="2.5" fill="#d4a0d4" opacity="0.4" />
-            </pattern>
-          </defs>
-          <rect width="100%" height="100%" fill="url(#botanical)" />
-        </svg>
-
-        <div className="relative flex items-center justify-center py-16 md:py-24">
-          <div className="text-center px-4 max-w-3xl">
-            <h1 className="text-2xl md:text-4xl font-bold mb-3 text-white hero-text-shadow">
+      {/* Hero Section */}
+      <section className="relative">
+        <HeroImage 
+          src="/images/heroes/homepage-hero.jpg"
+          alt="Close-up of prickly pear cactus pads with red fruit in warm desert light"
+          className="h-56 md:h-72"
+          overlay={true}
+          overlayColor="nature"
+        />
+        <div className="absolute inset-0 flex items-center justify-center">
+          <div className="text-center text-white px-4 max-w-3xl">
+            <h1 className="text-2xl md:text-4xl font-bold mb-2 hero-text-shadow">
               Natural mom. Honest reviews. No fluff.
             </h1>
-            <p className="text-base md:text-lg text-white/90 max-w-xl mx-auto leading-relaxed hero-text-shadow">
+            <p className="text-base md:text-lg hero-text-shadow max-w-xl mx-auto leading-relaxed opacity-90">
               Homeschooling, natural living &amp; the products that actually hold up.
             </p>
           </div>
