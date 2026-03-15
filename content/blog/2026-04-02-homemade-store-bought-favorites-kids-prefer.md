@@ -2,7 +2,7 @@
 title: "Homemade Snacks My Toddler Likes Better Than Store-Bought"
 slug: "2026-04-02-homemade-store-bought-favorites-kids-prefer"
 date: "2026-04-02"
-excerpt: "I started making homemade versions of Leo's favorite snacks mostly to save money. Turns out he actually prefers some of them. Here are the recipes that stuck."
+excerpt: "I started making homemade versions of my kid's favorite snacks mostly to save money. Turns out he actually prefers some of them. Here are the recipes that stuck."
 author: "Violet"
 tags: ["recipes", "kids"]
 featured: false
@@ -14,9 +14,9 @@ seo:
   keywords: "homemade snacks, healthy alternatives, DIY food, natural snacks for kids, budget-friendly recipes"
 ---
 
-This started as a money-saving experiment and turned into a thing. I made homemade cheddar crackers one weekend, and when I offered Leo store-bought goldfish the next week, he asked for "the ones we made." I was genuinely surprised.
+This started as a money-saving experiment and turned into a thing. I made homemade cheddar crackers one weekend, and when I offered my son store-bought goldfish the next week, he asked for "the ones we made." I was genuinely surprised.
 
-Not everything worked. Some homemade versions were mediocre or too much effort. But these five recipes have become permanent fixtures in our kitchen. Leo consistently picks them over the packaged originals.
+Not everything worked. Some homemade versions were mediocre or too much effort. But these five recipes have become permanent fixtures in our kitchen. My kid consistently picks them over the packaged originals.
 
 ## The Recipes That Won
 
@@ -31,7 +31,7 @@ Not everything worked. Some homemade versions were mediocre or too much effort. 
 
 Pulse everything in a food processor, roll thin, cut into squares, bake at 350°F for 12-15 minutes.
 
-The secret is using sharp cheddar. It's noticeably cheesier than goldfish, which is why Leo prefers them. They keep for about a week in an airtight container.
+The secret is using sharp cheddar. It's noticeably cheesier than goldfish, which is why my son prefers them. They keep for about a week in an airtight container.
 
 ### Fruit Snacks
 **Savings**: About 70%
@@ -43,7 +43,7 @@ The secret is using sharp cheddar. It's noticeably cheesier than goldfish, which
 
 Puree the berries with honey. Bloom the gelatin in cold water, then heat the berry mixture and whisk in the gelatin. Pour into silicone molds, refrigerate 2 hours.
 
-Leo calls the blueberry ones "the purple ones" and asks for them constantly. No high fructose corn syrup, no artificial colors. They need to stay refrigerated — about a week shelf life.
+My toddler calls the blueberry ones "the purple ones" and asks for them constantly. No high fructose corn syrup, no artificial colors. They need to stay refrigerated — about a week shelf life.
 
 ### Granola Bars
 **Savings**: About 63%
@@ -58,7 +58,7 @@ Leo calls the blueberry ones "the purple ones" and asks for them constantly. No 
 
 Warm the honey and peanut butter, mix everything together, press into a lined 8x8 pan, refrigerate 2 hours and cut into bars.
 
-These are basically impossible to mess up. Leo asks for them before playground time — he calls them "energy bars."
+These are basically impossible to mess up. My son asks for them before playground time — he calls them "energy bars."
 
 ### Animal Crackers
 **Savings**: About 74%
@@ -73,7 +73,7 @@ These are basically impossible to mess up. Leo asks for them before playground t
 
 Standard cookie dough process — cream butter and sugar, add egg and vanilla, mix in dry ingredients. Roll thin, cut with cookie cutters, bake at 350°F for 10-12 minutes.
 
-The appeal here is partly that Leo helps make them. He's really into the cookie cutter part. They keep for about two weeks.
+The appeal here is partly that my kid helps make them. He's really into the cookie cutter part. They keep for about two weeks.
 
 ### Soft Pretzels
 **Savings**: About 81%
@@ -87,7 +87,7 @@ The appeal here is partly that Leo helps make them. He's really into the cookie 
 
 Standard pretzel process — make dough, let rise, shape, quick boil, bake at 450°F for 12-14 minutes.
 
-These are the most effort (about 2 hours with rise time), but Leo goes nuts for warm pretzels. Best eaten fresh, though they keep for a few days.
+These are the most effort (about 2 hours with rise time), but my son goes nuts for warm pretzels. Best eaten fresh, though they keep for a few days.
 
 ## What Didn't Work
 
@@ -99,7 +99,7 @@ Some things are just better left to the professionals.
 
 I spend about 2 hours on Sunday afternoons making snacks for the week. It saves us roughly $60/month. That's $720/year, which isn't nothing.
 
-But honestly, the bigger win is knowing what's in everything. No mystery preservatives, no artificial colors, and Leo gets to help make them. It's become our weekend thing.
+But honestly, the bigger win is knowing what's in everything. No mystery preservatives, no artificial colors, and my kid gets to help make them. It's become our weekend thing.
 
 ## If You're Starting Out
 

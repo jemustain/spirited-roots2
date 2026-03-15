@@ -16,7 +16,7 @@ seo:
 
 It's 3 PM. We've been doing school all morning, lunch was a while ago, and dinner isn't happening for another two hours. This is the danger zone — the part of the day where I used to grab whatever packaged snack was closest and call it good.
 
-Now we have energy balls in the fridge, and honestly they've changed our afternoons. Leo thinks they're cookies. I'm not correcting him.
+Now we have energy balls in the fridge, and honestly they've changed our afternoons. My toddler thinks they're cookies. I'm not correcting him.
 
 ## The Base Recipe
 
@@ -49,7 +49,7 @@ That's it. Fifteen minutes of work for a week of snacks.
 
 ## Why These Work
 
-The combo of oats, nut butter, and honey gives you actual sustained energy instead of a sugar spike and crash. They're portable, not messy, and Leo can help make them (he loves the rolling part).
+The combo of oats, nut butter, and honey gives you actual sustained energy instead of a sugar spike and crash. They're portable, not messy, and my kid can help make them (he loves the rolling part).
 
 If your kid has nut allergies, sunflower seed butter works great as a swap. Don't like chocolate? Dried cranberries are good instead.
 
@@ -58,7 +58,7 @@ If your kid has nut allergies, sunflower seed butter works great as a swap. Don'
 I make a double batch on Sundays. They cover us for:
 - Afternoon snacks during the school week
 - Quick bites before errands
-- Post-lunch when Leo's still hungry but dinner is hours away
+- Post-lunch when my son's still hungry but dinner is hours away
 - My own late-night snacking (no judgment)
 
 ### Ingredients I Keep Stocked
@@ -77,4 +77,4 @@ I make a double batch on Sundays. They cover us for:
 
 Some days these are lunch. They have oats, nut butter, flaxseed, and honey — that's more nutrition than a lot of packaged "lunch" options. I'm not going to feel bad about it, and neither should you.
 
-Leo calls them "power balls." Whether that's nutritional science or toddler marketing, I'll take it.
+My kid calls them "power balls." Whether that's nutritional science or toddler marketing, I'll take it.

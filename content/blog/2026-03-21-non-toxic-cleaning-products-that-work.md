@@ -46,7 +46,7 @@ Old school and effective. Great for sinks, cookware, and stubborn stains. Doesn'
 ### ECOS Dish Soap
 **Cost**: ~$3
 
-Cuts grease well enough for daily dishes. Gentle on hands. I don't worry about residue on Leo's cups, which is the whole point.
+Cuts grease well enough for daily dishes. Gentle on hands. I don't worry about residue on my toddler's cups, which is the whole point.
 
 **Verdict**: 8/10. Solid daily dish soap.
 

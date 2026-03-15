@@ -2,7 +2,7 @@
 title: "How Nature Teaches My Kid Resilience (Better Than I Can)"
 slug: "2026-04-05-teaching-resilience-through-nature-connection"
 date: "2026-04-05"
-excerpt: "The forest has taught Leo more about persistence and problem-solving than any worksheet ever could. Here's how we use outdoor time to build real confidence."
+excerpt: "The forest has taught my son more about persistence and problem-solving than any worksheet ever could. Here's how we use outdoor time to build real confidence."
 author: "Violet"
 tags: ["parenting", "nature"]
 featured: false
@@ -14,7 +14,7 @@ seo:
   keywords: "resilience in children, nature connection, outdoor parenting, child development, forest school"
 ---
 
-Last month on a forest walk, Leo stopped in front of a big fallen log and said "I can't climb that." I almost helped him. Instead I waited. Twenty minutes later he was standing on top of it, absolutely beaming. "I figured it out myself!"
+Last month on a forest walk, my son stopped in front of a big fallen log and said "I can't climb that." I almost helped him. Instead I waited. Twenty minutes later he was standing on top of it, absolutely beaming. "I figured it out myself!"
 
 That moment is worth more than anything I could teach him at a desk.
 
@@ -32,9 +32,9 @@ What it actually teaches:
 ## What We Do
 
 ### Weekly Walks
-Every Wednesday we go outside. Rain or shine. (Okay, not lightning. But light rain? We go.) It's teaching Leo that a little discomfort isn't a reason to quit.
+Every Wednesday we go outside. Rain or shine. (Okay, not lightning. But light rain? We go.) It's teaching my kid that a little discomfort isn't a reason to quit.
 
-We pack rain jackets, water, a snack, and a small backpack that Leo carries himself. That's it.
+We pack rain jackets, water, a snack, and a small backpack that my son carries himself. That's it.
 
 ### Monthly Bigger Adventures
 Once a month we try something harder — a longer hike, a new trail, something that stretches us a little. These are the days where the most growth happens.
@@ -47,7 +47,7 @@ Once a month we try something harder — a longer hike, a new trail, something t
 
 ## How I Handle the Hard Moments
 
-### When Leo Says "I Can't"
+### When He Says "I Can't"
 I wait. I ask "What have you tried so far?" or "What do you notice about it?" instead of jumping in. Most of the time he figures it out if I give him space.
 
 ### When to Actually Help
@@ -70,15 +70,15 @@ The difference is subtle but real. One approach teaches caution. The other teach
 
 ## Real Stories from Our Walks
 
-**The mud incident**: Leo's boots got stuck in deep mud. He panicked. After he calmed down, we figured out together how to pull his feet up slowly. Now he navigates mud confidently and tests depth with sticks first. He came up with the stick thing on his own.
+**The mud incident**: My kid's boots got stuck in deep mud. He panicked. After he calmed down, we figured out together how to pull his feet up slowly. Now he navigates mud confidently and tests depth with sticks first. He came up with the stick thing on his own.
 
-**The steep hill**: Halfway up a trail that was steeper than I expected, Leo wanted to quit. We sat down, took a break, and I suggested counting steps. Ten steps at a time. He made it. Now when something feels hard, he breaks it into smaller pieces — and not just on hikes.
+**The steep hill**: Halfway up a trail that was steeper than I expected, my son wanted to quit. We sat down, took a break, and I suggested counting steps. Ten steps at a time. He made it. Now when something feels hard, he breaks it into smaller pieces — and not just on hikes.
 
-**The rain**: We got caught in a downpour without rain gear. We found a big tree to wait under and talked about what we'd pack next time. Leo now checks weather with me and helps pack the bag. He's genuinely proud of being prepared.
+**The rain**: We got caught in a downpour without rain gear. We found a big tree to wait under and talked about what we'd pack next time. My little guy now checks weather with me and helps pack the bag. He's genuinely proud of being prepared.
 
 ## The Stuff That Transfers
 
-The coolest part is watching these skills show up in other areas of Leo's life. When a puzzle is hard, he doesn't immediately cry — he tries a different approach. When something doesn't go his way, he's quicker to adapt.
+The coolest part is watching these skills show up in other areas of my son's life. When a puzzle is hard, he doesn't immediately cry — he tries a different approach. When something doesn't go his way, he's quicker to adapt.
 
 I'm not saying nature walks fixed everything. He's still a toddler. There are still meltdowns. But there are noticeably fewer "I can't" moments and more "let me try" moments, and I think the outdoor time is a big part of that.
 
@@ -93,4 +93,4 @@ You don't need to live near a forest. A park works. A backyard works. Even a sid
 
 The main thing is consistency. It's not one epic hike that builds resilience — it's showing up every week, rain or shine, and letting your kid figure things out while you resist the urge to fix everything for them.
 
-That last part is honestly the hardest part. For me, not for Leo.
+That last part is honestly the hardest part. For me, not for him.
