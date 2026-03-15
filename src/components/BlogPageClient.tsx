@@ -65,11 +65,12 @@ export default function BlogPageClient({ posts }: { posts: Post[] }) {
         <div className="flex flex-wrap gap-2 mb-2">
           <button
             onClick={() => setSelectedTag(null)}
-            className={`px-3 py-1 text-sm rounded-full transition-colors ${
+            className="px-3 py-1 text-sm rounded-full transition-colors border"
+            style={
               selectedTag === null
-                ? 'bg-plum-600 text-white'
-                : 'bg-plum-100 text-plum-700 hover:bg-plum-200'
-            }`}
+                ? { backgroundColor: '#7a77b9', color: '#ffffff', borderColor: '#7a77b9' }
+                : { backgroundColor: '#e9e5f0', color: '#4a4173', borderColor: '#d7d0e3' }
+            }
           >
             All
           </button>
@@ -77,11 +78,12 @@ export default function BlogPageClient({ posts }: { posts: Post[] }) {
             <button
               key={tag}
               onClick={() => setSelectedTag(selectedTag === tag ? null : tag)}
-              className={`px-3 py-1 text-sm rounded-full transition-colors ${
+              className="px-3 py-1 text-sm rounded-full transition-colors border"
+              style={
                 selectedTag === tag
-                  ? 'bg-plum-600 text-white'
-                  : 'bg-plum-100 text-plum-700 hover:bg-plum-200'
-              }`}
+                  ? { backgroundColor: '#7a77b9', color: '#ffffff', borderColor: '#7a77b9' }
+                  : { backgroundColor: '#e9e5f0', color: '#4a4173', borderColor: '#d7d0e3' }
+              }
             >
               {tag}
             </button>
