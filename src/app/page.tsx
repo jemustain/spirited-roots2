@@ -13,30 +13,35 @@ export default function Home() {
 
       {/* Hero Section — Texture/Pattern (no photo) */}
       <section className="relative overflow-hidden hero-texture-bg">
-        {/* Inline SVG botanical pattern overlay */}
+        {/* Inline SVG gold geometric pattern overlay */}
         <svg
-          className="absolute inset-0 w-full h-full opacity-[0.08] pointer-events-none"
+          className="absolute inset-0 w-full h-full opacity-[0.12] pointer-events-none"
           xmlns="http://www.w3.org/2000/svg"
           aria-hidden="true"
         >
           <defs>
-            <pattern id="botanical" x="0" y="0" width="120" height="120" patternUnits="userSpaceOnUse">
-              <path d="M60 10 Q70 30 60 50 Q50 30 60 10Z" fill="#8b9e6b" />
-              <path d="M40 25 Q55 38 45 55 Q35 35 40 25Z" fill="#7a5fc7" opacity="0.7" />
-              <path d="M80 25 Q65 38 75 55 Q85 35 80 25Z" fill="#7a5fc7" opacity="0.7" />
-              <circle cx="60" cy="55" r="3.5" fill="#eab34a" />
-              <circle cx="30" cy="85" r="2.5" fill="#d4a0d4" />
-              <circle cx="90" cy="85" r="2.5" fill="#d4a0d4" />
-              <path d="M20 95 Q28 78 24 62" fill="none" stroke="#8b9e6b" strokeWidth="1.5" />
-              <path d="M100 95 Q92 78 96 62" fill="none" stroke="#8b9e6b" strokeWidth="1.5" />
-              <ellipse cx="20" cy="60" rx="5" ry="9" fill="#8b9e6b" transform="rotate(-15 20 60)" />
-              <ellipse cx="100" cy="60" rx="5" ry="9" fill="#8b9e6b" transform="rotate(15 100 60)" />
-              <circle cx="60" cy="95" r="4" fill="#eab34a" opacity="0.5" />
-              <circle cx="55" cy="91" r="2.5" fill="#d4a0d4" opacity="0.4" />
-              <circle cx="65" cy="91" r="2.5" fill="#d4a0d4" opacity="0.4" />
+            <pattern id="geo-gold" x="0" y="0" width="80" height="92" patternUnits="userSpaceOnUse">
+              {/* Hexagon grid — art deco gold tessellation */}
+              <polygon points="40,2 72,23 72,69 40,90 8,69 8,23" fill="none" stroke="#d4a017" strokeWidth="1.2" />
+              {/* Inner hexagon */}
+              <polygon points="40,16 58,28 58,64 40,76 22,64 22,28" fill="none" stroke="#eab34a" strokeWidth="0.8" />
+              {/* Center diamond accent */}
+              <polygon points="40,34 50,46 40,58 30,46" fill="#d4a017" opacity="0.35" />
+              {/* Corner triangles for tessellation continuity */}
+              <polygon points="0,0 8,23 0,23" fill="none" stroke="#c4922e" strokeWidth="0.6" />
+              <polygon points="80,0 72,23 80,23" fill="none" stroke="#c4922e" strokeWidth="0.6" />
+              <polygon points="0,92 8,69 0,69" fill="none" stroke="#c4922e" strokeWidth="0.6" />
+              <polygon points="80,92 72,69 80,69" fill="none" stroke="#c4922e" strokeWidth="0.6" />
+              {/* Thin art deco radiating lines from center */}
+              <line x1="40" y1="46" x2="40" y2="2" stroke="#eab34a" strokeWidth="0.4" opacity="0.5" />
+              <line x1="40" y1="46" x2="72" y2="23" stroke="#eab34a" strokeWidth="0.4" opacity="0.5" />
+              <line x1="40" y1="46" x2="72" y2="69" stroke="#eab34a" strokeWidth="0.4" opacity="0.5" />
+              <line x1="40" y1="46" x2="40" y2="90" stroke="#eab34a" strokeWidth="0.4" opacity="0.5" />
+              <line x1="40" y1="46" x2="8" y2="69" stroke="#eab34a" strokeWidth="0.4" opacity="0.5" />
+              <line x1="40" y1="46" x2="8" y2="23" stroke="#eab34a" strokeWidth="0.4" opacity="0.5" />
             </pattern>
           </defs>
-          <rect width="100%" height="100%" fill="url(#botanical)" />
+          <rect width="100%" height="100%" fill="url(#geo-gold)" />
         </svg>
 
         <div className="relative flex items-center justify-center py-16 md:py-24">
