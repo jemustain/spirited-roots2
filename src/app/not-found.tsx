@@ -20,7 +20,7 @@ export default function NotFound() {
             It looks like the path you followed leads to a clearing with nothing in it — yet.
             Let&rsquo;s get you back to familiar ground.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <div className="flex flex-col sm:flex-row gap-4 items-center justify-center">
             <Link
               href="/"
               className="btn-lavender inline-block"
@@ -29,7 +29,7 @@ export default function NotFound() {
             </Link>
             <Link
               href="/blog"
-              className="btn-marigold inline-block"
+              className="text-lavender-600 hover:text-lavender-800 font-semibold underline underline-offset-4 transition-colors"
             >
               Browse the Blog
             </Link>
