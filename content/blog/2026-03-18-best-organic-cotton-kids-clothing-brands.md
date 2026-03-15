@@ -14,20 +14,20 @@ seo:
   keywords: "organic cotton kids clothing, eco-friendly children's clothes, sustainable kids fashion, natural kids clothing"
 ---
 
-I'll be honest — I didn't set out to become an organic cotton person. But once Leo started reacting to certain fabrics (red patches on his neck, scratching at tags), I started paying more attention to what he was wearing. A few brands later, I have opinions.
+I'll be honest — I didn't set out to become an organic cotton person. But once my son started reacting to certain fabrics (red patches on his neck, scratching at tags), I started paying more attention to what he was wearing. A few brands later, I have opinions.
 
 Here's what we've actually tried and what held up.
 
 ## Why Bother with Organic Cotton?
 
-Short version: fewer chemicals, softer fabric, and in my experience, it genuinely lasts longer. Conventional cotton is one of the most pesticide-heavy crops out there, and kids' skin is way more sensitive than ours. After seeing the difference on Leo's skin, I was sold.
+Short version: fewer chemicals, softer fabric, and in my experience, it genuinely lasts longer. Conventional cotton is one of the most pesticide-heavy crops out there, and kids' skin is way more sensitive than ours. After seeing the difference on my kid's skin, I was sold.
 
 ## What I've Tried
 
 ### Primary — Best for Everyday Basics
 **Price**: $12-35 per piece
 
-This is where most of Leo's wardrobe comes from. Simple colors, no annoying graphics, and the fabric holds up really well in the wash. His red tee still looks good after months of heavy rotation.
+This is where most of my son's wardrobe comes from. Simple colors, no annoying graphics, and the fabric holds up really well in the wash. His red tee still looks good after months of heavy rotation.
 
 The sizing runs true, which is refreshing. I got tired of guessing with other brands.
 
@@ -36,7 +36,7 @@ The sizing runs true, which is refreshing. I got tired of guessing with other br
 ### Hanna Andersson — Worth It on Sale
 **Price**: $20-60 per piece
 
-The quality is genuinely great. Swedish brand, generous sizing (Leo's still wearing stuff I bought a size up), and the prints are beautiful. But at full price? It's a lot for clothes that'll get covered in mud.
+The quality is genuinely great. Swedish brand, generous sizing (my kid's still wearing stuff I bought a size up), and the prints are beautiful. But at full price? It's a lot for clothes that'll get covered in mud.
 
 I buy Hanna Andersson during sales only. At 40% off, it's a no-brainer. At full price, I hesitate.
 
@@ -50,7 +50,7 @@ Their cotton-bamboo blends are ridiculously soft. The nature-themed prints are c
 ### Little Green Radicals — Tough Stuff
 **Price**: $18-40 per piece
 
-UK brand, so shipping is annoying, but their clothes are built for kids who are hard on things. Leo's shorts from this brand have survived everything. Bright colors that don't fade.
+UK brand, so shipping is annoying, but their clothes are built for kids who are hard on things. My son's shorts from this brand have survived everything. Bright colors that don't fade.
 
 Fair trade production too, if that matters to you (it does to me).
 

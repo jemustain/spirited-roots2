@@ -14,7 +14,7 @@ seo:
   keywords: "non-toxic lunch boxes, stainless steel water bottles, BPA-free containers, eco-friendly kids lunch"
 ---
 
-I have a cabinet full of lunch containers that failed. One leaked on day one. Another was so hard to open that Leo couldn't use it independently. A glass one shattered (obviously, in hindsight).
+I have a cabinet full of lunch containers that failed. One leaked on day one. Another was so hard to open that my toddler couldn't use it independently. A glass one shattered (obviously, in hindsight).
 
 After too much trial and error, here's what actually works for us.
 
@@ -23,7 +23,7 @@ After too much trial and error, here's what actually works for us.
 ### PlanetBox Rover — The One We Use Every Day
 **Price**: $60-70
 
-Yeah, it's expensive. I know. But we've been using this thing for over a year and it still looks almost new. Stainless steel, doesn't stain, doesn't hold smells. The compartments are a good size, and Leo likes being able to see everything at once.
+Yeah, it's expensive. I know. But we've been using this thing for over a year and it still looks almost new. Stainless steel, doesn't stain, doesn't hold smells. The compartments are a good size, and my son likes being able to see everything at once.
 
 The magnetic closure is a nice touch — easy for little hands. Completely leak-proof. Dishwasher safe.
 
@@ -32,21 +32,21 @@ The magnetic closure is a nice touch — easy for little hands. Completely leak-
 ### Bentgo Fresh — Good Budget Option
 **Price**: $25-30
 
-If you don't want to spend $60+ on a lunch box (fair), this is solid. It's plastic, but BPA-free. The portions are perfect for a toddler, and Leo can open it himself.
+If you don't want to spend $60+ on a lunch box (fair), this is solid. It's plastic, but BPA-free. The portions are perfect for a toddler, and my kid can open it himself.
 
 Some staining with tomato-based foods, and it's technically top-rack-dishwasher-only. But for the price, I'm not complaining.
 
 ### LunchBots Cinco — For When They're Older
 **Price**: $45-55
 
-Five compartments, all stainless steel, good build quality. I think this will be great when Leo's a bit bigger and eating more variety. Right now the compartments are almost too many for him.
+Five compartments, all stainless steel, good build quality. I think this will be great when my son's a bit bigger and eating more variety. Right now the compartments are almost too many for him.
 
 ## Water Bottles
 
 ### Klean Kanteen Kid Classic — Best Overall
 **Price**: $20-25
 
-Leo has been using this for a long time now. It's survived being dropped constantly, the sport cap is easy for him to use, and it keeps water cool. Truly leak-proof.
+My kid has been using this for a long time now. It's survived being dropped constantly, the sport cap is easy for him to use, and it keeps water cool. Truly leak-proof.
 
 ### Pura Kiki — Good for Transitioning
 **Price**: $15-20
@@ -58,7 +58,7 @@ Downside: lots of small parts to keep track of.
 ### Simple Modern Kids — Budget Pick
 **Price**: $12-18
 
-Good insulation, fun designs that Leo actually cares about (I don't, but he does). Newer brand so I can't speak to long-term durability yet, but so far so good.
+Good insulation, fun designs that my son actually cares about (I don't, but he does). Newer brand so I can't speak to long-term durability yet, but so far so good.
 
 ## Leak Test Results
 

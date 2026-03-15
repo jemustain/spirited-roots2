@@ -20,7 +20,7 @@ These five things are different. They're the ones I actually reach for, because 
 
 ## 1. Chamomile Tea (The Nightly Ritual)
 
-After Leo is in bed, I make a cup of chamomile tea and sit down for 15 minutes. That's it. That's the self-care. But it works. It's become the signal to my brain that the day is done.
+After my son is in bed, I make a cup of chamomile tea and sit down for 15 minutes. That's it. That's the self-care. But it works. It's become the signal to my brain that the day is done.
 
 **What I buy**: Traditional Medicinals Chamomile — organic, tastes good, widely available.
 
@@ -50,7 +50,7 @@ I was skeptical about this one. But a few spritzes on my pillow before bed, and 
 
 **DIY version**: Distilled water + a few drops of lavender essential oil in a spray bottle. Costs almost nothing.
 
-I use it on Leo's pillow too. Better sleep for both of us = a better day tomorrow.
+I use it on my kid's pillow too. Better sleep for both of us = a better day tomorrow.
 
 ## The Point
 
