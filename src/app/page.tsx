@@ -19,7 +19,7 @@ export default function Home() {
           alt="Violet Mama - Natural family living with mom and child in nature"
           className="h-56 md:h-72"
           overlay={true}
-          overlayColor="nature"
+          overlayColor="warm"
         />
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center text-white px-4 max-w-3xl">
