@@ -5,7 +5,7 @@ interface HeroImageProps {
   alt: string;
   className?: string;
   overlay?: boolean;
-  overlayColor?: 'sage' | 'forest' | 'warm' | 'nature' | 'lavender' | 'purple' | 'violet';
+  overlayColor?: 'sage' | 'forest' | 'warm' | 'nature' | 'lavender' | 'purple' | 'violet' | 'brand';
 }
 
 export default function HeroImage({ 
@@ -22,7 +22,8 @@ export default function HeroImage({
     nature: 'bg-gradient-to-b from-black/50 via-black/30 to-black/50',
     lavender: 'bg-gradient-to-b from-black/50 via-lavender-800/40 to-black/50',
     purple: 'bg-gradient-to-b from-black/50 via-plum-800/40 to-black/50',
-    violet: 'bg-gradient-to-b from-black/50 via-lavender-800/40 to-black/50'
+    violet: 'bg-gradient-to-b from-black/50 via-lavender-800/40 to-black/50',
+    brand: 'bg-gradient-to-b from-[#9574bb]/60 via-[#bd9dea]/40 to-[#f2c76e]/50'
   };
 
   if (!src) {
