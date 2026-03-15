@@ -29,7 +29,7 @@ export default function NotFound() {
             </Link>
             <Link
               href="/blog"
-              className="btn-marigold inline-block"
+              className="text-lavender-600 hover:text-lavender-800 font-semibold underline underline-offset-4 transition-colors"
             >
               Browse the Blog
             </Link>

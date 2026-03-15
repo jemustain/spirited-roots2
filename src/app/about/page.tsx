@@ -21,7 +21,7 @@ export default function AboutPage() {
           alt="Violet with her son exploring nature - homeschool mom and natural living advocate"
           className="h-80 md:h-96"
           overlay={true}
-          overlayColor="forest"
+          overlayColor="brand"
         />
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center text-white px-4 max-w-3xl">

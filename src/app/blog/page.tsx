@@ -24,7 +24,7 @@ export default function BlogPage() {
           alt="Natural living blog posts about homeschooling and eco-friendly family life"
           className="h-64 md:h-80"
           overlay={true}
-          overlayColor="violet"
+          overlayColor="brand"
         />
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center text-white px-4 max-w-3xl">

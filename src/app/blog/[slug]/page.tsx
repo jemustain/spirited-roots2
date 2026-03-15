@@ -193,20 +193,12 @@ export default async function BlogPost({ params }: Props) {
 
           {/* Call to Action */}
           <div className="mt-12 text-center p-8 section-bg rounded-lg">
-            <h3 className="text-2xl font-bold text-primary-responsive mb-4">
-              Join the Violet Mama Community
-            </h3>
-            <p className="text-secondary-responsive mb-6 max-w-2xl mx-auto">
-              Get weekly tips, product reviews, and nature-inspired recipes delivered to your inbox.
+            <p className="text-secondary-responsive mb-4">
+              Thanks for reading!
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <button className="btn-lavender">
-                Subscribe to Newsletter
-              </button>
-              <Link href="/blog" className="btn-marigold">
-                Read More Posts
-              </Link>
-            </div>
+            <Link href="/blog" className="text-lavender-600 hover:text-lavender-800 font-semibold underline underline-offset-4 transition-colors text-lg">
+              ← Read More Posts
+            </Link>
           </div>
         </div>
       </article>

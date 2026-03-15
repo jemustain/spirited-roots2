@@ -16,10 +16,10 @@ export default function Home() {
       <section className="relative">
         <HeroImage 
           src="/images/heroes/homepage-hero.jpg"
-          alt="Violet Mama - Natural family living with mom and child in nature"
+          alt="Close-up of prickly pear cactus pads with red fruit in warm desert light"
           className="h-56 md:h-72"
           overlay={true}
-          overlayColor="nature"
+          overlayColor="brand"
         />
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center text-white px-4 max-w-3xl">
