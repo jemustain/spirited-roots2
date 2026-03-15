@@ -23,9 +23,11 @@ const today = new Date().toISOString().split('T')[0];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>${SITE_URL}/</loc><lastmod>${today}</lastmod><priority>1.0</priority></url>
-  <url><loc>${SITE_URL}/blog</loc><lastmod>${today}</lastmod><priority>0.8</priority></url>
-  <url><loc>${SITE_URL}/about</loc><lastmod>${today}</lastmod><priority>0.7</priority></url>
-${posts.map(p => `  <url><loc>${SITE_URL}/blog/${p.slug}</loc><lastmod>${p.date}</lastmod><priority>0.6</priority></url>`).join('\n')}
+  <url><loc>${SITE_URL}/blog/</loc><lastmod>${today}</lastmod><priority>0.8</priority></url>
+  <url><loc>${SITE_URL}/about/</loc><lastmod>${today}</lastmod><priority>0.7</priority></url>
+  <url><loc>${SITE_URL}/privacy/</loc><lastmod>${today}</lastmod><priority>0.3</priority></url>
+  <url><loc>${SITE_URL}/disclosure/</loc><lastmod>${today}</lastmod><priority>0.3</priority></url>
+${posts.map(p => `  <url><loc>${SITE_URL}/blog/${p.slug}/</loc><lastmod>${p.date}</lastmod><priority>0.6</priority></url>`).join('\n')}
 </urlset>`;
 
 // Generate feed.xml (RSS 2.0)
@@ -40,8 +42,8 @@ const feed = `<?xml version="1.0" encoding="UTF-8"?>
     <atom:link href="${SITE_URL}/feed.xml" rel="self" type="application/rss+xml"/>
 ${posts.map(p => `    <item>
       <title>${escXml(p.title)}</title>
-      <link>${SITE_URL}/blog/${p.slug}</link>
-      <guid>${SITE_URL}/blog/${p.slug}</guid>
+      <link>${SITE_URL}/blog/${p.slug}/</link>
+      <guid>${SITE_URL}/blog/${p.slug}/</guid>
       <pubDate>${new Date(p.date + 'T12:00:00Z').toUTCString()}</pubDate>
       <description>${escXml(p.excerpt || '')}</description>
     </item>`).join('\n')}

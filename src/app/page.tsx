@@ -5,6 +5,17 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import HeroImage from '@/components/HeroImage';
 
+export const metadata = {
+  title: 'Violet Mama - Natural Living & Mindful Motherhood',
+  description: 'Natural mom. Honest reviews. No fluff. Homeschooling, natural living & the products that actually hold up.',
+  openGraph: {
+    title: 'Violet Mama - Natural Living & Mindful Motherhood',
+    description: 'Natural mom. Honest reviews. No fluff. Homeschooling, natural living & the products that actually hold up.',
+    url: 'https://www.violetmama.com/',
+    images: [{ url: '/images/heroes/homepage-hero.jpg', width: 1200, height: 630, alt: 'Violet Mama' }],
+  },
+};
+
 export default function Home() {
   const featuredPosts = getFeaturedPosts();
 

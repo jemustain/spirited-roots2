@@ -4,9 +4,15 @@ import Footer from '@/components/Footer';
 import HeroImage from '@/components/HeroImage';
 
 export const metadata = {
-  title: 'About Violet - Violet Mama',
+  title: 'About Violet',
   description: 'Meet Violet, a mom, software engineer, and nature enthusiast sharing natural living tips and mindful motherhood wisdom for families.',
   keywords: 'about Violet, natural living mama, family wellness, nature-based parenting, mindful motherhood',
+  openGraph: {
+    title: 'About Violet - Violet Mama',
+    description: 'Meet Violet, a mom, software engineer, and nature enthusiast sharing natural living tips and mindful motherhood wisdom for families.',
+    url: 'https://www.violetmama.com/about/',
+    images: [{ url: '/images/heroes/about-hero.jpg', width: 1200, height: 630, alt: 'About Violet Mama' }],
+  },
 };
 
 export default function AboutPage() {

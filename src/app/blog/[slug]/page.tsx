@@ -33,10 +33,29 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     };
   }
 
+  const ogImage = post.heroImage && post.heroImage !== 'placeholder'
+    ? post.heroImage
+    : '/images/heroes/homepage-hero.jpg';
+
   return {
     title: post.seo.title,
     description: post.seo.description,
     keywords: post.seo.keywords,
+    openGraph: {
+      type: 'article',
+      title: post.seo.title,
+      description: post.seo.description,
+      url: `https://www.violetmama.com/blog/${slug}/`,
+      publishedTime: post.date + 'T12:00:00Z',
+      authors: [post.author],
+      images: [{ url: ogImage, width: 1200, height: 630, alt: post.title }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: post.seo.title,
+      description: post.seo.description,
+      images: [ogImage],
+    },
   };
 }
 
