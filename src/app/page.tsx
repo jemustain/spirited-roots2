@@ -17,34 +17,37 @@ export default function Home() {
         <HeroImage 
           src="/images/heroes/homepage-hero.jpg"
           alt="Violet Mama - Natural family living with mom and child in nature"
-          className="h-96 md:h-[500px]"
+          className="h-56 md:h-72"
           overlay={true}
           overlayColor="nature"
         />
         <div className="absolute inset-0 flex items-center justify-center">
-          <div className="text-center text-white px-4 max-w-4xl">
-            <h1 className="text-4xl md:text-6xl font-bold mb-6 hero-text-shadow">
-              Welcome to Violet Mama
+          <div className="text-center text-white px-4 max-w-3xl">
+            <h1 className="text-2xl md:text-4xl font-bold mb-2 hero-text-shadow">
+              Natural mom. Honest reviews. No fluff.
             </h1>
-            <p className="text-xl md:text-2xl mb-8 hero-text-shadow max-w-2xl mx-auto leading-relaxed">
-              Natural living, mindful motherhood, and authentic product reviews 
-              for families who want to thrive naturally
+            <p className="text-base md:text-lg hero-text-shadow max-w-xl mx-auto leading-relaxed opacity-90">
+              Homeschooling, natural living &amp; the products that actually hold up.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/blog" className="btn-lavender text-lg px-8 py-3">
-                Explore Our Stories
-              </Link>
-              <Link href="/about" className="btn-marigold text-lg px-8 py-3">
-                Meet Violet
-              </Link>
-            </div>
           </div>
         </div>
       </section>
 
       {/* Main Content */}
-      <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
         
+        {/* Quick About */}
+        <div className="text-center mb-10 max-w-2xl mx-auto">
+          <p className="text-secondary-responsive text-base md:text-lg leading-relaxed">
+            Hi, I&apos;m Violet — a natural-leaning, homeschooling mom who also happens to write code. 
+            I test products so you don&apos;t waste money, share recipes my toddler actually eats, 
+            and document the beautiful chaos of raising a kid outside the system.
+          </p>
+          <Link href="/about" className="text-lavender-600 hover:text-lavender-800 font-semibold text-sm mt-3 inline-block transition-colors">
+            More about me →
+          </Link>
+        </div>
+
         {/* Category Cards */}
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
           <Link href="/blog" className="group relative rounded-2xl overflow-hidden shadow-lg h-64 block">

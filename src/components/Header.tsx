@@ -16,16 +16,16 @@ export default function Header() {
   };
 
   return (
-    <header className="nature-gradient text-white py-6 shadow-lg">
+    <header className="nature-gradient text-white py-3 shadow-lg">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center mb-4">
+        <div className="flex justify-between items-center">
           <Link href="/" className="flex items-center hover:opacity-80 transition-opacity" onClick={closeMenu}>
             {/* Violet Mama Logo - now includes full text */}
             <Image
               src="/images/violet-mama-logo.png"
               alt="Violet Mama Logo"
-              width={200}
-              height={80}
+              width={160}
+              height={64}
               className="object-contain"
             />
           </Link>
