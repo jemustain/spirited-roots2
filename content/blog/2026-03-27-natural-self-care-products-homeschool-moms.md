@@ -4,7 +4,7 @@ slug: "2026-03-27-natural-self-care-products-homeschool-moms"
 date: "2026-03-27"
 excerpt: "Realistic self-care for moms who have maybe 10 minutes. These are the natural products that actually made it into my routine instead of collecting dust under the sink."
 author: "Violet"
-tags: ["self-care", "natural products", "homeschool moms", "wellness"]
+tags: ["product reviews", "self-care"]
 featured: false
 heroImage: "/images/blog/2026-03-27-natural-self-care-products-homeschool-moms/natural-self-care-hero.jpg"
 heroImageAlt: "Natural skincare and wellness products"

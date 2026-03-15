@@ -4,7 +4,7 @@ slug: "2026-04-02-homemade-store-bought-favorites-kids-prefer"
 date: "2026-04-02"
 excerpt: "I started making homemade versions of Leo's favorite snacks mostly to save money. Turns out he actually prefers some of them. Here are the recipes that stuck."
 author: "Violet"
-tags: ["homemade snacks", "healthy alternatives", "DIY food", "kid-friendly recipes", "budget cooking"]
+tags: ["recipes", "kids"]
 featured: false
 heroImage: "/images/blog/2026-04-02-homemade-store-bought-favorites-kids-prefer/homemade-snacks-hero.jpg"
 heroImageAlt: "Homemade snacks on a wooden surface"
