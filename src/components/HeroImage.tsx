@@ -23,7 +23,7 @@ export default function HeroImage({
     lavender: 'bg-gradient-to-b from-black/50 via-lavender-800/40 to-black/50',
     purple: 'bg-gradient-to-b from-black/50 via-plum-800/40 to-black/50',
     violet: 'bg-gradient-to-b from-black/50 via-lavender-800/40 to-black/50',
-    brand: 'bg-gradient-to-b from-[#9574bb]/60 via-[#bd9dea]/40 to-[#f2c76e]/50'
+    brand: 'bg-gradient-to-b from-[#9574bb]/65 via-[#bd9dea]/45 to-[#f2c76e]/50'
   };
 
   if (!src) {
