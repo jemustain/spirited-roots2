@@ -5,9 +5,15 @@ import HeroImage from '@/components/HeroImage';
 import BlogPageClient from '@/components/BlogPageClient';
 
 export const metadata = {
-  title: 'Blog - Violet Mama',
+  title: 'Blog',
   description: 'Read Violet\'s latest posts on natural living, mindful motherhood, eco-friendly products, and family wellness tips.',
   keywords: 'natural living blog, mindful motherhood, eco-friendly family, parenting tips, healthy lifestyle',
+  openGraph: {
+    title: 'Blog - Violet Mama',
+    description: 'Read Violet\'s latest posts on natural living, mindful motherhood, eco-friendly products, and family wellness tips.',
+    url: 'https://www.violetmama.com/blog/',
+    images: [{ url: '/images/heroes/blog-hero.jpg', width: 1200, height: 630, alt: 'Violet Mama Blog' }],
+  },
 };
 
 export default function BlogPage() {
