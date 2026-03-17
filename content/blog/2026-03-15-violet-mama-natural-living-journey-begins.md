@@ -37,9 +37,6 @@ I'm not a doctor, nutritionist, or influencer. Just a mom who got tired of buyin
 **Recipes that are realistic.** Quick, kid-approved, no obscure ingredients. The kind of food you can make during a homeschool day without losing your mind.
 
 **Homeschool and nature stuff.** We're a nature-first family. I'll share how we weave outdoor time into learning, screen-free activity ideas, and what's worked for building resilience in a kid who'd rather climb a tree than sit at a desk. Same, honestly.
-
-You'll see affiliate links on some posts — they help keep this site running at no extra cost to you. I only link to things I've actually bought and used.
-
 ---
 
 ## A Little About Us
