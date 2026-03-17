@@ -13,7 +13,6 @@ seo:
   description: "Quick and easy no-bake energy balls recipe perfect for busy families. Naturally sweetened, nutritious, and kid-approved snacks ready in 15 minutes."
   keywords: "healthy afternoon snacks, no-bake energy balls, kid-friendly recipes, natural snacks"
 ---
-
 It's 3 PM. We've been doing school all morning, lunch was a while ago, and dinner isn't happening for another two hours. This is the danger zone — the part of the day where I used to grab whatever packaged snack was closest and call it good.
 
 Now we have energy balls in the fridge, and honestly they've changed our afternoons. My toddler thinks they're cookies. I'm not correcting him.
@@ -23,19 +22,19 @@ Now we have energy balls in the fridge, and honestly they've changed our afterno
 This is flexible — swap things based on what you have.
 
 ### Ingredients
-- 1 cup [rolled oats](https://amzn.to/4mRy7bP) (Bob's Red Mill is reliable)
-- 1/2 cup nut or seed butter ([almond butter](https://amzn.to/45PXtke) is our go-to — Justin's brand doesn't need stirring)
-- 1/3 cup [honey](https://amzn.to/4psWONx) or maple syrup (I like Nature Nate's raw honey)
-- 1/3 cup [mini dark chocolate chips](https://amzn.to/4mQaJey) (Enjoy Life brand is allergy-friendly)
-- 1/3 cup [ground flaxseed](https://amzn.to/3V0zrwG) or chia seeds
-- 1 tsp [vanilla extract](https://amzn.to/481fTzN)
+- 1 cup [rolled oats](https://www.amazon.com/s?k=rolled+oats&tag=violetmama-20) (Bob's Red Mill is reliable)
+- 1/2 cup nut or seed butter ([almond butter](https://www.amazon.com/s?k=almond+butter&tag=violetmama-20) is our go-to — Justin's brand doesn't need stirring)
+- 1/3 cup [honey](https://www.amazon.com/s?k=honey&tag=violetmama-20) or maple syrup (I like Nature Nate's raw honey)
+- 1/3 cup [mini dark chocolate chips](https://www.amazon.com/s?k=mini+dark+chocolate+chips&tag=violetmama-20) (Enjoy Life brand is allergy-friendly)
+- 1/3 cup [ground flaxseed](https://www.amazon.com/s?k=ground+flaxseed&tag=violetmama-20) or chia seeds
+- 1 tsp [vanilla extract](https://www.amazon.com/s?k=vanilla+extract&tag=violetmama-20)
 - Pinch of salt
 
 ### Directions
 1. Mix everything in a bowl
 2. Refrigerate 30 minutes (makes them way easier to roll)
-3. Roll into 1-inch balls — a [cookie scoop](https://amzn.to/3K8be5a) helps if you want them uniform
-4. Store in the fridge in an [airtight container](https://amzn.to/464RAyo). They last about a week.
+3. Roll into 1-inch balls — a [cookie scoop](https://www.amazon.com/s?k=cookie+scoop&tag=violetmama-20) helps if you want them uniform
+4. Store in the fridge in an [airtight container](https://www.amazon.com/s?k=airtight+container&tag=violetmama-20). They last about a week.
 
 That's it. Fifteen minutes of work for a week of snacks.
 
@@ -62,16 +61,16 @@ I make a double batch on Sundays. They cover us for:
 - My own late-night snacking (no judgment)
 
 ### Ingredients I Keep Stocked
-- [Bob's Red Mill Rolled Oats](https://amzn.to/4mRy7bP)
-- [Enjoy Life Mini Chocolate Chips](https://amzn.to/4mQaJey)
-- [Justin's Almond Butter](https://amzn.to/45PXtke)
-- [Nature Nate's Raw Honey](https://amzn.to/4psWONx)
-- [Spectrum Ground Flaxseed](https://amzn.to/3V0zrwG)
-- [Simply Organic Vanilla Extract](https://amzn.to/481fTzN)
+- [Bob's Red Mill Rolled Oats](https://www.amazon.com/s?k=rolled+oats&tag=violetmama-20)
+- [Enjoy Life Mini Chocolate Chips](https://www.amazon.com/s?k=mini+dark+chocolate+chips&tag=violetmama-20)
+- [Justin's Almond Butter](https://www.amazon.com/s?k=almond+butter&tag=violetmama-20)
+- [Nature Nate's Raw Honey](https://www.amazon.com/s?k=honey&tag=violetmama-20)
+- [Spectrum Ground Flaxseed](https://www.amazon.com/s?k=ground+flaxseed&tag=violetmama-20)
+- [Simply Organic Vanilla Extract](https://www.amazon.com/s?k=vanilla+extract&tag=violetmama-20)
 
 ### Helpful Tools
-- [Pyrex Glass Containers](https://amzn.to/464RAyo) for storage
-- [OXO Cookie Scoop](https://amzn.to/3K8be5a) for uniform balls
+- [Pyrex Glass Containers](https://www.amazon.com/s?k=airtight+container&tag=violetmama-20) for storage
+- [OXO Cookie Scoop](https://www.amazon.com/s?k=cookie+scoop&tag=violetmama-20) for uniform balls
 
 ## Real Talk
 

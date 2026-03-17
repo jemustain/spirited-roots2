@@ -13,7 +13,6 @@ seo:
   description: "Honest reviews of top organic cotton children's clothing brands. Durability tests, sizing guides, and price comparisons for busy families."
   keywords: "organic cotton kids clothing, eco-friendly children's clothes, sustainable kids fashion, natural kids clothing"
 ---
-
 I'll be honest — I didn't set out to become an organic cotton person. But once my son started reacting to certain fabrics (red patches on his neck, scratching at tags), I started paying more attention to what he was wearing. A few brands later, I have opinions.
 
 Here's what we've actually tried and what held up.
@@ -33,7 +32,7 @@ The sizing runs true, which is refreshing. I got tired of guessing with other br
 
 **The catch**: They only do basics. If you want cute prints or seasonal stuff, look elsewhere.
 
-### Hanna Andersson — Worth It on Sale
+### [Hanna Andersson](https://www.amazon.com/stores/HannaAndersson/page/B39B1AF1-9E70-4AD1-8F87-6A0769E3B6D5?tag=violetmama-20) — Worth It on Sale
 **Price**: $20-60 per piece
 
 The quality is genuinely great. Swedish brand, generous sizing (my kid's still wearing stuff I bought a size up), and the prints are beautiful. But at full price? It's a lot for clothes that'll get covered in mud.

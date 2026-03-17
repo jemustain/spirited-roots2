@@ -13,7 +13,6 @@ seo:
   description: "Easy recipes for homemade versions of popular kids' snacks that taste better than store-bought and cost less. Includes cost comparisons and storage tips."
   keywords: "homemade snacks, healthy alternatives, DIY food, natural snacks for kids, budget-friendly recipes"
 ---
-
 This started as a money-saving experiment and turned into a thing. I made homemade cheddar crackers one weekend, and when I offered my son store-bought goldfish the next week, he asked for "the ones we made." I was genuinely surprised.
 
 Not everything worked. Some homemade versions were mediocre or too much effort. But these five recipes have become permanent fixtures in our kitchen. My kid consistently picks them over the packaged originals.
@@ -29,7 +28,7 @@ Not everything worked. Some homemade versions were mediocre or too much effort. 
 - 1/2 tsp salt
 - 2-3 tbsp cold water
 
-Pulse everything in a food processor, roll thin, cut into squares, bake at 350°F for 12-15 minutes.
+Pulse everything in a [food processor](https://www.amazon.com/s?k=food+processor&tag=violetmama-20), roll thin, cut into squares, bake at 350°F for 12-15 minutes.
 
 The secret is using sharp cheddar. It's noticeably cheesier than goldfish, which is why my son prefers them. They keep for about a week in an airtight container.
 
@@ -38,10 +37,10 @@ The secret is using sharp cheddar. It's noticeably cheesier than goldfish, which
 
 - 1 cup berries (fresh or frozen)
 - 2 tbsp honey
-- 3 tbsp unflavored gelatin
+- 3 tbsp [unflavored gelatin](https://www.amazon.com/s?k=unflavored+gelatin&tag=violetmama-20)
 - 1/4 cup water
 
-Puree the berries with honey. Bloom the gelatin in cold water, then heat the berry mixture and whisk in the gelatin. Pour into silicone molds, refrigerate 2 hours.
+Puree the berries with honey. Bloom the gelatin in cold water, then heat the berry mixture and whisk in the gelatin. Pour into [silicone molds](https://www.amazon.com/s?k=silicone+molds&tag=violetmama-20), refrigerate 2 hours.
 
 My toddler calls the blueberry ones "the purple ones" and asks for them constantly. No high fructose corn syrup, no artificial colors. They need to stay refrigerated — about a week shelf life.
 
@@ -73,7 +72,7 @@ These are basically impossible to mess up. My son asks for them before playgroun
 
 Standard cookie dough process — cream butter and sugar, add egg and vanilla, mix in dry ingredients. Roll thin, cut with cookie cutters, bake at 350°F for 10-12 minutes.
 
-The appeal here is partly that my kid helps make them. He's really into the cookie cutter part. They keep for about two weeks.
+The appeal here is partly that my kid helps make them. He's really into the [cookie cutter](https://www.amazon.com/s?k=cookie+cutter&tag=violetmama-20) part. They keep for about two weeks.
 
 ### Soft Pretzels
 **Savings**: About 81%
