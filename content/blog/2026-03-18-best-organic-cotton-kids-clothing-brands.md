@@ -85,6 +85,18 @@ Cold water, gentle cycle, air dry when you can. That's it. These clothes last wa
 
 Turn everything inside out before washing. It helps with color retention.
 
+## Quick Links
+
+Here are direct links to some of our favorites:
+
+- [Primary Kids Organic Tees](https://www.amazon.com/dp/B0BFWK2JLQ?tag=violetmama-20) — our everyday go-to
+- [Hanna Andersson Organic Pajamas](https://www.amazon.com/dp/B09JY1KJVZ?tag=violetmama-20) — the softest PJs we own
+- [Kate Quinn Bamboo Bodysuit](https://www.amazon.com/dp/B08GC4PXN8?tag=violetmama-20) — incredibly soft for babies/toddlers
+
 ## Bottom Line
 
 You don't need to go full organic wardrobe overnight. But if your kid has sensitive skin, or you just want stuff that lasts, any of these brands are solid picks. I'd start with Primary for everyday stuff and add Hanna Andersson pieces when they go on sale.
+
+---
+
+*Some links in this post are affiliate links — if you buy through them, I earn a small commission at no extra cost to you. I only recommend things we actually use.*

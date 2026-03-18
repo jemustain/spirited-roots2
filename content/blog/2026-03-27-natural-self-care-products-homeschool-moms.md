@@ -22,7 +22,7 @@ These five things are different. They're the ones I actually reach for, because 
 
 After my son is in bed, I make a cup of chamomile tea and sit down for 15 minutes. That's it. That's the self-care. But it works. It's become the signal to my brain that the day is done.
 
-**What I buy**: Traditional Medicinals Chamomile — organic, tastes good, widely available.
+**What I buy**: [Traditional Medicinals Chamomile](https://www.amazon.com/dp/B0009F3POO?tag=violetmama-20) — organic, tastes good, widely available.
 
 **Tip**: I keep a thermos on my nightstand for middle-of-the-night wake-ups. Warm tea beats scrolling my phone at 2 AM.
 
@@ -34,13 +34,13 @@ I look for cold-pressed, minimal ingredients, glass bottle. Nothing fancy. It ab
 
 ## 3. Epsom Salt Bath (When I Can Get One)
 
-Let's be real — most nights it's a quick shower. But when I get 20 minutes for an actual bath, Dr. Teal's Eucalyptus Epsom Salt makes it count. The eucalyptus is really clearing, especially after a long day.
+Let's be real — most nights it's a quick shower. But when I get 20 minutes for an actual bath, [Dr. Teal's Eucalyptus Epsom Salt](https://www.amazon.com/dp/B00WIIF3QY?tag=violetmama-20) makes it count. The eucalyptus is really clearing, especially after a long day.
 
 **Backup plan**: Dump a scoop in a foot soak while you're sitting at the table doing literally anything else. Self-care and productivity at the same time.
 
 ## 4. Lip Balm with SPF
 
-We spend a lot of time outside — nature walks, backyard school, playground trips. My lips were constantly chapped until I found Badger Classic Unscented SPF 15.
+We spend a lot of time outside — nature walks, backyard school, playground trips. My lips were constantly chapped until I found [Badger Classic Unscented SPF 15](https://www.amazon.com/dp/B003JILAFA?tag=violetmama-20).
 
 No weird taste, actually lasts, and the whole family can use it. I keep one in my purse, one in the car, one by my desk. If it's not within arm's reach, I won't use it.
 
@@ -57,3 +57,7 @@ I use it on my kid's pillow too. Better sleep for both of us = a better day tomo
 Self-care doesn't have to be a whole production. Most of these take under a minute. The trick is picking stuff that fits into what you're already doing, not adding another task to the list.
 
 You're not going to meditate for 30 minutes. (I'm not going to meditate for 30 minutes.) But you can drink tea and put on face oil. Start there.
+
+---
+
+*Some links in this post are affiliate links — if you buy through them, I earn a small commission at no extra cost to you. I only recommend things we actually use.*
