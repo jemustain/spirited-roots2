@@ -7,7 +7,7 @@ author: "Violet"
 tags: ["natural living", "lifestyle"]
 featured: false
 heroImage: "/images/blog/2026-05-05-natural-living-real-budget/natural-budget-hero.jpg"
-heroImageAlt: "Grocery haul with a mix of organic and conventional products on a kitchen counter"
+heroImageAlt: "Grocery haul with organic products on a kitchen counter"
 seo:
   title: "Natural Living on a Real Budget — What I Actually Spend Monthly"
   description: "Honest monthly spending breakdown on natural and organic products. What's worth it, what's not, and how to live naturally without going broke."
@@ -15,7 +15,7 @@ seo:
 ---
 ---
 
-There's a version of "natural living" on the internet that involves $40 shampoo, a weekly Whole Foods haul that costs more than my car payment, and a pantry that looks like it belongs in a magazine. That's not my life.
+There's a version of "natural living" on the internet that involves $40 shampoo, a weekly Whole Foods haul that costs more than rent, and a pantry that looks like it belongs in a magazine. That's not my life.
 
 I'm a mom with a normal budget. We homeschool, we split time between Arizona and Washington, and we try to make choices that are better for our family without pretending money isn't real. So here's what I actually spend — category by category — and where I've learned to stop feeling guilty about buying the regular version.
 
@@ -25,16 +25,16 @@ This is our biggest category, and it's where I'm the most strategic.
 
 **Where I splurge:**
 - **Organic milk and dairy.** This is my non-negotiable. My kid drinks a lot of milk, and the conventional dairy industry is… a lot. Store brand organic milk from Fry's (Kroger) is $5.99/gallon versus $8+ for Horizon. Same USDA organic certification, different label.
-- **Organic berries and the Dirty Dozen.** I follow the [EWG Dirty Dozen list](https://www.ewg.org/foodnews/dirty-dozen.php) loosely. Strawberries, apples, spinach — those I buy organic. Avocados, onions, corn? Conventional is fine.
+- **Organic fruit — all of it.** This is where we chose to put our money. Berries, apples, bananas — we buy organic across the board. It's a real line item, but it's the hill I'll die on.
 - **Eggs.** Pasture-raised, usually [Vital Farms](https://www.amazon.com/s?k=vital+farms+eggs&tag=violetmama-20). Yes, they're $7+ a dozen. I've accepted this about myself.
 
 **Where I save:**
-- Conventional bananas, sweet potatoes, and anything with a thick peel
+- When we're in Washington, we buy eggs from a neighbor — fresher and cheaper than the store
 - Frozen organic vegetables from Costco — way cheaper than fresh organic, same nutrition
 - Store brand everything when organic is available (Kirkland Organic, Kroger Simple Truth)
 - Buying in bulk: rice, oats, beans, flour. Nothing fancy.
 
-Honestly, if I bought everything organic, our grocery bill would be closer to $900-1,000. I'm not doing that. The Dirty Dozen strategy saves us roughly $200/month while still avoiding the pesticides I care most about.
+Honestly, going fully organic on everything would push our grocery bill way higher. We pick our battles — all organic fruit, organic dairy, and then save where it matters less. It's about knowing where your money makes the biggest difference for your family.
 
 ## Cleaning Products: ~$25/month
 
