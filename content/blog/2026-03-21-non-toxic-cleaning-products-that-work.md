@@ -20,7 +20,7 @@ But I kept trying, because having a toddler who licks every surface (why do they
 
 ## The Products I Actually Use
 
-### Branch Basics Concentrate
+### [Branch Basics Concentrate](https://www.amazon.com/dp/B07PFT4LMZ?tag=violetmama-20)
 **Cost**: ~$35 for starter kit, makes a ridiculous amount of cleaner
 
 This is my ride-or-die. One bottle of concentrate makes everything — all-purpose spray, glass cleaner, even laundry detergent. It handles sticky fingerprints, food splatter, and general kitchen grossness without any issues.
@@ -29,35 +29,35 @@ The only thing it struggles with is really heavy grease. For that I bring in the
 
 **Verdict**: 9/10. Worth every penny.
 
-### Dr. Bronner's Sal Suds
+### [Dr. Bronner's Sal Suds](https://www.amazon.com/dp/B00016QO2U?tag=violetmama-20)
 **Cost**: ~$15, lasts forever
 
 This is what I use for deep cleaning — kitchen grease, bathroom scrubbing, anything that needs more muscle. A tiny amount goes a long way. I made the mistake of using too much once and spent 20 minutes rinsing suds off everything.
 
 **Verdict**: 9/10. Use sparingly.
 
-### Bon Ami Powder Cleanser
+### [Bon Ami Powder Cleanser](https://www.amazon.com/dp/B000NKXEJ0?tag=violetmama-20)
 **Cost**: ~$2.50
 
 Old school and effective. Great for sinks, cookware, and stubborn stains. Doesn't scratch surfaces. This has been around forever for a reason.
 
 **Verdict**: 9/10. Cheap and works great.
 
-### ECOS Dish Soap
+### [ECOS Dish Soap](https://www.amazon.com/dp/B001FA1NUW?tag=violetmama-20)
 **Cost**: ~$3
 
 Cuts grease well enough for daily dishes. Gentle on hands. I don't worry about residue on my toddler's cups, which is the whole point.
 
 **Verdict**: 8/10. Solid daily dish soap.
 
-### Better Life Tub & Tile Cleaner
+### [Better Life Tub & Tile Cleaner](https://www.amazon.com/dp/B00EOS4CWS?tag=violetmama-20)
 **Cost**: ~$4.50
 
 The only natural bathroom cleaner I've found that actually removes soap scum without requiring you to scrub like you're training for something. No harsh fumes, which is great because our bathroom has zero ventilation.
 
 **Verdict**: 8/10.
 
-### Seventh Generation Toilet Bowl Cleaner
+### [Seventh Generation Toilet Bowl Cleaner](https://www.amazon.com/dp/B001FA1MUA?tag=violetmama-20)
 **Cost**: ~$3.50
 
 It works. Not amazing, requires a bit more scrubbing than the chemical stuff, but it does the job.
@@ -115,3 +115,7 @@ So it's actually cheaper. I was surprised too.
 Don't throw everything out at once. Just replace things as they run out. Start with an all-purpose cleaner (Branch Basics) since that covers 80% of your cleaning anyway. Then swap out bathroom and kitchen stuff gradually.
 
 The whole transition took me about two months. Not dramatic, not expensive, and honestly? Our house smells better now.
+
+---
+
+*Some links in this post are affiliate links — if you buy through them, I earn a small commission at no extra cost to you. I only recommend things we actually use.*
