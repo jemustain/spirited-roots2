@@ -34,7 +34,7 @@ Violet Mama is a niche affiliate marketing review website built with Next.js, de
 ## Personal Identity & Backstory ✅ COMPLETED
 **Who You Are:**
 - Dedicated mom to a lively 3-year-old son
-- Wife to a wonderful husband (after a journey through single motherhood)
+- Wife to a wonderful husband
 - Software engineer with passion for family and nature
 - Homeschooling advocate focused on outdoor exploration and natural living
 - Home aesthetic: lavender and purple tones, natural fabrics, cozy family spaces
@@ -43,7 +43,7 @@ Violet Mama is a niche affiliate marketing review website built with Next.js, de
 - Always drawn to nature's rhythm, finding joy in simple, grounded living
 - Path to motherhood included pregnancy loss at 5 months when partner passed away
 - Experienced three miscarriages that taught resilience and appreciation for each moment
-- Raised son as single mom initially, now married to supportive husband
+- Now married to supportive husband
 - Adopted homeschooling to immerse son in the world around him
 - Tech background provides unique edge in using tools like AI and automation
 - Inspired by Taoist farmer philosophy of seeing opportunity in every situation
