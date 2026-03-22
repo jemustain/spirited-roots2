@@ -164,7 +164,7 @@ export default async function BlogPost({ params }: Props) {
           {post.featured && (
             <div className="text-center mb-8">
               <span className="inline-block bg-marigold-500 text-white px-4 py-2 text-sm font-semibold rounded-full">
-                ✨ Featured Post
+                Featured Post
               </span>
             </div>
           )}
@@ -190,7 +190,9 @@ export default async function BlogPost({ params }: Props) {
           {/* Author Bio */}
           <div className="mt-12 p-6 section-bg rounded-lg border-l-4 border-marigold-500">
             <div className="flex items-start">
-              <div className="text-4xl mr-4">🌿</div>
+              <div className="w-12 h-12 mr-4 flex-shrink-0">
+                <img src="/images/violet-portrait.jpg" alt="Violet" className="w-12 h-12 rounded-full object-cover" />
+              </div>
               <div>
                 <h3 className="text-xl font-semibold text-primary-responsive mb-2">
                   About {post.author}

@@ -136,7 +136,7 @@ export default function BlogPageClient({ posts }: { posts: Post[] }) {
                 <div className="p-6">
                   {post.featured && (
                     <span className="inline-block bg-marigold-500 text-white px-2 py-1 text-xs font-semibold rounded-full mb-3">
-                      ✨ Featured
+                      Featured
                     </span>
                   )}
                   <h2 className="text-lg font-bold text-primary-responsive mb-2 hover:text-sage-700 transition-colors line-clamp-2">
