@@ -16,6 +16,8 @@ seo:
 
 Hey. I'm Violet — a software engineer, homeschool mom, and the kind of person who reads ingredient labels at the grocery store while my toddler tries to escape the cart.
 
+![Violet](/images/violet-portrait.jpg)
+
 I started this blog because I kept telling friends the same stuff over and over: which organic kids' clothes actually survived my son, which "natural" cleaners were basically expensive water, and which snack recipes my three-year-old would eat without a hostage negotiation. Eventually someone said "you should write this down," so here we are.
 
 ---
