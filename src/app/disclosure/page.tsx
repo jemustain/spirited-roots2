@@ -69,7 +69,7 @@ export default function DisclosurePage() {
               If you click it and buy something, the brand gives us a small percentage of
               the sale. The price you pay stays exactly the same — you&rsquo;re not paying
               extra. These commissions help cover the costs of running this site (hosting,
-              domain, the occasional coffee that fuels late-night writing sessions ☕).
+              domain, the occasional coffee that fuels late-night writing sessions).
             </p>
 
             <h2 className="text-2xl font-bold text-plum-900 mt-8 mb-4">Questions?</h2>
