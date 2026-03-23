@@ -1,0 +1,20 @@
+#!/bin/sh
+
+# Pre-commit hook to run accessibility tests before allowing commits
+# This ensures color accessibility standards are maintained
+
+echo "🎨 Running accessibility checks..."
+
+# Run the color accessibility validation
+npm run check-accessibility
+
+# Check if the accessibility test passed
+if [ $? -ne 0 ]; then
+  echo "❌ Pre-commit FAILED: Accessibility tests did not pass"
+  echo "💡 Fix color contrast issues before committing"
+  echo "🔧 Run 'npm run check-accessibility' to see detailed results"
+  exit 1
+fi
+
+echo "✅ Accessibility tests passed! Proceeding with commit..."
+exit 0
