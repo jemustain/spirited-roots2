@@ -45,9 +45,9 @@ We've tried a few different stacking mugs. Here's the honest rundown:
 
 ### Our Daily Drivers
 
-**[Sweese Porcelain Stacking Mugs](https://www.amazon.com/s?k=sweese+stacking+mugs&tag=violetmama-20)** — These are what we use every single day. 15 oz, solid porcelain, microwave and dishwasher safe. They come in sets of six in different colors, and they stack beautifully. Not flimsy, not too heavy. Goldilocks mugs.
+**[BTaT Porcelain Stackable Coffee Mugs (12-Pack)](https://www.amazon.com/dp/B0BK4T73SP?&linkCode=ll2&tag=violetmama08-20&linkId=32feb0243f1e29bfd6fee2e04728c1db&language=en_US&ref_=as_li_ss_tl)** — These are what we use every single day. 12 oz, clean white porcelain, microwave and dishwasher safe. They come in a 12-pack, which sounds like a lot until you realize you can stack them all in the space of two mugs. Not flimsy, not too heavy. Goldilocks mugs.
 
-The handle is comfortable enough for a full grip, and the rim is smooth — no weird lip that makes drinking awkward. At around $30 for six, they're not precious enough to stress about. My kid has dropped one. It survived. (The floor tile did not, but that's a different story.)
+The handle is comfortable enough for a full grip, and the rim is smooth — no weird lip that makes drinking awkward. A 12-pack means you've got extras for guests without needing a second shelf. My kid has dropped one. It survived. (The floor tile did not, but that's a different story.)
 
 ### The Runner-Up
 
