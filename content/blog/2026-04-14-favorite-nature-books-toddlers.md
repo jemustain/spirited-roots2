@@ -23,7 +23,7 @@ Here are the ones we actually love, the ones that get read until the pages are s
 
 ### 1. We're Going on a Bear Hunt — Michael Rosen
 
-[**Get it on Amazon**](https://www.amazon.com/s?k=were+going+on+a+bear+hunt+michael+rosen&tag=violetmama-20)
+[**Get it on Amazon**](https://www.amazon.com/s?k=were+going+on+a+bear+hunt+michael+rosen&tag=violetmama08-20)
 
 If you don't own this book, fix that immediately. My son has been obsessed with it since before he could talk. The rhythm is perfect for little kids — "We can't go over it, we can't go under it, oh no, we've got to go through it!" He acts out every single page. The swishy swashy grass, the squelchy squerchy mud. It's physical and loud and exactly what toddlers need from a book.
 
@@ -31,7 +31,7 @@ We've gone through two copies. No regrets.
 
 ### 2. Over and Under the Snow — Kate Messner
 
-[**Get it on Amazon**](https://www.amazon.com/s?k=over+and+under+the+snow+kate+messner&tag=violetmama-20)
+[**Get it on Amazon**](https://www.amazon.com/s?k=over+and+under+the+snow+kate+messner&tag=violetmama08-20)
 
 This one teaches kids about the subnivean zone — the secret world under the snow where animals live in winter. Sounds dry, right? It's not. The illustrations by Christopher Silas Neal are stunning, and the "over and under" framing is so smart. My son loves pointing out which animals are hiding.
 
@@ -39,7 +39,7 @@ There's a whole series — *Over and Under the Pond*, *Up in the Garden and Down
 
 ### 3. The Curious Garden — Peter Brown
 
-[**Get it on Amazon**](https://www.amazon.com/s?k=the+curious+garden+peter+brown&tag=violetmama-20)
+[**Get it on Amazon**](https://www.amazon.com/s?k=the+curious+garden+peter+brown&tag=violetmama08-20)
 
 A boy discovers a struggling garden on an abandoned railway and decides to take care of it. The garden slowly transforms an entire gray city into something green and alive. The illustrations are incredible — you can watch the color literally spread across the pages.
 
@@ -47,7 +47,7 @@ My son doesn't fully get the environmental message yet. He just likes the part w
 
 ### 4. A Walk in the Forest — Maria Dek
 
-[**Get it on Amazon**](https://www.amazon.com/s?k=a+walk+in+the+forest+maria+dek&tag=violetmama-20)
+[**Get it on Amazon**](https://www.amazon.com/s?k=a+walk+in+the+forest+maria+dek&tag=violetmama08-20)
 
 Simple, gorgeous, and kind of meditative for a kids' book. It's a counting book disguised as a forest adventure — one fox, two boots, three birds. The art style is loose and whimsical and doesn't try too hard. My son points at things and names them, which is basically peak toddler engagement.
 
@@ -57,7 +57,7 @@ It's also short enough that I can read it at bedtime without falling asleep myse
 
 ### 5. The Hike — Alison Farrell
 
-[**Get it on Amazon**](https://www.amazon.com/s?k=the+hike+alison+farrell&tag=violetmama-20)
+[**Get it on Amazon**](https://www.amazon.com/s?k=the+hike+alison+farrell&tag=violetmama08-20)
 
 Three friends go on a hike and notice everything — animal tracks, wildflowers, rock formations. It's basically a field guide disguised as a picture book. Detailed illustrations that reward slow looking, which is great for the "wait, what's that?" phase.
 
@@ -65,7 +65,7 @@ My son tolerates this one more than loves it — it's a little busy for him stil
 
 ### 6. Goodbye Autumn, Hello Winter — Kenard Pak
 
-[**Get it on Amazon**](https://www.amazon.com/s?k=goodbye+autumn+hello+winter+kenard+pak&tag=violetmama-20)
+[**Get it on Amazon**](https://www.amazon.com/s?k=goodbye+autumn+hello+winter+kenard+pak&tag=violetmama08-20)
 
 The whole series covers seasonal transitions and they're all beautiful. The concept is simple — a child walks through the landscape saying goodbye to autumn things and hello to winter things. It's quiet and observational, which is a nice counterbalance to the louder books.
 
@@ -73,7 +73,7 @@ We read whichever one matches the actual season. Living in Arizona makes the win
 
 ### 7. Anywhere Farm — Phyllis Root
 
-[**Get it on Amazon**](https://www.amazon.com/s?k=anywhere+farm+phyllis+root&tag=violetmama-20)
+[**Get it on Amazon**](https://www.amazon.com/s?k=anywhere+farm+phyllis+root&tag=violetmama08-20)
 
 "Anywhere sun and rain can meet, anywhere soil and small seeds greet — that can be a farm." This book is about growing things in unexpected places — boots, cans, cracks in the sidewalk. It's the most realistic gardening-with-kids book I've found because it doesn't pretend you need a perfect raised bed and matching tools.
 
@@ -85,13 +85,13 @@ Just kidding. That's the Richard Louv book for parents about nature deficit diso
 
 ### 8. (Actual) In the Trees, Honey Bees — Lois Ehlert… Just Kidding, It's Lori Mortensen
 
-[**Get it on Amazon**](https://www.amazon.com/s?k=in+the+trees+honey+bees+lori+mortensen&tag=violetmama-20)
+[**Get it on Amazon**](https://www.amazon.com/s?k=in+the+trees+honey+bees+lori+mortensen&tag=violetmama08-20)
 
 Rhyming text about what goes on inside a beehive. The illustrations have a cool layered thing happening with cutaway views. My son is in a bug phase right now so this gets requested constantly. It's educational without being a textbook, which is the sweet spot for this age.
 
 ### 9. Because of an Acorn — Lola & Adam Schaefer
 
-[**Get it on Amazon**](https://www.amazon.com/s?k=because+of+an+acorn+lola+adam+schaefer&tag=violetmama-20)
+[**Get it on Amazon**](https://www.amazon.com/s?k=because+of+an+acorn+lola+adam+schaefer&tag=violetmama08-20)
 
 This one traces the chain reaction from a single acorn to a full forest ecosystem. Because of an acorn, a tree grows. Because of a tree, a bird nests. Because of a bird… you get it. Simple cause-and-effect that even toddlers can follow, and it plants (pun intended) the idea that everything in nature is connected.
 
