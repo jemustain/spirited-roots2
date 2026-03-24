@@ -59,7 +59,7 @@ We got a set of **[Elk and Friends silicone-wrapped stacking cups](https://www.a
 
 ### For Everyday Drinking Glasses
 
-**[Home Essentials & Beyond Drinking Glasses Set of 8](https://amzn.to/41bKwhD)** — We needed a matching set of everyday glasses that weren't flimsy but also weren't so precious we'd cry if one broke. This set nails it: four highball glasses (17 oz, perfect for water and iced tea) and four rocks glasses (13 oz, great for juice or a cocktail after bedtime). They're clear, simple, heavy enough to feel solid but not like you're lifting a dumbbell. Dishwasher safe, which is non-negotiable in this house. For the price, having a cohesive set that looks intentional on the shelf instead of a random gas station cup collection — worth it.
+**[Home Essentials Eclipse Highball Glasses (17 oz)](https://www.amazon.com/Home-Essentials-Eclipse-17oz-Hiball/dp/B005CJ3W1I/?th=1&linkCode=ll2&tag=violetmama08-20)** — These are our everyday glasses now. 17 oz highballs with a subtle curved design that makes them look way more intentional than your standard straight-sided glass. They're sturdy enough that I don't panic when my toddler reaches for one, and they fit comfortably in the hand. Perfect for water, iced tea, lemonade — basically everything we drink that isn't coffee. Dishwasher safe, which is non-negotiable in this house. They look like a set someone actually chose on purpose instead of a random gas station cup collection — and that's all I'm really asking for.
 
 ## The Mug Purge
 
