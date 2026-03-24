@@ -26,7 +26,7 @@ This is our biggest category, and it's where I'm the most strategic.
 **Where I splurge:**
 - **Organic milk and dairy.** This is my non-negotiable. My kid drinks a lot of milk, and the conventional dairy industry is… a lot. Store brand organic milk from Fry's (Kroger) is $5.99/gallon versus $8+ for Horizon. Same USDA organic certification, different label.
 - **Organic fruit — all of it.** This is where we chose to put our money. Berries, apples, bananas — we buy organic across the board. It's a real line item, but it's the hill I'll die on.
-- **Eggs.** Pasture-raised, usually [Vital Farms](https://www.amazon.com/s?k=vital+farms+eggs&tag=violetmama08-20). Yes, they're $7+ a dozen. I've accepted this about myself.
+- **Eggs.** Pasture-raised, usually [Vital Farms](https://www.amazon.com/dp/B01MZHDHVM?tag=violetmama08-20). Yes, they're $7+ a dozen. I've accepted this about myself.
 
 **Where I save:**
 - When we're in Washington, we buy eggs from a neighbor — fresher and cheaper than the store
@@ -41,10 +41,10 @@ Honestly, going fully organic on everything would push our grocery bill way high
 This one surprises people. Natural cleaning is actually *cheaper* than conventional if you DIY even a little.
 
 **What I buy:**
-- [Branch Basics Concentrate](https://www.amazon.com/s?k=branch+basics+concentrate&tag=violetmama08-20) — ~$35, lasts 2-3 months. Replaces all-purpose, glass cleaner, and laundry detergent.
-- [Dr. Bronner's Sal Suds](https://www.amazon.com/s?k=dr+bronners+sal+suds&tag=violetmama08-20) — ~$15, lasts 4+ months for heavy-duty cleaning
+- [Branch Basics Concentrate](https://www.amazon.com/dp/B0D9WG23V6?tag=violetmama08-20) — ~$35, lasts 2-3 months. Replaces all-purpose, glass cleaner, and laundry detergent.
+- [Dr. Bronner's Sal Suds](https://www.amazon.com/dp/B00016QO2U?tag=violetmama08-20) — ~$15, lasts 4+ months for heavy-duty cleaning
 - White vinegar — $3/gallon from the grocery store
-- [Bon Ami](https://www.amazon.com/s?k=bon+ami&tag=violetmama08-20) — $2.50 for scouring
+- [Bon Ami](https://www.amazon.com/dp/B01LWSJR02?tag=violetmama08-20) — $2.50 for scouring
 
 **What I make:**
 - All-purpose spray (vinegar + water + a splash of Branch Basics)
@@ -58,11 +58,11 @@ Total cost per month lands around $20-25. I was spending $30-40 on conventional 
 This is where "natural" gets expensive fast if you're not careful. The natural beauty industry has figured out that slapping "clean" on a label lets them charge double.
 
 **What I actually use:**
-- [Dr. Bronner's Castile Soap](https://www.amazon.com/s?k=dr+bronners+castile+soap&tag=violetmama08-20) for body wash — ~$16 for 32oz, lasts two months
-- [Native deodorant](https://www.amazon.com/s?k=native+deodorant&tag=violetmama08-20) — ~$12, works well enough (I've tried ten natural deodorants; most are terrible)
-- [Acure shampoo and conditioner](https://www.amazon.com/s?k=acure+shampoo&tag=violetmama08-20) — ~$10 each, last 6 weeks
+- [Dr. Bronner's Castile Soap](https://www.amazon.com/dp/B0BQT1RW14?tag=violetmama08-20) for body wash — ~$16 for 32oz, lasts two months
+- [Native deodorant](https://www.amazon.com/dp/B0G16FR6SC?tag=violetmama08-20) — ~$12, works well enough (I've tried ten natural deodorants; most are terrible)
+- [Acure shampoo and conditioner](https://www.amazon.com/dp/B082YG62JM?tag=violetmama08-20) — ~$10 each, last 6 weeks
 - Coconut oil for moisturizer — ~$8 from Costco, lasts forever
-- Mineral sunscreen — I like [Pipette](https://www.amazon.com/s?k=pipette+mineral+sunscreen&tag=violetmama08-20), about $14/tube
+- Mineral sunscreen — I like [Pipette](https://www.amazon.com/dp/B0CWVVQ169?tag=violetmama08-20), about $14/tube
 
 **Where I stopped trying:**
 - Natural toothpaste. I tried. They're gritty, they taste weird, and my dentist gave me a look. We use Sensodyne. I've made my peace with it.
@@ -75,9 +75,9 @@ Could I spend less with conventional products? Absolutely — maybe $25/month. B
 Kid products are where the "natural tax" is the most annoying, because companies know parents will pay extra for anything labeled "gentle" or "pure."
 
 **What I buy:**
-- [Pipette baby wash](https://www.amazon.com/s?k=pipette+baby+wash&tag=violetmama08-20) — $10, lasts a month. Clean ingredients, doesn't irritate his skin.
-- [Babyganics sunscreen](https://www.amazon.com/s?k=babyganics+sunscreen&tag=violetmama08-20) — ~$12, essential in Arizona
-- [Burt's Bees kids toothpaste](https://www.amazon.com/s?k=burts+bees+kids+toothpaste&tag=violetmama08-20) — ~$5
+- [Pipette baby wash](https://www.amazon.com/dp/B0FWB2CHPF?tag=violetmama08-20) — $10, lasts a month. Clean ingredients, doesn't irritate his skin.
+- [Babyganics sunscreen](https://www.amazon.com/dp/B0CMYH56S2?tag=violetmama08-20) — ~$12, essential in Arizona
+- [Burt's Bees kids toothpaste](https://www.amazon.com/dp/B09KP3JMH6?tag=violetmama08-20) — ~$5
 - Organic cotton clothes — I buy these secondhand on ThredUp or at consignment sales. New organic kids' clothes are absurdly expensive for something that's getting mud and spaghetti sauce on it within hours.
 
 **What I skip:**

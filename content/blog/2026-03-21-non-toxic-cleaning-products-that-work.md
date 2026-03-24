@@ -20,7 +20,7 @@ But I kept trying, because having a toddler who licks every surface (why do they
 
 ## The Products I Actually Use
 
-### [Branch Basics Concentrate](https://www.amazon.com/s?k=Branch+Basics+Concentrate&tag=violetmama08-20)
+### [Branch Basics Concentrate](https://www.amazon.com/dp/B0D9WG23V6?tag=violetmama08-20)
 **Cost**: ~$35 for starter kit, makes a ridiculous amount of cleaner
 
 This is my ride-or-die. One bottle of concentrate makes everything — all-purpose spray, glass cleaner, even laundry detergent. It handles sticky fingerprints, food splatter, and general kitchen grossness without any issues.
@@ -57,7 +57,7 @@ The only natural bathroom cleaner I've found that actually removes soap scum wit
 
 **Verdict**: 8/10.
 
-### [Seventh Generation Toilet Bowl Cleaner](https://www.amazon.com/s?k=Seventh+Generation+Toilet+Bowl+Cleaner&tag=violetmama08-20)
+### [Seventh Generation Toilet Bowl Cleaner](https://www.amazon.com/dp/B0C2R4YC9H?tag=violetmama08-20)
 **Cost**: ~$3.50
 
 It works. Not amazing, requires a bit more scrubbing than the chemical stuff, but it does the job.

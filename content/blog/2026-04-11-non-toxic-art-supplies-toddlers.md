@@ -21,7 +21,7 @@ I've tried a lot of stuff. Some of it was great. Some of it was expensive garbag
 
 ## The Art Supplies We Actually Use
 
-### [Honeysticks Pure Beeswax Crayons](https://www.amazon.com/s?k=honeysticks+pure+beeswax+crayons&tag=violetmama08-20)
+### [Honeysticks Pure Beeswax Crayons](https://www.amazon.com/dp/B01GSY9MD2?tag=violetmama08-20)
 **Price**: ~$17 for a pack of 12
 
 These are the gold standard for toddler crayons and I will die on this hill. Made from 100% New Zealand beeswax with food-grade pigments. They smell like honey, they're chubby enough for little hands to grip, and they don't snap in half every five seconds like regular crayons.
@@ -32,7 +32,7 @@ My son has chewed on these more times than I'd like to admit. They hold up, the 
 
 **Verdict**: 10/10. Buy these first.
 
-### [Eco-Kids Finger Paint](https://www.amazon.com/s?k=ecokids+finger+paint&tag=violetmama08-20)
+### [Eco-Kids Finger Paint](https://www.amazon.com/dp/B0D69LH55T?tag=violetmama08-20)
 **Price**: ~$25 for a set of 5
 
 Made from fruit, vegetable, and plant extracts. The ingredient list reads like a smoothie recipe — you could literally eat this paint. Which is good, because my kid did. Multiple times.
@@ -43,7 +43,7 @@ The colors are gorgeous. Rich, blendable, and they actually show up on paper. So
 
 **Verdict**: 9/10. The real deal.
 
-### [Colorations Washable Tempera Paint](https://www.amazon.com/s?k=colorations+washable+tempera+paint&tag=violetmama08-20)
+### [Colorations Washable Tempera Paint](https://www.amazon.com/dp/B0DNF5HHXL?tag=violetmama08-20)
 **Price**: ~$30 for a set of 11 colors
 
 Okay, this one isn't an all-natural-ingredients-you-can-eat situation, but it IS genuinely non-toxic (AP certified), and it's what I reach for when we're doing bigger projects. The washability is *actually* washable — it comes out of clothes, off tables, off walls, off skin. I've tested all of these scenarios involuntarily.
@@ -52,7 +52,7 @@ The colors are bold and the consistency is good. Not too thick, not too runny. G
 
 **Verdict**: 8/10. The practical everyday paint.
 
-### [OOLY Chunkies Paint Sticks](https://www.amazon.com/s?k=ooly+chunkies+paint+sticks&tag=violetmama08-20)
+### [OOLY Chunkies Paint Sticks](https://www.amazon.com/dp/B07TZ85WD9?tag=violetmama08-20)
 **Price**: ~$10 for a set of 12
 
 These are genius for toddlers who aren't quite ready for paint and brushes but are bored with crayons. They twist up like glue sticks, go on like paint, and dry in about 90 seconds. No cups of water, no brushes to wash, no paint smeared across the dog.
@@ -63,7 +63,7 @@ They're non-toxic and the colors are surprisingly vivid. My son figured out how 
 
 **Verdict**: 9/10. Lowest mess-to-fun ratio out there.
 
-### [Crayola My First Washable Tripod Crayons](https://www.amazon.com/s?k=crayola+my+first+washable+tripod+crayons&tag=violetmama08-20)
+### [Crayola My First Washable Tripod Crayons](https://www.amazon.com/dp/B079MD3SMD?tag=violetmama08-20)
 **Price**: ~$6 for a pack of 8
 
 I know, I know — Crayola isn't the crunchy choice. But these specific crayons are non-toxic (AP certified), and the triangular shape teaches correct pencil grip. My son transitioned from Honeysticks to these when his fine motor skills improved, and the shape genuinely helps him hold them properly.
@@ -72,7 +72,7 @@ They're also nearly indestructible. My kid has stepped on them, thrown them, and
 
 **Verdict**: 8/10. The bridge between chunky toddler crayons and regular ones.
 
-### [Clementine Art Natural Modeling Dough](https://www.amazon.com/s?k=clementine+art+natural+modeling+dough&tag=violetmama08-20)
+### [Clementine Art Natural Modeling Dough](https://www.amazon.com/dp/B0CLS7NJ5G?tag=violetmama08-20)
 **Price**: ~$22 for a set of 6
 
 Made from flour, salt, cream of tartar, and natural pigments. It smells nice, it's soft right out of the container, and I don't panic when pieces end up in mouths. The colors are more muted than Play-Doh — think earth tones and pastels instead of neon — which I actually prefer.

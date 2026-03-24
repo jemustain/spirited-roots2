@@ -45,7 +45,7 @@ What always travels with us:
 
 - **Clothes for the current season** plus a transition layer, because desert spring and PNW spring are not the same thing
 - **Homeschool materials** — our current books, art supplies, nature journals
-- **The car seat** — a [car seat travel bag](https://www.amazon.com/s?k=car+seat+travel+bag&tag=violetmama08-20) is non-negotiable if you're flying. Protects it and makes it carryable
+- **The car seat** — a [car seat travel bag](https://www.amazon.com/dp/B0009RNXNA?tag=violetmama08-20) is non-negotiable if you're flying. Protects it and makes it carryable
 - **Comfort items** — the specific blanket, the specific stuffed animal, the specific everything. You know how toddlers are
 
 What stays behind:
@@ -54,7 +54,7 @@ What stays behind:
 - Seasonal gear (winter coats stay in WA, sun hats stay in AZ)
 - Bulk pantry stuff — I just rebuy basics when we arrive
 
-I'm a big fan of [packing cubes](https://www.amazon.com/s?k=packing+cubes+for+travel&tag=violetmama08-20) for keeping everyone's stuff separated. My son has his own color. It makes unpacking at the other end way faster, and when you're arriving tired with a cranky toddler, "faster" is everything.
+I'm a big fan of [packing cubes](https://www.amazon.com/dp/B0CLVYTLFB?tag=violetmama08-20) for keeping everyone's stuff separated. My son has his own color. It makes unpacking at the other end way faster, and when you're arriving tired with a cranky toddler, "faster" is everything.
 
 ## How Homeschooling Makes It Possible
 
@@ -86,7 +86,7 @@ What helps:
 
 - **Keeping the routine consistent** — same bedtime, same morning rhythm, same meals as much as possible
 - **Bringing comfort items** — cannot stress this enough
-- **A [toddler travel backpack](https://www.amazon.com/s?k=toddler+travel+backpack&tag=violetmama08-20) with his own stuff** — letting him carry his own bag makes him feel like he's part of the trip, not just cargo
+- **A [toddler travel backpack](https://www.amazon.com/dp/B0CCTTXSWK?tag=violetmama08-20) with his own stuff** — letting him carry his own bag makes him feel like he's part of the trip, not just cargo
 - **Talking about it in advance** — "We're going to the green house! Remember the slugs?" builds excitement instead of anxiety
 
 ## Is It Worth It?
@@ -95,7 +95,7 @@ Some months I wonder. The packing alone takes a full day. We spend money on gas 
 
 But then we're standing on a rocky beach in Puget Sound and my son is shrieking about a crab, and the week before he was watching a cactus wren build a nest in our yard, and I think — yeah. This is a pretty cool childhood.
 
-Homeschooling gives us the freedom. Two different ecosystems give him the range. And a truly unreasonable amount of [travel-sized snack containers](https://www.amazon.com/s?k=travel+snack+containers+toddler&tag=violetmama08-20) give me the sanity.
+Homeschooling gives us the freedom. Two different ecosystems give him the range. And a truly unreasonable amount of [travel-sized snack containers](https://www.amazon.com/dp/B0D5BS9V1N?tag=violetmama08-20) give me the sanity.
 
 It's not for everyone. But if you're considering a multi-home setup with little kids and the freedom to do it — it's doable. It's chaotic. It's also kind of magical.
 
