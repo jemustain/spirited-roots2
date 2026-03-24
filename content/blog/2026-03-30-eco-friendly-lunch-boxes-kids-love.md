@@ -20,7 +20,7 @@ After too much trial and error, here's what actually works for us.
 
 ## Lunch Boxes
 
-### [PlanetBox Rover](https://www.amazon.com/dp/B004MLUQYS?tag=violetmama-20) — The One We Use Every Day
+### [PlanetBox Rover](https://www.amazon.com/dp/B004MLUQYS?tag=violetmama08-20) — The One We Use Every Day
 **Price**: $60-70
 
 Yeah, it's expensive. I know. But we've been using this thing for over a year and it still looks almost new. Stainless steel, doesn't stain, doesn't hold smells. The compartments are a good size, and my son likes being able to see everything at once.
@@ -29,33 +29,33 @@ The magnetic closure is a nice touch — easy for little hands. Completely leak-
 
 **Downsides**: Heavy, limited colors, and that price tag. But cost-per-use at this point is basically nothing.
 
-### [Bentgo Fresh](https://www.amazon.com/dp/B07B4K3KTH?tag=violetmama-20) — Good Budget Option
+### [Bentgo Fresh](https://www.amazon.com/dp/B07B4K3KTH?tag=violetmama08-20) — Good Budget Option
 **Price**: $25-30
 
 If you don't want to spend $60+ on a lunch box (fair), this is solid. It's plastic, but BPA-free. The portions are perfect for a toddler, and my kid can open it himself.
 
 Some staining with tomato-based foods, and it's technically top-rack-dishwasher-only. But for the price, I'm not complaining.
 
-### [LunchBots Cinco](https://www.amazon.com/s?k=LunchBots+Cinco+Stainless+Steel&tag=violetmama-20) — For When They're Older
+### [LunchBots Cinco](https://www.amazon.com/s?k=LunchBots+Cinco+Stainless+Steel&tag=violetmama08-20) — For When They're Older
 **Price**: $45-55
 
 Five compartments, all stainless steel, good build quality. I think this will be great when my son's a bit bigger and eating more variety. Right now the compartments are almost too many for him.
 
 ## Water Bottles
 
-### [Klean Kanteen Kid Classic](https://www.amazon.com/dp/B005LBOQBM?tag=violetmama-20) — Best Overall
+### [Klean Kanteen Kid Classic](https://www.amazon.com/dp/B005LBOQBM?tag=violetmama08-20) — Best Overall
 **Price**: $20-25
 
 My kid has been using this for a long time now. It's survived being dropped constantly, the sport cap is easy for him to use, and it keeps water cool. Truly leak-proof.
 
-### [Pura Kiki](https://www.amazon.com/dp/B003JN8CC0?tag=violetmama-20) — Good for Transitioning
+### [Pura Kiki](https://www.amazon.com/dp/B003JN8CC0?tag=violetmama08-20) — Good for Transitioning
 **Price**: $15-20
 
 The nice thing about Pura Kiki is you can swap out the top — sippy spout, straw, sport cap — as your kid grows. Medical-grade silicone. Lighter than some steel bottles.
 
 Downside: lots of small parts to keep track of.
 
-### [Simple Modern Kids](https://www.amazon.com/dp/B07FDB4NJN?tag=violetmama-20) — Budget Pick
+### [Simple Modern Kids](https://www.amazon.com/dp/B07FDB4NJN?tag=violetmama08-20) — Budget Pick
 **Price**: $12-18
 
 Good insulation, fun designs that my son actually cares about (I don't, but he does). Newer brand so I can't speak to long-term durability yet, but so far so good.

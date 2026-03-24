@@ -31,9 +31,9 @@ By 8:30 or so, we're outside. This is non-negotiable for us. Whether it's the ba
 This is school. I know it doesn't look like it, but this is where the best learning happens at this age. He's sorting rocks by size (math). He's describing what he sees (language). He's figuring out that if he stacks three rocks on top of each other, they fall over (physics, and also frustration tolerance).
 
 Some of our favorite outdoor gear:
-- [Melissa & Doug Bug Catching Kit](https://www.amazon.com/dp/B07B4K3KTH?tag=violetmama-20) — worth every penny
-- A good set of [kid binoculars](https://www.amazon.com/dp/B08GC4PXN8?tag=violetmama-20) — we've had ours for a year and they still work
-- Simple [nature journal](https://www.amazon.com/dp/B0BFWK2JLQ?tag=violetmama-20) for pressing flowers and taping in leaves
+- [Melissa & Doug Bug Catching Kit](https://www.amazon.com/dp/B07B4K3KTH?tag=violetmama08-20) — worth every penny
+- A good set of [kid binoculars](https://www.amazon.com/dp/B08GC4PXN8?tag=violetmama08-20) — we've had ours for a year and they still work
+- Simple [nature journal](https://www.amazon.com/dp/B0BFWK2JLQ?tag=violetmama08-20) for pressing flowers and taping in leaves
 
 ## Late Morning: The "Structured" Part
 
@@ -42,7 +42,7 @@ I put that in quotes because it's maybe 20-30 minutes of actual sit-down activit
 This is when we might do:
 - A puzzle or two
 - Read a stack of books (he's obsessed with anything about trucks and animals right now)
-- Play with [Magna-Tiles](https://www.amazon.com/dp/B000CBSNKQ?tag=violetmama-20) — genuinely the best toy purchase we've made
+- Play with [Magna-Tiles](https://www.amazon.com/dp/B000CBSNKQ?tag=violetmama08-20) — genuinely the best toy purchase we've made
 - Watercolor painting or playdough
 - Counting games with snacks (math they don't know is math)
 
@@ -54,11 +54,11 @@ That's the whole curriculum strategy: follow the kid.
 
 Lunch around noon. Then we do quiet time — not always a nap anymore, but at least an hour of books, audio stories, or quiet play in his room. This is also when I get work done or just sit in silence for five minutes like it's a spa day.
 
-A good [Toniebox](https://www.amazon.com/dp/B09JY1KJVZ?tag=violetmama-20) has been amazing for quiet time. He picks his own stories and I don't have to be the one reading for once.
+A good [Toniebox](https://www.amazon.com/dp/B09JY1KJVZ?tag=violetmama08-20) has been amazing for quiet time. He picks his own stories and I don't have to be the one reading for once.
 
 ## Afternoon: Sensory and Free Play
 
-Afternoons are loose. Sometimes it's a [sensory bin](https://www.amazon.com/dp/B0BJ7YCWDH?tag=violetmama-20) with rice and scoops. Sometimes it's building a blanket fort. Sometimes it's helping me cook dinner (by "helping" I mean dumping a cup of flour on the floor and eating cheese).
+Afternoons are loose. Sometimes it's a [sensory bin](https://www.amazon.com/dp/B0BJ7YCWDH?tag=violetmama08-20) with rice and scoops. Sometimes it's building a blanket fort. Sometimes it's helping me cook dinner (by "helping" I mean dumping a cup of flour on the floor and eating cheese).
 
 We also do a lot of practical life stuff in the afternoons — he helps load the washing machine, waters plants, feeds the dog water. Montessori people would call this "practical life skills." I call it "he wants to do what I'm doing so I might as well let him."
 

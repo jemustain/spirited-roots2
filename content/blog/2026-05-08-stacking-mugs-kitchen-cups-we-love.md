@@ -51,11 +51,11 @@ The handle is comfortable enough for a full grip, and the rim is smooth — no w
 
 ### The Runner-Up
 
-**[DOWAN Stackable Coffee Mugs](https://www.amazon.com/s?k=dowan+stackable+mugs&tag=violetmama-20)** — Similar concept, slightly different shape. These are 16 oz and a touch wider. If you like a bigger mug or tend to wrap both hands around your coffee, these might be your pick. They come in muted colors — think sage, cream, dusty blue — which fits a more neutral kitchen vibe.
+**[DOWAN Stackable Coffee Mugs](https://www.amazon.com/s?k=dowan+stackable+mugs&tag=violetmama08-20)** — Similar concept, slightly different shape. These are 16 oz and a touch wider. If you like a bigger mug or tend to wrap both hands around your coffee, these might be your pick. They come in muted colors — think sage, cream, dusty blue — which fits a more neutral kitchen vibe.
 
 ### For the Toddler
 
-We got a set of **[Elk and Friends silicone-wrapped stacking cups](https://www.amazon.com/s?k=elk+and+friends+toddler+cups&tag=violetmama-20)** for our son. Not mugs exactly, but they stack the same way and the silicone grip means fewer spills. He uses them for water, milk, and the aforementioned "hot chocolate" (lukewarm chocolate milk, let's be real). They're also great for smoothies and don't shatter when launched from a high chair.
+We got a set of **[Elk and Friends silicone-wrapped stacking cups](https://www.amazon.com/s?k=elk+and+friends+toddler+cups&tag=violetmama08-20)** for our son. Not mugs exactly, but they stack the same way and the silicone grip means fewer spills. He uses them for water, milk, and the aforementioned "hot chocolate" (lukewarm chocolate milk, let's be real). They're also great for smoothies and don't shatter when launched from a high chair.
 
 ## The Mug Purge
 

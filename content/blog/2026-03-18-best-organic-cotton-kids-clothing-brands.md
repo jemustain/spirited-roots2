@@ -89,9 +89,9 @@ Turn everything inside out before washing. It helps with color retention.
 
 Here are direct links to some of our favorites:
 
-- [Primary Kids Organic Tees](https://www.amazon.com/dp/B0BFWK2JLQ?tag=violetmama-20) — our everyday go-to
-- [Hanna Andersson Organic Pajamas](https://www.amazon.com/dp/B09JY1KJVZ?tag=violetmama-20) — the softest PJs we own
-- [Kate Quinn Bamboo Bodysuit](https://www.amazon.com/dp/B08GC4PXN8?tag=violetmama-20) — incredibly soft for babies/toddlers
+- [Primary Kids Organic Tees](https://www.amazon.com/dp/B0BFWK2JLQ?tag=violetmama08-20) — our everyday go-to
+- [Hanna Andersson Organic Pajamas](https://www.amazon.com/dp/B09JY1KJVZ?tag=violetmama08-20) — the softest PJs we own
+- [Kate Quinn Bamboo Bodysuit](https://www.amazon.com/dp/B08GC4PXN8?tag=violetmama08-20) — incredibly soft for babies/toddlers
 
 ## Bottom Line
 
