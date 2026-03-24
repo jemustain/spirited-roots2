@@ -27,37 +27,37 @@ After a year and a half of homeschooling, I've figured out what actually gets us
 
 ### Magna-Tiles
 
-[Magna-Tiles](https://www.amazon.com/s?k=magnatiles&tag=violetmama08-20) are the single best purchase I've made for homeschool. Full stop. My son builds with these every single day. Towers, houses, "garages" for his cars, enclosures for plastic dinosaurs. They teach geometry, spatial reasoning, and engineering without anyone having to say the word "geometry."
+[Magna-Tiles](https://www.amazon.com/dp/B0DW99M4NM?tag=violetmama08-20) are the single best purchase I've made for homeschool. Full stop. My son builds with these every single day. Towers, houses, "garages" for his cars, enclosures for plastic dinosaurs. They teach geometry, spatial reasoning, and engineering without anyone having to say the word "geometry."
 
 We started with the 100-piece set and it's been worth every overpriced penny. They've survived being thrown, stepped on, and used as drums. Still magnetic. Still clicking together. If you buy one thing on this list, make it these.
 
 ### A Good Laminator
 
-I resisted buying a [laminator](https://www.amazon.com/s?k=laminator&tag=violetmama08-20) because it felt like an "extra" teacher-mom purchase. I was wrong. I laminate everything now. Alphabet cards, number lines, nature scavenger hunt lists, little maps for our walks. My kid can use them with dry-erase markers and I don't have to reprint things every time they get destroyed.
+I resisted buying a [laminator](https://www.amazon.com/dp/B0DFT8SM2R?tag=violetmama08-20) because it felt like an "extra" teacher-mom purchase. I was wrong. I laminate everything now. Alphabet cards, number lines, nature scavenger hunt lists, little maps for our walks. My kid can use them with dry-erase markers and I don't have to reprint things every time they get destroyed.
 
 It also turns out that toddlers think the laminator itself is fascinating, so there's a solid five minutes of entertainment just watching paper go through it.
 
 ### Sensory Bins
 
-Not a specific product — more of a concept. A plastic bin, some dried rice or water beads, a few scoops and cups. That's it. My son will sit with a [sensory bin](https://www.amazon.com/s?k=sensory+bin&tag=violetmama08-20) for 45 minutes, which in toddler time is roughly six hours. We do themed bins sometimes (ocean animals in blue water beads, dinosaurs in dried pasta), but honestly plain rice and some measuring cups work just as well.
+Not a specific product — more of a concept. A plastic bin, some dried rice or water beads, a few scoops and cups. That's it. My son will sit with a [sensory bin](https://www.amazon.com/dp/B09BBKGMBB?tag=violetmama08-20) for 45 minutes, which in toddler time is roughly six hours. We do themed bins sometimes (ocean animals in blue water beads, dinosaurs in dried pasta), but honestly plain rice and some measuring cups work just as well.
 
 The mess is real. I won't lie about that. But the focus and fine motor practice are worth the vacuuming.
 
 ### Nature Journal
 
-We got a simple [sketch journal](https://www.amazon.com/s?k=sketch+journal&tag=violetmama08-20) and it's become one of our favorite things. After hikes or backyard time, we draw what we found — bugs, leaves, rocks, whatever. My son's "drawings" are mostly circles and scribbles, but he narrates them like he's presenting a thesis. "That's a beetle, mama. He lives in the dirt. He's nice."
+We got a simple [sketch journal](https://www.amazon.com/dp/1641523638?tag=violetmama08-20) and it's become one of our favorite things. After hikes or backyard time, we draw what we found — bugs, leaves, rocks, whatever. My son's "drawings" are mostly circles and scribbles, but he narrates them like he's presenting a thesis. "That's a beetle, mama. He lives in the dirt. He's nice."
 
 It's teaching observation, language, and sitting-still-for-two-minutes, which is a skill we're actively developing.
 
 ### Watercolor Set
 
-A decent [watercolor set](https://www.amazon.com/s?k=watercolor+set&tag=violetmama08-20) — not the fancy artist kind, just good washable ones — gets used almost daily. We paint leaves, we paint rocks, we paint our hands. Art is a huge part of how my kid processes the world, and watercolors are forgiving enough that there's no "wrong" way to use them.
+A decent [watercolor set](https://www.amazon.com/dp/B005E9KAHA?tag=violetmama08-20) — not the fancy artist kind, just good washable ones — gets used almost daily. We paint leaves, we paint rocks, we paint our hands. Art is a huge part of how my kid processes the world, and watercolors are forgiving enough that there's no "wrong" way to use them.
 
 Also: washable. I cannot stress this enough. Get the washable ones.
 
 ### A Big Roll of Butcher Paper
 
-[Butcher paper](https://www.amazon.com/s?k=butcher+paper&tag=violetmama08-20) taped to the floor or table is our most-used art surface. Better than coloring books (no lines to stay inside of, which eliminates the meltdown). We trace bodies, paint murals, practice letters, and make maps. One roll lasts forever and costs almost nothing.
+[Butcher paper](https://www.amazon.com/dp/B0CMMT4PMM?tag=violetmama08-20) taped to the floor or table is our most-used art surface. Better than coloring books (no lines to stay inside of, which eliminates the meltdown). We trace bodies, paint murals, practice letters, and make maps. One roll lasts forever and costs almost nothing.
 
 ---
 
