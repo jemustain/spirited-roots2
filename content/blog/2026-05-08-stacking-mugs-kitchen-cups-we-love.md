@@ -57,6 +57,10 @@ The handle is comfortable enough for a full grip, and the rim is smooth — no w
 
 We got a set of **[Elk and Friends silicone-wrapped stacking cups](https://www.amazon.com/dp/B08SLRQMW1?tag=violetmama08-20)** for our son. Not mugs exactly, but they stack the same way and the silicone grip means fewer spills. He uses them for water, milk, and the aforementioned "hot chocolate" (lukewarm chocolate milk, let's be real). They're also great for smoothies and don't shatter when launched from a high chair.
 
+### For Everyday Drinking Glasses
+
+**[Home Essentials & Beyond Drinking Glasses Set of 8](https://amzn.to/41bKwhD)** — We needed a matching set of everyday glasses that weren't flimsy but also weren't so precious we'd cry if one broke. This set nails it: four highball glasses (17 oz, perfect for water and iced tea) and four rocks glasses (13 oz, great for juice or a cocktail after bedtime). They're clear, simple, heavy enough to feel solid but not like you're lifting a dumbbell. Dishwasher safe, which is non-negotiable in this house. For the price, having a cohesive set that looks intentional on the shelf instead of a random gas station cup collection — worth it.
+
 ## The Mug Purge
 
 Switching to stacking mugs meant dealing with the old ones. And honestly? It felt good. We donated most of them. Kept two sentimental ones — one from a trip, one that was Ryan's — and let the rest go. If you're holding onto 14 mugs for a household of three, I give you permission to let some of them find new homes.
