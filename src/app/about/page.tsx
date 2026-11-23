@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import HeroImage from '@/components/HeroImage';
@@ -51,14 +50,14 @@ export default function AboutPage() {
               Hey There
             </h2>
             <p className="text-secondary-responsive text-lg leading-relaxed mb-4">
-              I'm Violet — a mom to one amazing little one, a software engineer by trade, 
+              I&apos;m Violet — a mom to one amazing little one, a software engineer by trade,
               and a crunchy mama by choice. Welcome to my corner of the internet.
             </p>
             <p className="text-secondary-responsive text-lg leading-relaxed">
               My days look like homeschool lessons that turn into backyard adventures, 
               herbal tea while I sneak in some coding, and way too much research into 
-              whatever natural product rabbit hole I've fallen into this week. 
-              It's chaotic and wonderful and I wouldn't trade it.
+              whatever natural product rabbit hole I&apos;ve fallen into this week.
+              It&apos;s chaotic and wonderful and I wouldn&apos;t trade it.
             </p>
           </section>
 
@@ -68,23 +67,23 @@ export default function AboutPage() {
               How I Got Here
             </h2>
             <p className="text-secondary-responsive text-lg leading-relaxed mb-4">
-              My son's dad died while I was pregnant. I became a mom and learned to grieve at the 
-              same time. Later I met my husband, and we've walked through three miscarriages 
+              My son&apos;s dad died while I was pregnant. I became a mom and learned to grieve at the
+              same time. Later I met my husband, and we&apos;ve walked through three miscarriages
               together. All of that loss shaped me — it made me intentional about how we live, 
               what we put in our bodies, how we spend our days. Nothing feels small anymore.
             </p>
             <p className="text-secondary-responsive text-lg leading-relaxed">
-              We're snowbirds — splitting time between Washington and Arizona depending on the season. 
-              I've built a life around raising my son with curiosity, fresh air, and a home full of 
+              We&apos;re snowbirds — splitting time between Washington and Arizona depending on the season.
+              I&apos;ve built a life around raising my son with curiosity, fresh air, and a home full of
               lavender and purple tones (because obviously). 
-              It's not perfect, but it's ours.
+              It&apos;s not perfect, but it&apos;s ours.
             </p>
           </section>
 
           {/* My Approach */}
           <section className="mb-12">
             <h2 className="text-2xl font-bold text-primary-responsive mb-6">
-              What We're About
+              What We&apos;re About
             </h2>
             <div className="grid md:grid-cols-2 gap-8">
               <div>
@@ -93,7 +92,7 @@ export default function AboutPage() {
                 </h3>
                 <p className="text-secondary-responsive leading-relaxed">
                   Screens stay minimal, adventures stay maximal. Forest walks, mud puddles, 
-                  and hands-on learning that follows my son's curiosity wherever it goes.
+                  and hands-on learning that follows my son&apos;s curiosity wherever it goes.
                 </p>
               </div>
               <div>
@@ -101,7 +100,7 @@ export default function AboutPage() {
                   Gentle Products
                 </h3>
                 <p className="text-secondary-responsive leading-relaxed">
-                  I'm picky about what we put on and in our bodies — eco-friendly clothing, 
+                  I&apos;m picky about what we put on and in our bodies — eco-friendly clothing,
                   natural self-care, wholesome food. If I recommend it, we actually use it.
                 </p>
               </div>
@@ -129,7 +128,7 @@ export default function AboutPage() {
           {/* What You'll Find Here */}
           <section className="mb-12">
             <h2 className="text-2xl font-bold text-primary-responsive mb-6">
-              What You'll Find Here
+              What You&apos;ll Find Here
             </h2>
             <p className="text-secondary-responsive text-lg leading-relaxed mb-6">
               This is a space for moms who want to live more naturally without the gatekeeping. 
@@ -162,10 +161,10 @@ export default function AboutPage() {
           {/* Connect Section */}
           <section className="section-bg rounded-lg p-8 text-center">
             <h2 className="text-2xl font-bold text-primary-responsive mb-4">
-              Let's Connect
+              Let&apos;s Connect
             </h2>
             <p className="text-secondary-responsive text-lg leading-relaxed mb-6 max-w-2xl mx-auto">
-              I'd love to hear from you — whether you're deep into the crunchy life 
+              I&apos;d love to hear from you — whether you&apos;re deep into the crunchy life
               or just getting started. Come say hi.
             </p>
             <div className="flex flex-wrap gap-3 justify-center mb-6">
